@@ -14,17 +14,17 @@ CLI: Cross-Cultural Issues - Identity Development Models (13 items)
 
 [223] A White adult in Helms's reintegration stage of White identity development recognizes their own racist views and justifies them by adopting beliefs that support White superiority and minority inferiority.
 
-[28] A White therapist in the final "autonomy" stage of Helms's model of White racial identity development has non-racist attitudes and a stable White identity not rooted in privilege, and is likely to be more effective when working with clients from racial or ethnic minority groups.
+[28-1] A White therapist in the final "autonomy" stage of Helms's model of White racial identity development has non-racist attitudes and a stable White identity not rooted in privilege, and is likely to be more effective when working with clients from racial or ethnic minority groups.
 
 [27] According to Helms's White racial identity development model, people in the initial contact stage have little awareness of racial or cultural issues.
 
-[28] Troiden's homosexual identity development model consists of four stages: sensitization, identity confusion, identity assumption, and commitment.
+[28-2] Troiden's homosexual identity development model consists of four stages: sensitization, identity confusion, identity assumption, and commitment.
 
 [124] Racial salience is affected by the current situation and racial centrality in Seller et al.'s (1998) multidimensional model of racial identity.
 
 [05] The multidimensional model of racial identity (MMRI) developed by Sellers and colleagues (1998) distinguishes between four dimensions of African American identity, excluding racial disparity.
 
-[28] According to Atkinson, Morten, and Sue's (1998) racial/cultural identity development (R/CID) model, people belonging to a racial/cultural minority group who are questioning their attitudes toward their own minority group and the majority group are in the dissonance stage of identity development.
+[28-3] According to Atkinson, Morten, and Sue's (1998) racial/cultural identity development (R/CID) model, people belonging to a racial/cultural minority group who are questioning their attitudes toward their own minority group and the majority group are in the dissonance stage of identity development.
 
 [018] The initial stage of most racial/ethnic identity development models is characterized by disinterest in or rejection of one's own racial/ethnic identity.
 
@@ -64,39 +64,39 @@ CLI: Cross-Cultural Issues - Terms and Concepts (42 items)
 
 [207] A White therapist with an internal locus of control and internal locus of responsibility is likely to encounter the most difficulties when working with clients from an ethnic or racial minority group who have an internal locus of control and external locus of responsibility.
 
-[23] Sue and Sue describe most Western approaches to therapy as reflecting an internal locus of control and internal locus of responsibility.
+[23-1] Sue and Sue describe most Western approaches to therapy as reflecting an internal locus of control and internal locus of responsibility.
 
 [27] Clients in the pre-encounter stage of Cross's (2001) model of Black racial identity development have low racial identity salience and ordinarily prefer a White therapist.
 
-[25] High-context communication relies heavily on group understanding, nonverbal messages, and the context in which the communication occurs, while low-context communication relies on the verbal message and is independent of the context, as illustrated by the difference in communication between twins raised together and two American lawyers during a trial.
+[25-1] High-context communication relies heavily on group understanding, nonverbal messages, and the context in which the communication occurs, while low-context communication relies on the verbal message and is independent of the context, as illustrated by the difference in communication between twins raised together and two American lawyers during a trial.
 
-[24] A therapist who has an emic perspective believes that culture affects how psychological symptoms are experienced and expressed and how clients respond to therapeutic interventions.
+[24-1] A therapist who has an emic perspective believes that culture affects how psychological symptoms are experienced and expressed and how clients respond to therapeutic interventions.
 
-[26] Meyer concluded that higher prevalence rates of mental disorders among members of LGB populations are due to minority stress - i.e., exposure to stigma, prejudice, and discrimination which creates a hostile and stressful social environment that causes mental health problems.
+[26-1] Meyer concluded that higher prevalence rates of mental disorders among members of LGB populations are due to minority stress - i.e., exposure to stigma, prejudice, and discrimination which creates a hostile and stressful social environment that causes mental health problems.
 
-[24] A person who rejects the values, beliefs, and cultural practices of both their own minority group and the dominant (majority) group has adopted the marginalization acculturation strategy.
+[24-2] A person who rejects the values, beliefs, and cultural practices of both their own minority group and the dominant (majority) group has adopted the marginalization acculturation strategy.
 
-[23] Autoplastic interventions are designed to change the individual so he or she can better adapt to the demands of the environment.
+[23-2] Autoplastic interventions are designed to change the individual so he or she can better adapt to the demands of the environment.
 
-[25] Of the three types of microaggression described by Sue and his colleagues (2007), microassault is most similar to "old-fashioned" racism, which consists of "an explicit racial derogation characterized by a verbal or nonverbal attack meant to hurt the intended victim through name-calling, avoidant behavior, or purposeful discriminatory actions".
+[25-2] Of the three types of microaggression described by Sue and his colleagues (2007), microassault is most similar to "old-fashioned" racism, which consists of "an explicit racial derogation characterized by a verbal or nonverbal attack meant to hurt the intended victim through name-calling, avoidant behavior, or purposeful discriminatory actions".
 
-[26] Based on their review of the literature, S. Sue, N. Zane, G. C. Nagayama Hall, and L. K. Berger conclude that the preponderance of evidence shows that culturally adapted interventions provide benefit to intervention outcomes, but this added value is more apparent in the research on adults than on children and youths.
+[26-2] Based on their review of the literature, S. Sue, N. Zane, G. C. Nagayama Hall, and L. K. Berger conclude that the preponderance of evidence shows that culturally adapted interventions provide benefit to intervention outcomes, but this added value is more apparent in the research on adults than on children and youths.
 
 [03] A Black therapy client with an IC-ER worldview is likely to be the most challenging for a White middle-class therapist with an IC-IR worldview.
 
 [14] The immigrant paradox refers to the research finding that, for some immigrant groups, recent immigrants often have better health and educational outcomes than more established immigrants and nonimmigrants.
 
-[24] The type of microaggression where communications exclude, negate, or nullify the psychological thoughts, feelings, or experiential reality of a person of color is referred to as microinvalidation.
+[24-3] The type of microaggression where communications exclude, negate, or nullify the psychological thoughts, feelings, or experiential reality of a person of color is referred to as microinvalidation.
 
-[25] Multicultural awareness leads to diagnostic overshadowing when it causes a clinician to attribute a client's presenting problem to the client's cultural background without considering the possibility that the problem could be due to an unrelated issue or condition.
+[25-3] Multicultural awareness leads to diagnostic overshadowing when it causes a clinician to attribute a client's presenting problem to the client's cultural background without considering the possibility that the problem could be due to an unrelated issue or condition.
 
 [01] The factors that determine whether a culture is "tight" or "loose" are the strength of social norms and tolerance for deviance, where tight cultures have strong social norms and low tolerance for deviant behaviors, while loose cultures have weak social norms and high tolerance for deviant behaviors.
 
 [15] Cultural distance refers to how well the culture of an immigrant's home country matches the culture of the host country.
 
-[23] An African American woman using a skin-whitening cream because she believes she'll be more attractive and will be treated with greater respect if she has lighter skin is an example of colorism, a form of internalized racism.
+[23-3] An African American woman using a skin-whitening cream because she believes she'll be more attractive and will be treated with greater respect if she has lighter skin is an example of colorism, a form of internalized racism.
 
-[26] When an African American client of a White therapist is unwilling to disclose personal information due to cultural paranoia, which refers to "a minority group member's healthy reaction to racism," the therapist should discuss the meaning of the client's paranoia with them.
+[26-3] When an African American client of a White therapist is unwilling to disclose personal information due to cultural paranoia, which refers to "a minority group member's healthy reaction to racism," the therapist should discuss the meaning of the client's paranoia with them.
 
 [021] For members of cultural groups that emphasize high-context communication, knowledge depends largely on the nature of the situation and communication relies primarily on nonverbal messages.
 
@@ -114,7 +114,7 @@ CLI: Cross-Cultural Issues - Terms and Concepts (42 items)
 
 [011] Assigning a level of intelligence to a person of color on the basis of the person's race is a type of microinsult, as described by Sue et al. (2007).
 
-[128] Error: Rewrite failed
+[128] The Generations Study was a five-year study that examined the health and well-being of lesbian, gay, and bisexual (LGB) individuals who represented three age cohorts: 18-25, 34-41, and 52-59. Included in this study were questions about participants' ages when they first experienced five sexual identity milestones: awareness of same-sex attraction; self-identification as lesbian, gay, or bisexual; same-sex sexual behavior; disclosure as a sexual minority to a straight friend; and disclosure as a sexual minority to a family member. Consistent with previous research, Bishop, Fish, Hammack, and Russell found that members of the younger cohort reported first experiencing all milestones at the youngest ages, while members of the older cohort reported first experiencing all milestones at the oldest ages.
 
 [170] According to Meyer's minority stress theory, perceived stigma and internalized heterosexism are proximal factors that increase the risk for mental health problems for sexual-minority individuals.
 
@@ -130,17 +130,17 @@ SOC: Affiliation, Attraction, and Intimacy (9 items)
 
 [125] Berscheid's (1991) emotion-in-relationships model identifies unexpected behaviors that interrupt usual behavioral routines as a cause of strong emotions in close relationships.
 
-[12] Consistent with evolutionary theory, research has generally found that men tend to be more upset by a partner's sexual infidelity, while women tend to be more upset by a partner's emotional infidelity.
+[12-1] Consistent with evolutionary theory, research has generally found that men tend to be more upset by a partner's sexual infidelity, while women tend to be more upset by a partner's emotional infidelity.
 
-[11] Byrne's law of attraction states that the positive relationship between attitude similarity and interpersonal attraction is due to the reinforcing effect of interacting with people who have similar attitudes, as it validates one's views and produces good feelings.
+[11-1] Byrne's law of attraction states that the positive relationship between attitude similarity and interpersonal attraction is due to the reinforcing effect of interacting with people who have similar attitudes, as it validates one's views and produces good feelings.
 
-[12] When a competent person commits a blunder, that person's attractiveness to others tends to increase, according to research on the "pratfall effect".
+[12-2] When a competent person commits a blunder, that person's attractiveness to others tends to increase, according to research on the "pratfall effect".
 
 [13] The gain-loss effect explains that people are more attracted to those who initially dislike them but then change their minds after getting to know them.
 
-[11] According to Donn Byrne's (1971) law of attraction, people are most likely to be attracted to those who provide them with more reinforcement than punishment, and there is a positive relationship between attitude similarity and attraction since interacting with people who have similar attitudes is reinforcing.
+[11-2] According to Donn Byrne's (1971) law of attraction, people are most likely to be attracted to those who provide them with more reinforcement than punishment, and there is a positive relationship between attitude similarity and attraction since interacting with people who have similar attitudes is reinforcing.
 
-[12] Berscheid's emotion-in-relationships model is most useful for understanding why the elicitation of strong emotions occurs less often in the later (versus earlier) stages of an intimate relationship.
+[12-3] Berscheid's emotion-in-relationships model is most useful for understanding why the elicitation of strong emotions occurs less often in the later (versus earlier) stages of an intimate relationship.
 
 [178] Most cross-cultural studies have found that men prefer a low waist-to-hip ratio of .70, which means that waist circumference is about 70% of hip circumference.
 
@@ -154,35 +154,35 @@ SOC: Attitudes and Attitude Change (18 items)
 
 [058] Cognitive dissonance theory explains the results of a study where children who faced the threat of mild punishment said they disliked an attractive toy they were told not to play with, unlike those who faced the threat of more severe punishment.
 
-[037] According to the theory of planned behavior, attitudes influence a person's behavior intention which, in turn, affects the person's behavior, and three factors influence a person's behavior intention: the person's attitude toward the behavior, what the person thinks others believe he/she should do (subjective norms), and the person's confidence in his/her ability to perform the behavior (perceived behavior control).
+[037-1] According to the theory of planned behavior, attitudes influence a person's behavior intention which, in turn, affects the person's behavior, and three factors influence a person's behavior intention: the person's attitude toward the behavior, what the person thinks others believe he/she should do (subjective norms), and the person's confidence in his/her ability to perform the behavior (perceived behavior control).
 
 [059] The overjustification effect occurs when obtaining external rewards for engaging in a behavior reduces intrinsic motivation to perform that behavior.
 
 [048] The more ego-involved a person is with one side of the issue addressed by a persuasive message, the smaller his/her latitudes of acceptance and non-commitment and the larger his/her latitude of rejection, according to social judgment theory.
 
-[05] Heider's (1958) balance theory predicts that the relationships among a person (P), another person (O), and an attitude object or event (X) can be either balanced or unbalanced, and an unbalanced situation causes discomfort, which the person (P) will be motivated to change.
+[05-1] Heider's (1958) balance theory predicts that the relationships among a person (P), another person (O), and an attitude object or event (X) can be either balanced or unbalanced, and an unbalanced situation causes discomfort, which the person (P) will be motivated to change.
 
-[04] According to the prototype/willingness model, a person's willingness to engage in a behavior depends on the person's perceived acceptability of the behavior that, in turn, is determined by the person's prototype (social image) of people who engage in that behavior.
+[04-1] According to the prototype/willingness model, a person's willingness to engage in a behavior depends on the person's perceived acceptability of the behavior that, in turn, is determined by the person's prototype (social image) of people who engage in that behavior.
 
-[06] According to the elaboration likelihood model (Petty & Cacioppo, 1981), the viewer used the peripheral route to process the information presented in the infomercial, as she was influenced by the credibility and attractiveness of the spokesperson rather than the content of the message.
+[06-1] According to the elaboration likelihood model (Petty & Cacioppo, 1981), the viewer used the peripheral route to process the information presented in the infomercial, as she was influenced by the credibility and attractiveness of the spokesperson rather than the content of the message.
 
-[05] Adult smokers are more likely to successfully quit smoking when they have a negative image of the "typical" smoker, as predicted by the prototype/willingness model.
+[05-2] Adult smokers are more likely to successfully quit smoking when they have a negative image of the "typical" smoker, as predicted by the prototype/willingness model.
 
-[07] Subjects in Schachter and Singer's (1962) "epinephrine studies" who were given false or no information about the drug's effects reported feeling angry, as predicted by self-perception theory.
+[07-1] Subjects in Schachter and Singer's (1962) "epinephrine studies" who were given false or no information about the drug's effects reported feeling angry, as predicted by self-perception theory.
 
-[04] According to the theory of planned behavior, a person's intention to perform a particular behavior is the best predictor of whether or not he or she will engage in the behavior.
+[04-2] According to the theory of planned behavior, a person's intention to perform a particular behavior is the best predictor of whether or not he or she will engage in the behavior.
 
-[07] Martina will likely decide either that she likes Julian or doesn't like the car that Julian bought to establish balance according to balance theory.
+[07-2] Martina will likely decide either that she likes Julian or doesn't like the car that Julian bought to establish balance according to balance theory.
 
-[06] The results of the E. Aronson and J. Mills study confirmed the prediction of cognitive dissonance theory that subjects would justify the suffering they endured to be accepted into a group by deciding that the group was worth the suffering.
+[06-2] The results of the E. Aronson and J. Mills study confirmed the prediction of cognitive dissonance theory that subjects would justify the suffering they endured to be accepted into a group by deciding that the group was worth the suffering.
 
-[05] According to Sherif and Hovland's (1961) social judgment theory, an "internal anchor" is a person's attitude toward an issue prior to hearing a persuasive message about that issue.
+[05-3] According to Sherif and Hovland's (1961) social judgment theory, an "internal anchor" is a person's attitude toward an issue prior to hearing a persuasive message about that issue.
 
 [007] The Health Belief Model does not identify behavioral norms as a factor contributing to the likelihood that a person will engage in behaviors that reduce the risk for developing a disorder.
 
 [132] Evidence for self-perception theory is provided by studies confirming the overjustification effect, which predicts that, when people are externally reinforced for engaging in an intrinsically rewarding behavior, they'll think they are performing the behavior because of the external rewards, which will cause their intrinsic motivation to decline.
 
-[037] When people are unable to end their cognitive dissonance by replacing, subtracting, or adding cognitions, they will most likely decrease the importance of the dissonant cognition.
+[037-2] When people are unable to end their cognitive dissonance by replacing, subtracting, or adding cognitions, they will most likely decrease the importance of the dissonant cognition.
 
 --------------------------------------------------------------------------------
 SOC: Persuasion (10 items)
@@ -202,9 +202,9 @@ SOC: Persuasion (10 items)
 
 [09] McGuire's (1973) attitude inoculation hypothesis proposes that people are less likely to be induced by a persuasive message to change their attitudes when they've heard a weak argument against their current attitude and refutations of that argument before being exposed to the persuasive message.
 
-[08] The "sleeper effect" occurs when, over time, people tend to remember the persuasive message but forget its source.
+[08-1] The "sleeper effect" occurs when, over time, people tend to remember the persuasive message but forget its source.
 
-[08] Research by Hovland, Janis, and Kelley (1953) found that the credibility of the source of a persuasive message is affected primarily by the source's level of expertise and trustworthiness.
+[08-2] Research by Hovland, Janis, and Kelley (1953) found that the credibility of the source of a persuasive message is affected primarily by the source's level of expertise and trustworthiness.
 
 [002] McGuire's attitude inoculation hypothesis addresses the usefulness of a refutational defense for increasing resistance to persuasion.
 
@@ -228,15 +228,15 @@ SOC: Prosocial Behavior and Prejudice/Discrimination (20 items)
 
 [143] Tajfel and Turner's social identity theory proposes that prejudice and discrimination are attributable to a natural tendency to categorize people into groups.
 
-[14] Hovland and Sears (1940) found that, as the market price for cotton decreased between 1882 and 1930 in the Deep South, the number of lynchings of African American men increased, which is best predicted by scapegoat theory.
+[14-1] Hovland and Sears (1940) found that, as the market price for cotton decreased between 1882 and 1930 in the Deep South, the number of lynchings of African American men increased, which is best predicted by scapegoat theory.
 
-[13] Research on the "jigsaw classroom" found that having students work together in teams to complete an assignment helped reduce intergroup hostility caused by racial and ethnic differences, consistent with studies assessing the effects of superordinate goals.
+[13-1] Research on the "jigsaw classroom" found that having students work together in teams to complete an assignment helped reduce intergroup hostility caused by racial and ethnic differences, consistent with studies assessing the effects of superordinate goals.
 
-[14] Diffusion of responsibility is most useful for explaining why social loafing occurs, as it predicts that members of a group exert less effort when working on a task because they feel the responsibility is shared with others.
+[14-2] Diffusion of responsibility is most useful for explaining why social loafing occurs, as it predicts that members of a group exert less effort when working on a task because they feel the responsibility is shared with others.
 
-[13] Aversive racism is characterized by a combination of egalitarian values and anti-minority feelings.
+[13-2] Aversive racism is characterized by a combination of egalitarian values and anti-minority feelings.
 
-[14] The previous research mentioned in the question, conducted by R. L. Piferi, R. L. Jobe, and W. H. Jones, found that subjects gave several reasons for donating money or providing other assistance to victims of 9/11, but the altruistic motivation (helping to improve the victims' well-being) was most predictive of future donations and assistance.
+[14-3] The previous research mentioned in the question, conducted by R. L. Piferi, R. L. Jobe, and W. H. Jones, found that subjects gave several reasons for donating money or providing other assistance to victims of 9/11, but the altruistic motivation (helping to improve the victims' well-being) was most predictive of future donations and assistance.
 
 [004] Altruistic motivation (helping to improve the victims' well-being) for helping victims of a tragedy was more predictive than egoistic motivation (helping to alleviate one's own suffering) for predicting future helping.
 
@@ -266,11 +266,11 @@ SOC: Social Cognition - Causal Attributions (7 items)
 
 [003] The fundamental attribution error is the tendency to overestimate the role of dispositional factors and underestimate the role of situational factors when making attributions about the behaviors of other people.
 
-[01] The ultimate attribution error applies to attributions made about members of an entire group, where members of an in-group consistently attribute the negative outcomes of out-group members to dispositional factors and their positive outcomes to situational factors.
+[01-1] The ultimate attribution error applies to attributions made about members of an entire group, where members of an in-group consistently attribute the negative outcomes of out-group members to dispositional factors and their positive outcomes to situational factors.
 
-[01] This study provided support for the actor-observer effect, which predicts that actors tend to attribute their own behaviors to situational factors while observers tend to attribute them to dispositional factors.
+[01-2] This study provided support for the actor-observer effect, which predicts that actors tend to attribute their own behaviors to situational factors while observers tend to attribute them to dispositional factors.
 
-[01] The fundamental attribution error, which is the tendency to overestimate the role of dispositional factors and underestimate the role of situational factors when making attributions about the behaviors of other people, is illustrated by the conclusion of the students who assume that the position the student advocated in his speech reflects his actual position, even though they know the topic was assigned to him.
+[01-3] The fundamental attribution error, which is the tendency to overestimate the role of dispositional factors and underestimate the role of situational factors when making attributions about the behaviors of other people, is illustrated by the conclusion of the students who assume that the position the student advocated in his speech reflects his actual position, even though they know the topic was assigned to him.
 
 [001] A friend tends to attribute their own behaviors to situational factors but the behaviors of other people to dispositional factors, illustrating the actor-observer bias.
 
@@ -279,16 +279,10 @@ SOC: Social Cognition - Causal Attributions (7 items)
 [6] The ultimate attribution bias describes the tendency for people to attribute the desirable behaviors of members of their in-group to dispositional factors but the desirable behaviors of out-group members to situational factors, and to attribute the undesirable behaviors of members of their in-group to situational factors and the undesirable behaviors of out-group members to dispositional factors.
 
 --------------------------------------------------------------------------------
-SOC: Social Cognition - Errors, Bias, and Heuristics (1 items)
+SOC: Social Cognition - Errors, Biases, and Heuristics (15 items)
 --------------------------------------------------------------------------------
 
-[053] The use of the simulation heuristic tends to intensify a person's emotional reaction to a negative event that has already occurred.
-
---------------------------------------------------------------------------------
-SOC: Social Cognition - Errors, Biases, and Heuristics (14 items)
---------------------------------------------------------------------------------
-
-[014] The confirmation bias is the tendency to seek and pay attention to information that confirms our attitudes and beliefs and to ignore information that refutes them.
+[014-1] The confirmation bias is the tendency to seek and pay attention to information that confirms our attitudes and beliefs and to ignore information that refutes them.
 
 [025] The tendency to overestimate the frequency of deaths due to plane crashes and shark attacks and underestimate deaths due to heart disease can be attributed to the use of the availability heuristic.
 
@@ -298,23 +292,25 @@ SOC: Social Cognition - Errors, Biases, and Heuristics (14 items)
 
 [004] The self-serving bias is the tendency to attribute our successes to dispositional factors and our failures to situational factors.
 
-[02] The base rate fallacy is the tendency to be influenced more by information about an individual case than by base rate data when estimating the frequency of a particular event.
+[02-1] The base rate fallacy is the tendency to be influenced more by information about an individual case than by base rate data when estimating the frequency of a particular event.
 
-[03] The "anchor" in the anchoring and adjustment heuristic is the starting point from which people estimate the frequency of an event or other value and then make upward or downward adjustments.
+[03-1] The "anchor" in the anchoring and adjustment heuristic is the starting point from which people estimate the frequency of an event or other value and then make upward or downward adjustments.
 
-[02] The illusory correlation attributes the tendency to overestimate the extent to which members of certain minority groups engage in criminal behavior to the fact that minority group status and criminal behavior are distinctive and relatively rare phenomena.
+[02-2] The illusory correlation attributes the tendency to overestimate the extent to which members of certain minority groups engage in criminal behavior to the fact that minority group status and criminal behavior are distinctive and relatively rare phenomena.
 
-[03] Believing that a random event is more likely to occur because it hasn't occurred recently is an example of the gambler's fallacy, which is the tendency to believe that the occurrence of a chance event is affected by the occurrence of previous chance events.
+[03-2] Believing that a random event is more likely to occur because it hasn't occurred recently is an example of the gambler's fallacy, which is the tendency to believe that the occurrence of a chance event is affected by the occurrence of previous chance events.
 
 [04] Self-verification theory predicts that, regardless of whether people have positive or negative self-concepts, they seek feedback from and prefer to spend time with others who confirm their self-concepts.
 
-[02] Illusory control is the belief that one can control or influence events that are outside one's control, which explains why people engage in superstitious behaviors like wearing a "lucky shirt" to increase their chance of winning while gambling.
+[02-3] Illusory control is the belief that one can control or influence events that are outside one's control, which explains why people engage in superstitious behaviors like wearing a "lucky shirt" to increase their chance of winning while gambling.
 
-[03] A person's tendency to dismiss any information that doesn't support their current attitude about a controversial issue illustrates the confirmation bias.
+[03-3] A person's tendency to dismiss any information that doesn't support their current attitude about a controversial issue illustrates the confirmation bias.
 
-[014] The base rate fallacy (also known as base rate neglect) is the tendency to ignore or underuse base rate information and to rely, instead, on irrelevant information, which is most similar to the representativeness heuristic.
+[014-2] The base rate fallacy (also known as base rate neglect) is the tendency to ignore or underuse base rate information and to rely, instead, on irrelevant information, which is most similar to the representativeness heuristic.
 
 [005] Gamblers may exhibit illusory control, which is the belief that certain superstitious objects or rituals (e.g., blowing on dice) can alter outcomes, especially outcomes that are random or due to chance.
+
+[053] The use of the simulation heuristic tends to intensify a person's emotional reaction to a negative event that has already occurred.
 
 --------------------------------------------------------------------------------
 SOC: Social Influence - Group Influences (9 items)
@@ -328,11 +324,11 @@ SOC: Social Influence - Group Influences (9 items)
 
 [114] Steiner (1972) distinguished between five types of group tasks: additive, compensatory, disjunctive, conjunctive, and discretionary, and when working on a compensatory task, the group's output is the average of each member's estimate, judgment, or other input.
 
-[10] Tuckman and Jensen's (1977) five-stage model of group development indicates that the norming stage is characterized by the growth of group cohesion and commitment, attempts to resolve conflicts, and the establishment of rules, procedures, and group norms.
+[10-1] Tuckman and Jensen's (1977) five-stage model of group development indicates that the norming stage is characterized by the growth of group cohesion and commitment, attempts to resolve conflicts, and the establishment of rules, procedures, and group norms.
 
 [11] Social loafing is less likely to occur when a group is small and cohesive and members believe that the task is personally meaningful, that they'll be punished for poor performance, and that their individual contributions are necessary for a successful outcome and will be identified and evaluated.
 
-[10] In a conjunctive task, the final group performance is limited by the performance of the least skilled or least knowledgeable group member.
+[10-2] In a conjunctive task, the final group performance is limited by the performance of the least skilled or least knowledgeable group member.
 
 [003] When forming a work team to complete an important project, social loafing is most likely to have a negative effect on the team's performance when the team is large and only the total group performance will be assessed.
 
@@ -346,13 +342,13 @@ SOC: Social Influence - Types of Influence (8 items)
 
 [092] The conformity exhibited by subjects in Asch's (1956) study was the result of normative influence.
 
-[09] The foot-in-the-door technique explains why "teachers" in Milgram's obedience to authority study complied with the experimenter's order to increase the level of shock they delivered to the "learner".
+[09-1] The foot-in-the-door technique explains why "teachers" in Milgram's obedience to authority study complied with the experimenter's order to increase the level of shock they delivered to the "learner".
 
 [08] Before conducting his studies, Milgram asked psychiatrists to predict that only 1 in 1,000 "teachers" would obey the experimenter's order to deliver the highest levels of shock to the "learner".
 
 [10] Psychological reactance, where people feel that pressure to behave in a particular way threatens their personal freedom and respond by doing the opposite, can best explain a boy's reaction of teasing his sister and her friend more after being told to stop teasing his sister.
 
-[09] Introducing superordinate goals that can be achieved only when hostile groups work together cooperatively can turn enemies into friends.
+[09-2] Introducing superordinate goals that can be achieved only when hostile groups work together cooperatively can turn enemies into friends.
 
 [006] Informational influence is usually stronger than normative influence when the task is ambiguous and difficult.
 

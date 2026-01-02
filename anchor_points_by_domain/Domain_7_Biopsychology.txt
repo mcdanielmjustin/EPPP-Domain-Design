@@ -8,7 +8,7 @@ Total Anchor Points: 192
 LEA: Memory and Forgetting (31 items)
 --------------------------------------------------------------------------------
 
-[136] Proactive interference occurs when prior learning (e.g., Spanish) interferes with the ability to learn or recall new information (e.g., French), as illustrated by Ella's experience.
+[136-1] Proactive interference occurs when prior learning (e.g., Spanish) interferes with the ability to learn or recall new information (e.g., French), as illustrated by Ella's experience.
 
 [144] The keyword method is particularly useful for foreign (second) language learning.
 
@@ -28,27 +28,27 @@ LEA: Memory and Forgetting (31 items)
 
 [138] Baddeley's multi-component model of working memory identifies the episodic buffer as responsible for integrating new verbal and visual information.
 
-[13] The episodic buffer is a component of working memory, as described by Baddeley (2000).
+[13-1] The episodic buffer is a component of working memory, as described by Baddeley (2000).
 
-[12] Episodic and semantic memory are types of declarative memory.
+[12-1] Episodic and semantic memory are types of declarative memory.
 
-[14] Retroactive interference, where more recently acquired information interferes with the ability to recall previously learned information, explains why you called your co-worker's husband "Bob" after earlier meeting him as "Bill".
+[14-1] Retroactive interference, where more recently acquired information interferes with the ability to recall previously learned information, explains why you called your co-worker's husband "Bob" after earlier meeting him as "Bill".
 
-[11] Without rehearsal, information remains in short-term memory for about 20 to 30 seconds.
+[11-1] Without rehearsal, information remains in short-term memory for about 20 to 30 seconds.
 
-[13] The research by Jenkins and Dallenbach (1924) found that people who slept after learning new information recalled the information better than those who stayed awake for the same length of time after learning the information and engaged in an unrelated activity, contradicting the predictions of trace decay theory.
+[13-2] The research by Jenkins and Dallenbach (1924) found that people who slept after learning new information recalled the information better than those who stayed awake for the same length of time after learning the information and engaged in an unrelated activity, contradicting the predictions of trace decay theory.
 
-[12] According to the encoding specificity hypothesis, forgetting is caused by inadequate retrieval cues, where conditions at the time of recall are not the same as the conditions at the time of encoding new information.
+[12-2] According to the encoding specificity hypothesis, forgetting is caused by inadequate retrieval cues, where conditions at the time of recall are not the same as the conditions at the time of encoding new information.
 
-[14] The use of the phrase "on old Olympus towering top, a Finn and German viewed some hops" by a psychology student is an example of an acrostic technique to remember the 12 cranial nerves.
+[14-2] The use of the phrase "on old Olympus towering top, a Finn and German viewed some hops" by a psychology student is an example of an acrostic technique to remember the 12 cranial nerves.
 
-[13] In Baddeley's (2000) multi-component model of working memory, the episodic buffer is responsible for integrating information in working memory with information in long-term memory.
+[13-3] In Baddeley's (2000) multi-component model of working memory, the episodic buffer is responsible for integrating information in working memory with information in long-term memory.
 
-[14] Subjects in a memory experiment are asked to recite the alphabet two times after memorizing a list of words in order to prevent rehearsal of the list, which can be used to assess the effects of retroactive interference.
+[14-3] Subjects in a memory experiment are asked to recite the alphabet two times after memorizing a list of words in order to prevent rehearsal of the list, which can be used to assess the effects of retroactive interference.
 
-[12] When research participants are asked to memorize a list of unrelated words and then recall the words in any order after a brief delay, they will recall words from the beginning of the list better than words from the middle or end of the list, due to the serial position effect.
+[12-3] When research participants are asked to memorize a list of unrelated words and then recall the words in any order after a brief delay, they will recall words from the beginning of the list better than words from the middle or end of the list, due to the serial position effect.
 
-[11] In the method of loci, each word in a list is visually linked to a familiar site or object to help encode and recall the list of unrelated words.
+[11-2] In the method of loci, each word in a list is visually linked to a familiar site or object to help encode and recall the list of unrelated words.
 
 [010] Elaborative rehearsal is considered the most effective way to transfer new information from short- to long-term memory.
 
@@ -64,7 +64,7 @@ LEA: Memory and Forgetting (31 items)
 
 [158] Priming is a method for studying implicit memory, and there are several types of priming, including repetition priming, which occurs when presentation of a word or object facilitates later identification of that word or object in a different format or context, and word-stem completion and word-fragment completion are two of the repetition priming tasks that are used to investigate implicit memory.
 
-[136] Tolman's research with rats confirmed that learning can occur without being apparent in behavior.
+[136-2] Tolman's research with rats confirmed that learning can occur without being apparent in behavior.
 
 [117] Subjects in a research study who read a list of semantically related words and then recalled "anger" as one of the words, even though it was not included in the list, illustrate the phenomenon of illusory memory or false memory.
 
@@ -92,29 +92,29 @@ PHY: Brain Regions/Functions - Cerebral Cortex (27 items)
 
 [131] Individuals with Wernicke's aphasia have impaired comprehension of spoken and written language and fluent speech that's devoid of meaning.
 
-[07] Conduction aphasia, which is usually caused by damage to the arcuate fasciculus, is characterized by fluent spontaneous speech, normal comprehension, and impaired repetition.
+[07-1] Conduction aphasia, which is usually caused by damage to the arcuate fasciculus, is characterized by fluent spontaneous speech, normal comprehension, and impaired repetition.
 
-[05] Ideomotor apraxia is usually caused by damage to the left (dominant) parietal lobe.
+[05-1] Ideomotor apraxia is usually caused by damage to the left (dominant) parietal lobe.
 
-[09] Damage to the frontal lobe causes perseveration, which involves repetition of the same response or action when it's inappropriate to do so in a variety of situations and on a variety of tasks.
+[09-1] Damage to the frontal lobe causes perseveration, which involves repetition of the same response or action when it's inappropriate to do so in a variety of situations and on a variety of tasks.
 
-[06] A split-brain patient presented with the word "COPYCAT" will say "CAT" and point to "COPY" with their left hand, as the left visual field and right hemisphere cannot communicate with the right visual field and left hemisphere.
+[06-1] A split-brain patient presented with the word "COPYCAT" will say "CAT" and point to "COPY" with their left hand, as the left visual field and right hemisphere cannot communicate with the right visual field and left hemisphere.
 
-[08] The dichotic listening task is used to obtain information about hemispheric specialization.
+[08-1] The dichotic listening task is used to obtain information about hemispheric specialization.
 
-[08] Lesions in the parietal lobe cause the condition of tactile agnosia, in which a person is unable to recognize familiar objects by touch following a closed head injury.
+[08-2] Lesions in the parietal lobe cause the condition of tactile agnosia, in which a person is unable to recognize familiar objects by touch following a closed head injury.
 
-[09] Right hemisphere damage is associated with impairments in both emotional prosody and pragmatics.
+[09-2] Right hemisphere damage is associated with impairments in both emotional prosody and pragmatics.
 
-[06] Left-hemisphere dominance for language is found in about 95% of right-handed people and 70% of left-handed people.
+[06-2] Left-hemisphere dominance for language is found in about 95% of right-handed people and 70% of left-handed people.
 
-[05] Following a stroke that caused left-sided hemiplegia, a woman exhibiting asomatognosia, which is a lack of recognition or awareness of part of one's own body, often involving the left hemiplegic arm and accompanied by anosognosia, a lack of awareness or denial of one's illness, due to damage to certain areas of the right parietal lobe.
+[05-2] Following a stroke that caused left-sided hemiplegia, a woman exhibiting asomatognosia, which is a lack of recognition or awareness of part of one's own body, often involving the left hemiplegic arm and accompanied by anosognosia, a lack of awareness or denial of one's illness, due to damage to certain areas of the right parietal lobe.
 
-[07] Conduction aphasia is characterized by relatively intact comprehension, fluent aphasia, anomia, and impaired repetition, and is caused by damage to the arcuate fasciculus.
+[07-2] Conduction aphasia is characterized by relatively intact comprehension, fluent aphasia, anomia, and impaired repetition, and is caused by damage to the arcuate fasciculus.
 
-[05] Damage to the left parietal lobe can result in ideomotor apraxia, an inability to perform purposeful motor movements when asked to do so.
+[05-3] Damage to the left parietal lobe can result in ideomotor apraxia, an inability to perform purposeful motor movements when asked to do so.
 
-[06] Carl's symptoms of contralateral neglect, including bumping into things on the left side and drawing only the right side of a house, indicate an injury to his parietal lobe.
+[06-3] Carl's symptoms of contralateral neglect, including bumping into things on the left side and drawing only the right side of a house, indicate an injury to his parietal lobe.
 
 [04] Damage to the orbitofrontal region of the prefrontal cortex is most suggestive of the symptoms exhibited by a 48-year-old man with a traumatic brain injury, including emotion dysregulation, immature behavior, impulsivity, and lack of empathy.
 
@@ -148,29 +148,29 @@ PHY: Brain Regions/Functions - Hindbrain, Midbrain, and Subcortical Forebrain St
 
 [065] The basal ganglia are involved in the regulation of voluntary movement and consist of the caudate nucleus, putamen, and globus pallidus, and a number of disorders have been linked to abnormalities in these structures including Tourette's disorder, ADHD, and obsessive-compulsive disorder.
 
-[02] Research has found that people with obsessive-compulsive disorder (OCD) have increased activity in the basal ganglia.
+[02-1] Research has found that people with obsessive-compulsive disorder (OCD) have increased activity in the basal ganglia.
 
-[04] Various areas of the hypothalamus have been linked to different types of aggressive behavior in several animal species, with electrical stimulation of the medial hypothalamus usually producing affective attack behavior and electrical stimulation of the lateral hypothalamus producing stalking attack behavior in cats and other animal species.
+[04-1] Various areas of the hypothalamus have been linked to different types of aggressive behavior in several animal species, with electrical stimulation of the medial hypothalamus usually producing affective attack behavior and electrical stimulation of the lateral hypothalamus producing stalking attack behavior in cats and other animal species.
 
-[03] The suprachiasmatic nucleus controls the sleep-wake cycle by triggering changes in the release of melatonin by the pineal gland.
+[03-1] The suprachiasmatic nucleus controls the sleep-wake cycle by triggering changes in the release of melatonin by the pineal gland.
 
-[01] People with bilateral damage to the amygdala often have difficulty recognizing negative emotions in facial expressions, especially fear.
+[01-1] People with bilateral damage to the amygdala often have difficulty recognizing negative emotions in facial expressions, especially fear.
 
-[03] Areas of the cerebral cortex involved in the planning and execution of movement send excitatory signals to the striatum.
+[03-2] Areas of the cerebral cortex involved in the planning and execution of movement send excitatory signals to the striatum.
 
-[04] Stress-induced increases in cortisol levels in the hippocampus have been linked to impairments in the retrieval of declarative memories.
+[04-2] Stress-induced increases in cortisol levels in the hippocampus have been linked to impairments in the retrieval of declarative memories.
 
-[02] The amnesia associated with Wernicke-Korsakoff syndrome is due to damage to the thalamus and mammillary bodies.
+[02-2] The amnesia associated with Wernicke-Korsakoff syndrome is due to damage to the thalamus and mammillary bodies.
 
-[01] An overdose of morphine, heroin, or other opioid can cause respiratory failure because of its effects on the medulla oblongata, which controls respiration and other vital autonomic functions.
+[01-2] An overdose of morphine, heroin, or other opioid can cause respiratory failure because of its effects on the medulla oblongata, which controls respiration and other vital autonomic functions.
 
 [51] Oxytocin is a hormone produced by the hypothalamus that is important for stimulating milk ejection during breastfeeding.
 
-[02] Increasing the level of oxytocin in healthy adults who do not have deficits in emotion perception can cause them to become overly sensitive to the emotional facial expressions of others.
+[02-3] Increasing the level of oxytocin in healthy adults who do not have deficits in emotion perception can cause them to become overly sensitive to the emotional facial expressions of others.
 
-[01] Electrical stimulation of certain areas of the amygdala elicits responses associated with conditioned fear such as freezing, increased heart rate and blood pressure, and release of stress hormones.
+[01-3] Electrical stimulation of certain areas of the amygdala elicits responses associated with conditioned fear such as freezing, increased heart rate and blood pressure, and release of stress hormones.
 
-[03] Opioid-induced respiratory depression is due to the effects of opiates on receptors in the medulla.
+[03-3] Opioid-induced respiratory depression is due to the effects of opiates on receptors in the medulla.
 
 [020] Neuroimaging studies have linked posttraumatic stress disorder (PTSD) to a reduced volume of the hippocampus, decreased activity in the ventromedial prefrontal cortex, and increased activity in the amygdala.
 
@@ -198,15 +198,15 @@ PHY: Emotions and Stress (11 items)
 
 [172] According to Lazarus's (1991) cognitive appraisal theory, primary appraisal involves considering whether an external event is relevant or irrelevant and, if relevant, whether it's positive/benign or stressful.
 
-[17] Error: Rewrite failed
+[17-1] According to Schachter and Singer's (1962) two-factor theory, emotions are the consequence of physiological arousal plus the cognitive interpretation of that arousal. An important assumption of their theory is that the bodily responses associated with different emotions are essentially the same and what differs is the cognitive interpretation of those responses.
 
-[18] The Papez circuit plays a fundamental role in emotions and memory, as it is involved in the experience and expression of emotions, as well as the storage of emotional memories.
+[18-1] The Papez circuit plays a fundamental role in emotions and memory, as it is involved in the experience and expression of emotions, as well as the storage of emotional memories.
 
-[18] People with damage to the certain areas of the right (non-dominant) hemisphere are likely to exhibit an indifference reaction, while people with damage to the left (dominant) hemisphere are more likely to exhibit a catastrophic reaction.
+[18-2] People with damage to the certain areas of the right (non-dominant) hemisphere are likely to exhibit an indifference reaction, while people with damage to the left (dominant) hemisphere are more likely to exhibit a catastrophic reaction.
 
 [16] The facial feedback hypothesis, which proposes that facial expressions can produce the corresponding emotions, is consistent with the James-Lange theory of emotion.
 
-[17] Allostasis refers to the body's ability to adapt to stress and achieve a state of stability through a process of change.
+[17-2] Allostasis refers to the body's ability to adapt to stress and achieve a state of stability through a process of change.
 
 [005] Cognitive appraisal theory distinguishes between three types of appraisal, where secondary appraisal involves determining what personal and environmental resources a person has to cope with a stressful event.
 
@@ -230,15 +230,15 @@ PHY: Memory and Sleep (17 items)
 
 [166] Infants less than three months of age usually begin a sleep period with REM sleep.
 
-[15] Dreams occur during REM and non-REM sleep, but they occur more often during REM sleep, and are longer, more bizarre and emotional, and more likely to be recalled when they occur during REM sleep.
+[15-1] Dreams occur during REM and non-REM sleep, but they occur more often during REM sleep, and are longer, more bizarre and emotional, and more likely to be recalled when they occur during REM sleep.
 
-[16] Studies using functional neuroimaging techniques have found that the prefrontal cortex is essential for prospective memory.
+[16-1] Studies using functional neuroimaging techniques have found that the prefrontal cortex is essential for prospective memory.
 
 [17] Delta waves are characteristic of deep sleep.
 
-[16] Drugs that block protein synthesis while acquiring new information interfere with the formation of long-term memories but not short-term memories.
+[16-2] Drugs that block protein synthesis while acquiring new information interfere with the formation of long-term memories but not short-term memories.
 
-[15] Fred and Ethel's newborn infant will begin each sleep period with active sleep, which is most similar to stage R sleep in adults.
+[15-2] Fred and Ethel's newborn infant will begin each sleep period with active sleep, which is most similar to stage R sleep in adults.
 
 [14] Kandel and his associates (e.g., Kandel, 1976) used sea slugs (Aplysia) as subjects for their research on neuronal changes associated with learning and memory because sea slugs have a simple nervous system that consists of a small number of large neurons.
 
@@ -270,17 +270,17 @@ PHY: Nervous System, Neurons, and Neurotransmitters (17 items)
 
 [021] Chronic glutamate excitotoxicity has been linked to Alzheimer's disease, Huntington's disease, and several other neurodegenerative disorders.
 
-[10] Suicide attempters with low levels of serotonin metabolites in their cerebrospinal fluid are at higher risk than those with higher levels for repeated suicide attempts and completed suicide.
+[10-1] Suicide attempters with low levels of serotonin metabolites in their cerebrospinal fluid are at higher risk than those with higher levels for repeated suicide attempts and completed suicide.
 
-[11] A GABA agonist enhances the inhibitory effects of GABA.
+[11-1] A GABA agonist enhances the inhibitory effects of GABA.
 
-[12] According to the all-or-none law, the intensity of a nerve impulse is independent of stimulus intensity as long as the intensity reaches a minimum level.
+[12-1] According to the all-or-none law, the intensity of a nerve impulse is independent of stimulus intensity as long as the intensity reaches a minimum level.
 
-[12] Dopamine is the neurotransmitter that regulates activity in the mesolimbic pathway and is known to be an important contributor to the rewarding effects of cocaine, amphetamines, and other addictive drugs.
+[12-2] Dopamine is the neurotransmitter that regulates activity in the mesolimbic pathway and is known to be an important contributor to the rewarding effects of cocaine, amphetamines, and other addictive drugs.
 
-[11] Acetylcholine (ACh) facilitates movement by stimulating the muscles to contract.
+[11-2] Acetylcholine (ACh) facilitates movement by stimulating the muscles to contract.
 
-[10] The all-or-none law applies to the intensity of action potentials, where once a minimum level of stimulation is reached, an action potential occurs within a neuron and its intensity does not vary.
+[10-2] The all-or-none law applies to the intensity of action potentials, where once a minimum level of stimulation is reached, an action potential occurs within a neuron and its intensity does not vary.
 
 [09] Curare causes paralysis of the skeletal muscles by blocking acetylcholine receptors at neuromuscular junctions.
 
@@ -291,7 +291,7 @@ PHY: Nervous System, Neurons, and Neurotransmitters (17 items)
 [30] Acetylcholine is the neurotransmitter that binds to both nicotinic and muscarinic receptors, which are located in the central and peripheral nervous systems.
 
 --------------------------------------------------------------------------------
-PHY: Neurological and Endocrine Disorders (26 items)
+PHY: Neurological and Endocrine Disorders (27 items)
 --------------------------------------------------------------------------------
 
 [035] Functional neuroimaging techniques include magnetic resonance imaging (MRI), functional magnetic resonance imaging (fMRI), positron-emission tomography (PET), and single proton emission computed tomography (SPECT), but not computed tomography (CT), which is a structural neuroimaging technique.
@@ -310,27 +310,29 @@ PHY: Neurological and Endocrine Disorders (26 items)
 
 [190] Classic migraine headaches begin with an aura, involve throbbing pain that may be limited to one side of the head and worsen with physical activity, along with nausea, vomiting, and sensitivity to light and/or sound.
 
-[20] Diabetes insipidus is usually caused by a low level of antidiuretic hormone (ADH), which is secreted by the pituitary gland, leading to extreme thirst and the excretion of excessive and diluted urine.
+[20-1] Diabetes insipidus is usually caused by a low level of antidiuretic hormone (ADH), which is secreted by the pituitary gland, leading to extreme thirst and the excretion of excessive and diluted urine.
 
-[21] A 54-year-old woman with retrograde amnesia following a closed head injury will likely remember the family reunion she attended 4-1/2 years ago first as the recovery of long-term memories following a traumatic brain injury ordinarily involves "shrinking retrograde amnesia" in which more distant (remote) memories are recovered first.
+[21-1] A 54-year-old woman with retrograde amnesia following a closed head injury will likely remember the family reunion she attended 4-1/2 years ago first as the recovery of long-term memories following a traumatic brain injury ordinarily involves "shrinking retrograde amnesia" in which more distant (remote) memories are recovered first.
 
-[19] A young woman started having simple partial seizures when she was a child, experiencing motor and sensory symptoms including jerky movements, eye blinking, and abnormal sensations without losing consciousness.
+[19-1] A young woman started having simple partial seizures when she was a child, experiencing motor and sensory symptoms including jerky movements, eye blinking, and abnormal sensations without losing consciousness.
 
 [63] Diffusion tensor imaging is used to study abnormalities in the brain's white matter.
 
-[21] Insulin overproduction by the pancreas can cause a decrease in blood glucose levels and hypoglycemia.
+[21-2] Insulin overproduction by the pancreas can cause a decrease in blood glucose levels and hypoglycemia.
 
 [22] Generalized onset seizures always include a loss of consciousness, and there is evidence that auras can occur for some people with generalized onset seizures.
 
-[20] An ischemic stroke is most often caused by a blockage in a cerebral artery, in contrast to a hemorrhagic stroke which is due to bleeding that occurs when there is a rupture in a cerebral artery.
+[20-2] An ischemic stroke is most often caused by a blockage in a cerebral artery, in contrast to a hemorrhagic stroke which is due to bleeding that occurs when there is a rupture in a cerebral artery.
 
 [18] Neuroimaging studies have found that glucose hypometabolism and atrophy in the caudate nucleus and putamen precede the onset of the clinical symptoms of Huntington's disease.
 
-[20] Bilateral vision loss is the symptom least likely to be associated with a stroke involving the middle cerebral artery.
+[20-3] Bilateral vision loss is the symptom least likely to be associated with a stroke involving the middle cerebral artery.
 
-[19] The return of older long-term memories before more recent long-term memories following a head injury that caused retrograde amnesia is referred to as "shrinking retrograde amnesia".
+[19-2] The return of older long-term memories before more recent long-term memories following a head injury that caused retrograde amnesia is referred to as "shrinking retrograde amnesia".
 
-[21] Deep brain stimulation (DBS) is a neurosurgical intervention for Parkinson's disease that involves implanting electrodes to deliver electrical impulses to target areas in the brain, which reduces symptoms by altering brain activity in those areas.
+[21-3] Deep brain stimulation (DBS) is a neurosurgical intervention for Parkinson's disease that involves implanting electrodes to deliver electrical impulses to target areas in the brain, which reduces symptoms by altering brain activity in those areas.
+
+[001] Pramipexole and ropinirole are dopamine agonists that are used to treat restless leg syndrome.
 
 [011] When one parent has a single autosomal dominant gene for Huntington's disease, each biological child of that parent has a 50% chance of having that disease.
 
@@ -347,12 +349,6 @@ PHY: Neurological and Endocrine Disorders (26 items)
 [171] CT (computed tomography) is generally considered the most useful neuroimaging technique for assessing acute traumatic brain injury because it is quick, cost-effective, and widely available in medical settings, unlike MRI which requires the individual to remain motionless for an extended period.
 
 --------------------------------------------------------------------------------
-PHY: Neurological and Endocrine disorders (1 items)
---------------------------------------------------------------------------------
-
-[001] Pramipexole and ropinirole are dopamine agonists that are used to treat restless leg syndrome.
-
---------------------------------------------------------------------------------
 PHY: Sensation and Perception (14 items)
 --------------------------------------------------------------------------------
 
@@ -362,11 +358,11 @@ PHY: Sensation and Perception (14 items)
 
 [148] Animals that have more rods than cones have better peripheral vision and better night vision compared to animals that have more cones than rods.
 
-[14] According to Weber's law, a just noticeable difference in stimulus intensity is a constant proportion of the magnitude of the initial stimulus intensity.
+[14-1] According to Weber's law, a just noticeable difference in stimulus intensity is a constant proportion of the magnitude of the initial stimulus intensity.
 
-[13] Opponent process theory best explains the experience of negative afterimages, proposing that there are three types of bipolar receptor cells in the visual system - red/green, yellow/blue, and white/black.
+[13-1] Opponent process theory best explains the experience of negative afterimages, proposing that there are three types of bipolar receptor cells in the visual system - red/green, yellow/blue, and white/black.
 
-[14] Stevens's law is based on the results of research that used the method of magnitude estimation to study the relationship between the magnitude of a physical stimulus and its perceived magnitude.
+[14-2] Stevens's law is based on the results of research that used the method of magnitude estimation to study the relationship between the magnitude of a physical stimulus and its perceived magnitude.
 
 [15] Top-down processing is concept-driven.
 
@@ -374,7 +370,7 @@ PHY: Sensation and Perception (14 items)
 
 [11] The ability to read and understand text that contains multiple errors is attributable to top-down processing which occurs when the brain uses pre-existing knowledge and expectations to interpret perceptual information, allowing you to unconsciously and automatically correct the errors while reading.
 
-[13] Convergence is a binocular cue that contributes to depth perception.
+[13-2] Convergence is a binocular cue that contributes to depth perception.
 
 [019] The cones, not the rods, are responsible for visual acuity (sharpness and precise detail) and the perception of color, but not peripheral vision.
 
@@ -385,24 +381,32 @@ PHY: Sensation and Perception (14 items)
 [110] Prosopagnosia (face blindness) is best described as involving intact bottom-up processing with a lack of top-down processing.
 
 --------------------------------------------------------------------------------
-PPA: Neurocognitive Disorders (15 items)
+PPA: Neurocognitive Disorders (20 items)
 --------------------------------------------------------------------------------
 
 [217] Motor disturbances are a more important cause of disability in the early stages of neurocognitive disorder with Lewy bodies than in the early stages of Alzheimer's disease.
 
+[001] The presence of Alma's daughter's report that her mother's symptoms are worse in the evening would suggest that Alma's symptoms are more likely due to a neurocognitive disorder than to pseudodementia (major depressive disorder).
+
+[101] Neurocognitive disorder with Parkinson's disease begins after a history of motor symptoms, while neurocognitive disorder with Lewy bodies begins with cognitive symptoms or a combination of cognitive and motor symptoms.
+
 [221] The course of vascular neurocognitive disorder varies and may involve an acute onset of symptoms or a stepwise or progressive decline in functioning with fluctuations in symptoms or plateaus of varying length.
 
-[27] In the early stage of Alzheimer's disease, an MRI is most likely to reveal degeneration in the entorhinal cortex.
+[27-1] In the early stage of Alzheimer's disease, an MRI is most likely to reveal degeneration in the entorhinal cortex.
 
-[28] Neurocognitive disorder due to Creutzfeldt-Jakob disease, categorized in DSM-5 as neurocognitive disorder due to prion disease, typically progresses very rapidly compared to other types of neurocognitive disorders.
+[07] The most common early symptom of neurocognitive disorder due to Alzheimer's disease is impaired memory for recent events.
 
-[27] Memory loss associated with neurocognitive disorder due to Alzheimer's disease has been most consistently linked to abnormal levels of acetylcholine in the hippocampus and cerebral cortex.
+[28-1] Neurocognitive disorder due to Creutzfeldt-Jakob disease, categorized in DSM-5 as neurocognitive disorder due to prion disease, typically progresses very rapidly compared to other types of neurocognitive disorders.
 
-[28] Aphasia is least likely to be exhibited by a patient with neurocognitive disorder due to HIV infection or other subcortical neurocognitive disorder, as it is more characteristic of cortical neurocognitive disorders like Alzheimer's disease.
+[27-2] Memory loss associated with neurocognitive disorder due to Alzheimer's disease has been most consistently linked to abnormal levels of acetylcholine in the hippocampus and cerebral cortex.
+
+[28-2] Aphasia is least likely to be exhibited by a patient with neurocognitive disorder due to HIV infection or other subcortical neurocognitive disorder, as it is more characteristic of cortical neurocognitive disorders like Alzheimer's disease.
+
+[30] Neurocognitive disorder caused by prion disease is not potentially reversible.
 
 [26] Neurocognitive disorder with Lewy bodies is not characterized by perseverative behavior, which is a diagnostic criterion for frontotemporal neurocognitive disorder.
 
-[27] Neurocognitive disorder due to Alzheimer's disease is associated with an accumulation of neuritic plaques and neurofibrillary tangles in the entorhinal cortex, hippocampus, and amygdala.
+[27-3] Neurocognitive disorder due to Alzheimer's disease is associated with an accumulation of neuritic plaques and neurofibrillary tangles in the entorhinal cortex, hippocampus, and amygdala.
 
 [029] The locus coeruleus, an area in the brain stem, has been identified as "ground zero" for Alzheimer's disease.
 
@@ -416,21 +420,9 @@ PPA: Neurocognitive Disorders (15 items)
 
 [115] The symptoms characteristic of the behavioral variant of frontotemporal neurocognitive disorder include perseverative or compulsive behaviors, apathy, loss of empathy, dietary changes, and socially inappropriate behaviors.
 
-[130] The research has most consistently linked a low score on conscientiousness and a high score on neuroticism to an increased risk for a diagnosis of neurocognitive disorder due to Alzheimer's disease.
-
---------------------------------------------------------------------------------
-PPA: Neurocognitive Disorders- (5 items)
---------------------------------------------------------------------------------
-
-[001] The presence of Alma's daughter's report that her mother's symptoms are worse in the evening would suggest that Alma's symptoms are more likely due to a neurocognitive disorder than to pseudodementia (major depressive disorder).
-
-[101] Neurocognitive disorder with Parkinson's disease begins after a history of motor symptoms, while neurocognitive disorder with Lewy bodies begins with cognitive symptoms or a combination of cognitive and motor symptoms.
-
-[07] The most common early symptom of neurocognitive disorder due to Alzheimer's disease is impaired memory for recent events.
-
-[30] Neurocognitive disorder caused by prion disease is not potentially reversible.
-
 [190] A rapid decline in the sense of smell is an early symptom of Alzheimer's disease.
+
+[130] The research has most consistently linked a low score on conscientiousness and a high score on neuroticism to an increased risk for a diagnosis of neurocognitive disorder due to Alzheimer's disease.
 
 
 ================================================================================

@@ -1,15 +1,83 @@
 import csv
 import os
 
-# v2.3: Anchor-point-level overrides (highest priority)
+# v2.3/v2.9/v2.12: Anchor-point-level overrides (highest priority)
 # Format: (source, subdomain, anchor_id) -> domain
 anchor_point_overrides = {
     # Pharmacology content moved from D3 to D9
     ('PPA', 'Neurodevelopmental Disorders', '03'): 9,  # Antipsychotics for tics
-    ('PPA', 'Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders', '21'): 9,  # Serotonin for PE
+    # Note: ID '21' removed - using content match instead (see pharmacology_keywords)
     ('PPA', 'Bipolar and Depressive Disorders', '27'): 9,  # St. John's wort + SSRI
     ('PPA', 'Bipolar and Depressive Disorders', '157'): 9,  # St. John's wort comparison
+    # v2.12: Treatment content moved from D3 to D9
+    ('PPY', 'Neurodevelopmental Disorders', '14'): 9,  # Stimulant medication effects on ADHD/SUD
 }
+
+# v2.9: Content-based overrides for pharmacology items with duplicate IDs
+# Drug-related terms that indicate pharmacology content
+drug_terms = [
+    'serotonin', 'antipsychotic', 'antidepressant', 'ssri', 'maoi',
+    'st. john', 'paroxetine', 'lithium', 'neuroleptic', 'dopamine antagonist',
+    'risperidone', 'clozapine', 'haloperidol', 'benzodiazepine',
+    'methylphenidate', 'amphetamine', 'anxiolytic', 'mood stabilizer',
+]
+
+# v2.11: Option D - Treatment content migration from D3
+# Biological/pharmacological treatment keywords -> D9
+biological_treatment_keywords = [
+    'electroconvulsive therapy', 'ect is', 'ect has', 'ect for',
+    'rtms', 'transcranial magnetic',
+    'esketamine', 'ketamine treatment', 'sodium oxybate',
+    'medication most useful', 'pharmacological treatment',
+    'medication are each effective', 'counseling and medication',
+]
+
+# Psychosocial treatment keywords -> D8
+psychosocial_treatment_keywords = [
+    'exposure with response prevention', 'exposure and response prevention',
+    'interoceptive exposure', 'in vivo exposure', 'applied tension',
+    'cognitive behavior therapy', 'cognitive-behavioral therapy',
+    'interpersonal psychotherapy',
+    'dialectical behavior therapy', 'dbt ',
+    'family-based treatment', 'family-focused therapy',
+    'parent-child interaction therapy', 'pcit',
+    'multisystemic therapy', 'parent-training', 'ptbm',
+    'trauma-focused', 'tf-cbt',
+    'community reinforcement', 'motivational interviewing',
+    'relapse prevention', 'personalized normative feedback',
+    'voucher-based reinforcement', 'vbrt', 'project match',
+    'moisture alarm', 'night alarm', 'bell-and-pad',
+    'squeeze technique', 'start/stop technique',
+    'directed masturbation', 'orgasmic reconditioning',
+    'regulated breathing', 'lovaas', 'discrimination training',
+    'psychological debriefing', 'videoconferencing therapy',
+    'sensate focus', 'kegel', 'vaginal dilators',
+]
+
+def is_pharmacology_content(anchor_text):
+    """Check if anchor point contains pharmacology-related content."""
+    text_lower = anchor_text.lower()
+    # Must contain a drug-related term (not just a condition)
+    for term in drug_terms:
+        if term in text_lower:
+            return True
+    return False
+
+def is_biological_treatment(anchor_text):
+    """Check if anchor point describes biological/pharmacological treatment -> D9."""
+    text_lower = anchor_text.lower()
+    for term in biological_treatment_keywords:
+        if term in text_lower:
+            return True
+    return False
+
+def is_psychosocial_treatment(anchor_text):
+    """Check if anchor point describes psychosocial treatment -> D8."""
+    text_lower = anchor_text.lower()
+    for term in psychosocial_treatment_keywords:
+        if term in text_lower:
+            return True
+    return False
 
 # Define subdomain to domain mapping based on v2.1 structure
 subdomain_mapping = {
@@ -124,22 +192,61 @@ specific_mappings = {
     ('LEA', 'Cognitive Factors in Learning'): 7,
 }
 
-# Domain names
+# v2.8/v2.10/v2.12: Normalize subdomain names to merge duplicates
+def normalize_subdomain(subdomain):
+    """Normalize subdomain name to handle variations."""
+    s = subdomain.strip()
+    # Remove trailing hyphens
+    s = s.rstrip('-')
+    # Normalize ampersand variations
+    s = s.replace(' & ', ' and ')
+    # Fix capitalization for known issues
+    s = s.replace('Endocrine disorders', 'Endocrine Disorders')
+
+    # v2.10: Fix Domain 5 "Bias" vs "Biases" variation
+    s = s.replace('Errors, Bias, and Heuristics', 'Errors, Biases, and Heuristics')
+
+    # v2.12: Normalize D2 subdomain variations
+    # Fix colon vs hyphen in socioemotional development
+    s = s.replace('Socioemotional Development: Temperament and Personality',
+                  'Socioemotional Development - Temperament and Personality')
+    s = s.replace('Early Influences on Development: Nature vs. Nurture',
+                  'Early Influences on Development - Nature vs. Nurture')
+
+    # v2.10: Fix Domain 9 Ethics header variations
+    # Normalize all Ethics Standards headers to consistent format
+    if 'Standards 1' in s and '2' in s:
+        s = 'APA Ethics Code Overview and Standards 1 and 2'
+    elif 'Standards 3' in s and '4' in s:
+        s = 'APA Ethics Code Standards 3 and 4'
+    elif 'Standards 5' in s and '6' in s:
+        s = 'APA Ethics Code Standards 5 and 6'
+    elif 'Standards 7' in s and '8' in s:
+        s = 'APA Ethics Code Standards 7 and 8'
+    elif 'Standards 9' in s and '10' in s:
+        s = 'APA Ethics Code Standards 9 and 10'
+
+    return s
+
+# Domain names (v2.13 - Updated for uniqueness from ASPPB/PrepJet)
 domain_names = {
-    1: "Psychometrics & Scientific Foundations",
-    2: "Developmental Psychology",
+    1: "Psychometrics & Research Methods",
+    2: "Lifespan & Developmental Stages",
     3: "Clinical Psychopathology",
-    4: "Therapeutic Psychology",
+    4: "Psychotherapy Models, Interventions, & Prevention",
     5: "Social & Cultural Psychology",
-    6: "Organizational Psychology",
+    6: "Workforce Development & Leadership",
     7: "Biopsychology",
-    8: "Psychological Assessment",
-    9: "Psychopharmacology & Professional Ethics"
+    8: "Clinical Assessment & Interpretation",
+    9: "Psychopharmacology & Ethics"
 }
 
 # Read CSV and assign domains
 domains = {i: [] for i in range(1, 10)}
+# v2.9: Track seen content per domain to prevent duplicates
+domain_content_seen = {i: set() for i in range(1, 10)}
 unassigned = []
+duplicates_skipped = 0
 
 csv_path = r'C:\Users\mcdan\Desktop\EPPP_Domain_Design\eppp_exam_questions.csv'
 output_dir = r'C:\Users\mcdan\Desktop\EPPP_Domain_Design\anchor_points_by_domain'
@@ -160,6 +267,10 @@ with open(csv_path, 'r', encoding='utf-8') as f:
         anchor_point = row[9].strip() if len(row) > 9 else ''
         question = row[2].strip() if len(row) > 2 else ''
         anchor_id = row[8].strip() if len(row) > 8 else ''
+
+        # v2.8: Fallback to column 7 (full explanation) if column 9 has rewrite error
+        if anchor_point == 'Error: Rewrite failed' or not anchor_point:
+            anchor_point = row[7].strip() if len(row) > 7 else ''
 
         if not source or not anchor_point:
             continue
@@ -182,14 +293,35 @@ with open(csv_path, 'r', encoding='utf-8') as f:
         elif source == 'PPY':
             domain = 3
 
+        # v2.9: Content-based pharmacology override (for PPA items assigned to D3)
+        # Moves pharmacology content from D3 to D9 based on keywords
+        if domain == 3 and source == 'PPA' and is_pharmacology_content(anchor_point):
+            domain = 9
+
+        # v2.11: Option D - Treatment content migration from D3
+        # Route psychosocial treatments to D8, biological treatments to D9
+        if domain == 3 and source in ('PPA', 'PPY'):
+            if is_biological_treatment(anchor_point):
+                domain = 9
+            elif is_psychosocial_treatment(anchor_point):
+                domain = 8
+
         if domain:
-            domains[domain].append({
-                'source': source,
-                'subdomain': subdomain,
-                'anchor_id': anchor_id,
-                'anchor_point': anchor_point,
-                'question': question
-            })
+            # v2.9: Skip duplicate content within same domain
+            content_key = anchor_point[:100].lower().strip()
+            if content_key in domain_content_seen[domain]:
+                duplicates_skipped += 1
+            else:
+                domain_content_seen[domain].add(content_key)
+                # v2.12: Normalize source codes
+                normalized_source = 'LIF' if source == 'LIFE' else source
+                domains[domain].append({
+                    'source': normalized_source,
+                    'subdomain': normalize_subdomain(subdomain),  # v2.8: Normalize
+                    'anchor_id': anchor_id,
+                    'anchor_point': anchor_point,
+                    'question': question
+                })
         else:
             unassigned.append((source, subdomain, anchor_point[:50]))
 
@@ -219,8 +351,22 @@ for d in range(1, 10):
             f.write(f"{subdomain_key} ({len(items)} items)\n")
             f.write("-" * 80 + "\n\n")
 
+            # v2.8: Track ID occurrences to disambiguate duplicates
+            id_counts = {}
+            for item in items:
+                aid = item['anchor_id']
+                id_counts[aid] = id_counts.get(aid, 0) + 1
+
+            id_seen = {}
             for i, item in enumerate(items, 1):
-                f.write(f"[{item['anchor_id']}] {item['anchor_point']}\n\n")
+                aid = item['anchor_id']
+                # Add suffix only if this ID appears multiple times
+                if id_counts[aid] > 1:
+                    id_seen[aid] = id_seen.get(aid, 0) + 1
+                    display_id = f"{aid}-{id_seen[aid]}"
+                else:
+                    display_id = aid
+                f.write(f"[{display_id}] {item['anchor_point']}\n\n")
 
         f.write("\n" + "=" * 80 + "\n")
         f.write("END OF DOMAIN\n")
@@ -236,6 +382,7 @@ for d in range(1, 10):
     print(f"Domain {d}: {len(domains[d])} anchor points")
 print("-" * 50)
 print(f"Total assigned: {sum(len(domains[d]) for d in range(1, 10))}")
+print(f"Duplicates skipped: {duplicates_skipped}")
 print(f"Unassigned: {len(unassigned)}")
 
 if unassigned:

@@ -1,27 +1,27 @@
 ================================================================================
-                    EPPP DOMAIN DESIGN - COMPLETE BREAKDOWN (v2.1)
+                    EPPP DOMAIN DESIGN - COMPLETE BREAKDOWN (v2.13)
 ================================================================================
 
-Generated: 2026-01-01
+Generated: 2026-01-02
 Repository: https://github.com/mcdanielmjustin/EPPP-Domain-Design
 
 ================================================================================
                               MASTER SUMMARY TABLE
 ================================================================================
 
-#  | Domain Name                              | Thematic Lean                      | Personality            | Fund% | Mastery% | Type   | Anchor Pts | % Total
----|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
-1  | Psychometrics & Scientific Foundations   | Statistical reasoning & validity   | "The methodologist"    | 60%   | 40%      | BIG 4  | 193        | 12.3%
-2  | Developmental Psychology                 | Stage theories & critical periods  | "The developmentalist" | 55%   | 45%      | BIG 4  | 175        | 11.1%
-3  | Clinical Psychopathology                 | Genetics & etiology                | "The psychopathologist"| 30%   | 70%      | --     | 185        | 11.8%
-4  | Therapeutic Psychology                   | Mechanisms of change               | "The interventionist"  | 25%   | 75%      | --     | 168        | 10.7%
-5  | Social & Cultural Psychology             | Identity & group dynamics          | "The contextualist"    | 50%   | 50%      | BIG 4  | 153        | 9.7%
-6  | Organizational Psychology                | Human performance & systems        | "The optimizer"        | 30%   | 70%      | --     | 173        | 11.0%
-7  | Biopsychology                            | Brain anatomy & neural circuits    | "The neuroscientist"   | 45%   | 55%      | BIG 4  | 192        | 12.2%
-8  | Psychological Assessment                 | Clinical interpretation & profiles | "The diagnostician"    | 30%   | 70%      | --     | 152        | 9.7%
-9  | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decisions| "The integrator"       | 30%   | 70%      | --     | 179        | 11.4%
----|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
-   | TOTAL                                    |                                    |                       |       |          |        | 1,570      | 100%
+#  | Domain Name                                       | Thematic Lean                      | Personality            | Fund% | Mastery% | Type   | Anchor Pts | % Total
+---|---------------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
+1  | Psychometrics & Research Methods                  | Statistical reasoning & validity   | "The methodologist"    | 60%   | 40%      | BIG 4  | 193        | 12.3%
+2  | Lifespan & Developmental Stages                   | Stage theories & critical periods  | "The developmentalist" | 55%   | 45%      | BIG 4  | 174        | 11.1%
+3  | Clinical Psychopathology                          | Genetics & etiology                | "The psychopathologist"| 30%   | 70%      | --     | 134        | 8.5%
+4  | Psychotherapy Models, Interventions, & Prevention | Mechanisms of change               | "The interventionist"  | 25%   | 75%      | --     | 168        | 10.7%
+5  | Social & Cultural Psychology                      | Identity & group dynamics          | "The contextualist"    | 50%   | 50%      | BIG 4  | 153        | 9.8%
+6  | Workforce Development & Leadership                | Human performance & systems        | "The optimizer"        | 30%   | 70%      | --     | 172        | 11.0%
+7  | Biopsychology                                     | Brain anatomy & neural circuits    | "The neuroscientist"   | 45%   | 55%      | BIG 4  | 192        | 12.3%
+8  | Clinical Assessment & Interpretation              | Clinical interpretation & profiles | "The diagnostician"    | 30%   | 70%      | --     | 190        | 12.1%
+9  | Psychopharmacology & Ethics                       | Drug mechanisms & ethical decisions| "The integrator"       | 30%   | 70%      | --     | 191        | 12.2%
+---|---------------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
+   | TOTAL                                             |                                    |                       |       |          |        | 1,567      | 100%
 
 
 ================================================================================
@@ -109,25 +109,25 @@ Domain | Primary Sources                              | Content Areas
                            BIG 4 MODEL CONFIGURATION
 ================================================================================
 
-Position | Domain          | Type   | Fund% | Mastery% | Rationale
----------|-----------------|--------|-------|----------|------------------------------------------
-1        | Psychometrics   | BIG 4  | 60%   | 40%      | Foundational - highest fundamental reinforcement
-2        | Developmental   | BIG 4  | 55%   | 45%      | Second foundational - normal before pathology
-5        | Social/Cultural | BIG 4  | 50%   | 50%      | Mid-sequence reinforcement - contextualizes
-7        | Biopsychology   | BIG 4  | 45%   | 55%      | Pre-capstone - prerequisite for pharmacology
+Position | Domain                         | Type   | Fund% | Mastery% | Rationale
+---------|--------------------------------|--------|-------|----------|------------------------------------------
+1        | Psychometrics & Research       | BIG 4  | 60%   | 40%      | Foundational - highest fundamental reinforcement
+2        | Lifespan & Developmental       | BIG 4  | 55%   | 45%      | Second foundational - normal before pathology
+5        | Social & Cultural              | BIG 4  | 50%   | 50%      | Mid-sequence reinforcement - contextualizes
+7        | Biopsychology                  | BIG 4  | 45%   | 55%      | Pre-capstone - prerequisite for pharmacology
 
 
 ================================================================================
                               NON-BIG 4 DOMAINS
 ================================================================================
 
-Position | Domain                   | Fund% | Mastery% | Max Allowed | Status
----------|--------------------------|-------|----------|-------------|------------
-3        | Clinical Psychopathology | 30%   | 70%      | 30%         | At max
-4        | Therapeutic Psychology   | 25%   | 75%      | 30%         | Under max
-6        | Organizational Psychology| 30%   | 70%      | 30%         | At max
-8        | Psychological Assessment | 30%   | 70%      | 30%         | At max
-9        | Psychopharmacology/Ethics| 30%   | 70%      | 30%         | At max (Capstone)
+Position | Domain                                  | Fund% | Mastery% | Max Allowed | Status
+---------|----------------------------------------|-------|----------|-------------|------------
+3        | Clinical Psychopathology               | 30%   | 70%      | 30%         | At max
+4        | Psychotherapy Models, Interventions... | 25%   | 75%      | 30%         | Under max
+6        | Workforce Development & Leadership     | 30%   | 70%      | 30%         | At max
+8        | Clinical Assessment & Interpretation   | 30%   | 70%      | 30%         | At max
+9        | Psychopharmacology & Ethics            | 30%   | 70%      | 30%         | At max (Capstone)
 
 
 ================================================================================
@@ -172,25 +172,25 @@ Tier                  | Domains | Bloom's Level       | Webb's DOK          | Fo
 ----------------------|---------|---------------------|---------------------|------------------
 Tier 1: Foundational  | 1, 2    | Remember, Understand| 1-2 (Recall, Skill) | Building blocks
 Tier 2: Application   | 3, 4    | Apply, Analyze      | 2-3 (Skill, Strat.) | Clinical application
-Tier 3: Context       | 5, 6, 7 | Analyze, Apply      | 3 (Strategic)       | Contextual factors
+Tier 3: Context       | 5, 6, 7 | Analyze, Evaluate   | 3 (Strategic)       | Contextual factors
 Tier 4: Integration   | 8, 9    | Evaluate, Create    | 3-4 (Strat., Ext.)  | Capstone integration
 
 
 ================================================================================
-                       DOMAIN SIZE CONSTRAINTS (v2.3)
+                       DOMAIN SIZE CONSTRAINTS (v2.12)
 ================================================================================
 
-Domain | v2.0 Size  | v2.1 Size | v2.2 Size | v2.3 Size | Status
--------|------------|-----------|-----------|-----------|----------------------
-1      | ~185-200   | 205       | 193       | 193       | OK (130-200)
-2      | ~185-200   | 175       | 175       | 175       | OK (130-200)
-3      | ~190-210   | 210       | 190       | 185       | OK (130-200)
-4      | ~175-190   | 168       | 168       | 168       | OK (130-200)
-5      | ~135-150   | 153       | 153       | 153       | OK (130-200)
-6      | ~170-180   | 173       | 173       | 173       | OK (130-200)
-7      | ~180-200   | 172       | 192       | 192       | OK (130-200)
-8      | ~95-110    | 140       | 152       | 152       | OK (130-200)
-9      | ~225-240   | 174       | 174       | 179       | OK (130-200)
+Domain | v2.0 Size  | v2.1 Size | v2.2 Size | v2.3 Size | v2.11 Size | v2.12 Size | Status
+-------|------------|-----------|-----------|-----------|------------|------------|----------------------
+1      | ~185-200   | 205       | 193       | 193       | 193        | 193        | OK (130-200)
+2      | ~185-200   | 175       | 175       | 175       | 174        | 174        | OK (130-200)
+3      | ~190-210   | 210       | 190       | 185       | 135        | 134        | OK (130-200)
+4      | ~175-190   | 168       | 168       | 168       | 168        | 168        | OK (130-200)
+5      | ~135-150   | 153       | 153       | 153       | 153        | 153        | OK (130-200)
+6      | ~170-180   | 173       | 173       | 173       | 172        | 172        | OK (130-200)
+7      | ~180-200   | 172       | 192       | 192       | 192        | 192        | OK (130-200)
+8      | ~95-110    | 140       | 152       | 152       | 190        | 190        | OK (130-200)
+9      | ~225-240   | 174       | 174       | 179       | 190        | 191        | OK (130-200)
 
 
 ================================================================================
@@ -229,6 +229,45 @@ v2.6    | 2026-01-01 | Documented cognitive-affective content distribution
 v2.7    | 2026-01-01 | Documented Domain 9 structure rationale
         |            | Closed issue: Pharma+Ethics share capstone integration theme
         |            | Both require integration of multiple prior domains
+v2.8    | 2026-01-02 | Data quality fixes:
+        |            | - Fixed 12 "Error: Rewrite failed" anchor points
+        |            | - Merged 14 duplicate subdomain header pairs
+        |            | - Disambiguated duplicate anchor point IDs with suffixes
+v2.9    | 2026-01-02 | Content-based overrides and deduplication:
+        |            | - Fixed Gender Dysphoria misplacement (stays in D3)
+        |            | - Added drug term matching for pharmacology content
+        |            | - Removed 3 duplicate anchor points
+        |            | - Total: 1570 → 1567 anchor points
+        |            | - Fixed Tier 3 Bloom's level: "Analyze, Apply" → "Analyze, Evaluate"
+v2.10   | 2026-01-02 | Header normalization and quality review:
+        |            | - Fixed Domain 5 "Bias" vs "Biases" duplicate headers
+        |            | - Fixed Domain 9 split Ethics Standard headers
+        |            | - Verified Little Albert entry is factually correct
+        |            | - Documented tort law entry as source data quality issue
+v2.11   | 2026-01-02 | Option D treatment migration from D3:
+        |            | - Moved 38 psychosocial treatment items from D3 to D8
+        |            | - Moved 6 biological treatment items from D3 to D9
+        |            | - D3 now 135 (pure etiology/diagnosis focus)
+        |            | - D8 now 190 (assessment + psychosocial treatments)
+        |            | - D9 now 190 (pharmacology + biological treatments)
+        |            | - Rationale: Treatment content belongs after D7 prerequisite
+        |            | - Preserves Big 4 dispersed model at positions 1,2,5,7
+v2.12   | 2026-01-02 | Data quality fixes and additional migration:
+        |            | - Moved PPY [14] from D3 to D9 (stimulant/ADHD/SUD)
+        |            | - D3 now 134, D9 now 191
+        |            | - Normalized "LIFE" source code to "LIF"
+        |            | - Fixed subdomain colon variations in D2
+        |            | - Documented long entry [058] in D1 (923 chars)
+        |            | - Verified no truncated entries in domain files
+v2.13   | 2026-01-02 | Domain naming update for uniqueness:
+        |            | - Renamed to avoid ASPPB and PrepJet collisions
+        |            | - D1: "Psychometrics & Research Methods"
+        |            | - D2: "Lifespan & Developmental Stages"
+        |            | - D4: "Psychotherapy Models, Interventions, & Prevention"
+        |            | - D6: "Workforce Development & Leadership"
+        |            | - D8: "Clinical Assessment & Interpretation"
+        |            | - D9: "Psychopharmacology & Ethics"
+        |            | - All 9 domains now have unique names
 
 
 ================================================================================

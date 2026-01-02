@@ -1,7 +1,7 @@
 ================================================================================
-DOMAIN 6: ORGANIZATIONAL PSYCHOLOGY
+DOMAIN 6: WORKFORCE DEVELOPMENT & LEADERSHIP
 ================================================================================
-Total Anchor Points: 173
+Total Anchor Points: 172
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -18,19 +18,19 @@ ORG: Career Choice and Development (17 items)
 
 [122] According to Super (Super, Savickas, & Super, 1996), a person's self-concept is the primary determinant of their occupational choice.
 
-[14] Driver and Brousseau's career concept model distinguishes between four career concepts: linear, expert, spiral, and transitory.
+[14-1] Driver and Brousseau's career concept model distinguishes between four career concepts: linear, expert, spiral, and transitory.
 
-[13] According to Dawis and Lofquist's theory of work adjustment, satisfactoriness is determined by the correspondence between the worker's skills and the skill requirements of the job.
+[13-1] According to Dawis and Lofquist's theory of work adjustment, satisfactoriness is determined by the correspondence between the worker's skills and the skill requirements of the job.
 
-[12] Holland's theory depicts the realistic personality type as most similar to the investigative and conventional types and most dissimilar to the social type.
+[12-1] Holland's theory depicts the realistic personality type as most similar to the investigative and conventional types and most dissimilar to the social type.
 
-[14] Tiedeman's career decision-making model distinguishes between an anticipation phase (exploration, crystallization, choice, and clarification) and an implementation phase (induction, reformation, and integration).
+[14-2] Tiedeman's career decision-making model distinguishes between an anticipation phase (exploration, crystallization, choice, and clarification) and an implementation phase (induction, reformation, and integration).
 
-[13] Holland (1985) used the term "differentiation" to describe the extent to which a person's personality is clearly defined with regard to the six personality types.
+[13-2] Holland (1985) used the term "differentiation" to describe the extent to which a person's personality is clearly defined with regard to the six personality types.
 
 [11] According to Super's life-space/life-span career theory, people choose careers that reflect their self-concepts.
 
-[12] In Dawis and Lofquist's theory of work adjustment, a worker's job satisfaction is determined by the correspondence between the worker's needs and the reinforcers provided by the job.
+[12-2] In Dawis and Lofquist's theory of work adjustment, a worker's job satisfaction is determined by the correspondence between the worker's needs and the reinforcers provided by the job.
 
 [015] A person who obtains the highest score on the realistic scale of Holland's Self-Directed Search would most likely say he/she likes to work with tools and machinery.
 
@@ -38,7 +38,7 @@ ORG: Career Choice and Development (17 items)
 
 [003] Driver and Brousseau's career concept model distinguishes between four career concepts that differ in terms of key motives, direction of career movement, and frequency of career change.
 
-[12] According to Donald Super, a career is "the combination and sequence of roles played by a person during the course of a lifetime."
+[12-3] According to Donald Super, a career is "the combination and sequence of roles played by a person during the course of a lifetime."
 
 [108] Dawis and Lofquist's (1984) theory of work adjustment is a person-environment fit theory that emphasizes the importance of the match between a person's characteristics and the characteristics of the job.
 
@@ -58,19 +58,19 @@ ORG: Employee Selection - Evaluation of Techniques (19 items)
 
 [089] Gender is a bona fide occupational qualification for a movie production company that hires only males for male roles and females for female roles for its action/adventure films, even though this means significantly more males than females are hired.
 
-[08] Test unfairness occurs when members of one group consistently obtain lower scores than another group on a selection test but this score difference is not reflected in differences in job performance.
+[08-1] Test unfairness occurs when members of one group consistently obtain lower scores than another group on a selection test but this score difference is not reflected in differences in job performance.
 
-[09] Conducting a utility analysis for a new selection test would be useful for obtaining information on the return on investment that can be expected when the test is used to hire job applicants.
+[09-1] Conducting a utility analysis for a new selection test would be useful for obtaining information on the return on investment that can be expected when the test is used to hire job applicants.
 
-[07] Incremental validity refers to the increase in decision-making accuracy that occurs when a new selection technique is added to the existing selection procedure.
+[07-1] Incremental validity refers to the increase in decision-making accuracy that occurs when a new selection technique is added to the existing selection procedure.
 
-[09] The 80% (four-fifths) rule is used to determine if a selection test is having an adverse impact.
+[09-2] The 80% (four-fifths) rule is used to determine if a selection test is having an adverse impact.
 
-[08] When a predictor has low to moderate criterion-related validity, it can improve decision-making accuracy as long as the base rate is moderate and the selection ratio is low.
+[08-2] When a predictor has low to moderate criterion-related validity, it can improve decision-making accuracy as long as the base rate is moderate and the selection ratio is low.
 
-[08] The Taylor-Russell tables are used to obtain an estimate of a predictor's incremental validity.
+[08-3] The Taylor-Russell tables are used to obtain an estimate of a predictor's incremental validity.
 
-[07] Utility analysis provides information on the monetary costs and benefits of using a new selection technique.
+[07-2] Utility analysis provides information on the monetary costs and benefits of using a new selection technique.
 
 [06] To determine if "test unfairness" is the reason why a selection test is having an adverse impact on older job applicants, one would compare the selection test and job performance scores obtained by older and younger workers in the validation sample.
 
@@ -96,15 +96,15 @@ ORG: Employee Selection - Techniques (14 items)
 
 [056] A realistic job preview is used to reduce turnover by ensuring that new employees have accurate job expectations.
 
-[05] Of the Big Five personality traits, conscientiousness has been found to be the best predictor of job performance across different jobs and performance criteria.
+[05-1] Of the Big Five personality traits, conscientiousness has been found to be the best predictor of job performance across different jobs and performance criteria.
 
-[06] Multiple regression is a compensatory method for combining predictor scores that involves weighting each predictor on the basis of its correlations with the other predictors and with the criterion and then combining the weighted predictor scores to obtain an estimated criterion score, making it possible for a high score on one or more predictors to compensate for a low score on another predictor.
+[06-1] Multiple regression is a compensatory method for combining predictor scores that involves weighting each predictor on the basis of its correlations with the other predictors and with the criterion and then combining the weighted predictor scores to obtain an estimated criterion score, making it possible for a high score on one or more predictors to compensate for a low score on another predictor.
 
 [07] The best technique for making a hiring decision on the basis of multiple predictors when a high score on one or more predictors cannot compensate for a low score on another predictor is the multiple cutoff, a noncompensatory technique that requires a job applicant to obtain a score that's above the cutoff on each predictor to be considered for the job.
 
-[06] The leaderless group discussion is used to evaluate the leadership potential of assessment center participants by observing a small group of participants work together without an assigned leader to solve a job-related problem.
+[06-2] The leaderless group discussion is used to evaluate the leadership potential of assessment center participants by observing a small group of participants work together without an assigned leader to solve a job-related problem.
 
-[05] An employer is most likely to advocate the use of a realistic job preview to reduce employee dissatisfaction and turnover by ensuring job applicants have realistic job expectations.
+[05-2] An employer is most likely to advocate the use of a realistic job preview to reduce employee dissatisfaction and turnover by ensuring job applicants have realistic job expectations.
 
 [012] A covert integrity test is most likely to include the question "Would your friends describe you as impulsive?".
 
@@ -120,6 +120,8 @@ ORG: Employee Selection - Techniques (14 items)
 ORG: Job Analysis and Performance Assessment (24 items)
 --------------------------------------------------------------------------------
 
+[030] An advantage of relative job performance measures is that they reduce leniency, strictness, and central tendency rater biases.
+
 [041] The halo error occurs when a rater's rating of an employee on one dimension of job performance affects how the rater rates the employee on all other dimensions.
 
 [008] The Position Analysis Questionnaire is a worker-oriented job analysis tool that addresses six categories of work activity.
@@ -132,47 +134,39 @@ ORG: Job Analysis and Performance Assessment (24 items)
 
 [023] A criticism of behaviorally anchored rating scales (BARS) is that they're time-consuming to develop.
 
-[001] The first step in developing a new performance appraisal measure is to conduct a job analysis to identify the knowledge and skills required to perform the job successfully.
+[001-1] The first step in developing a new performance appraisal measure is to conduct a job analysis to identify the knowledge and skills required to perform the job successfully.
 
-[03] Mrs. Akeem's tendency to give all supervisees average ratings, regardless of their actual performance, illustrates the central tendency bias.
+[03-1] Mrs. Akeem's tendency to give all supervisees average ratings, regardless of their actual performance, illustrates the central tendency bias.
 
-[02] In the context of performance appraisal, a "critical incident" is job-related behavior that is associated with very good or very poor performance.
+[02-1] In the context of performance appraisal, a "critical incident" is job-related behavior that is associated with very good or very poor performance.
 
-[04] Frame-of-reference training focuses on helping raters recognize the multidimensionality of job performance and what constitutes different levels of performance.
+[04-1] Frame-of-reference training focuses on helping raters recognize the multidimensionality of job performance and what constitutes different levels of performance.
 
-[01] Competency modeling is similar to job analysis but focuses on the core competencies that are required to successfully perform all jobs or a subset of jobs within an organization and are linked to the organization's values, goals, and strategies.
+[01-1] Competency modeling is similar to job analysis but focuses on the core competencies that are required to successfully perform all jobs or a subset of jobs within an organization and are linked to the organization's values, goals, and strategies.
 
-[03] The problem with the forced distribution method of performance assessment is that the prespecified performance categories may not match the actual performance of employees.
+[03-2] The problem with the forced distribution method of performance assessment is that the prespecified performance categories may not match the actual performance of employees.
 
-[02] Job evaluation involves assigning points to a job's compensable factors to determine its monetary value.
+[02-2] Job evaluation involves assigning points to a job's compensable factors to determine its monetary value.
 
-[01] A worker-oriented job analysis is conducted to identify the knowledge, skills, abilities, and other characteristics required to perform a job successfully.
+[01-2] A worker-oriented job analysis is conducted to identify the knowledge, skills, abilities, and other characteristics required to perform a job successfully.
 
-[04] Criterion contamination occurs when a performance (criterion) measure is affected by factors unrelated to job performance, such as a supervisor's knowledge of how well employees did on the predictors that were used to hire them.
+[04-2] Criterion contamination occurs when a performance (criterion) measure is affected by factors unrelated to job performance, such as a supervisor's knowledge of how well employees did on the predictors that were used to hire them.
 
-[02] Comparable worth procedures are useful for establishing pay equivalencies for different jobs performed primarily by men or women.
+[02-3] Comparable worth procedures are useful for establishing pay equivalencies for different jobs performed primarily by men or women.
 
-[03] Knowing that behavioral anchors are descriptions of specific job behaviors that represent good, average, and poor performance would have helped identify the critical incident technique as being most useful for developing behaviorally anchored rating scales (BARS).
+[03-3] Knowing that behavioral anchors are descriptions of specific job behaviors that represent good, average, and poor performance would have helped identify the critical incident technique as being most useful for developing behaviorally anchored rating scales (BARS).
 
-[01] The Position Analysis Questionnaire is a structured questionnaire that provides the information needed to compare worker activities for different jobs.
+[01-3] The Position Analysis Questionnaire is a structured questionnaire that provides the information needed to compare worker activities for different jobs.
 
-[04] The main goal of frame-of-reference training is to help raters distinguish between different levels of employee performance and adopt a common frame of reference when rating employee performance.
+[04-3] The main goal of frame-of-reference training is to help raters distinguish between different levels of employee performance and adopt a common frame of reference when rating employee performance.
 
-[008] Competency modeling is similar to job analysis but focuses on the core competencies that are required to successfully perform all jobs or a subset of jobs within an organization and are linked to the organization's values, goals and strategies, so the process of identifying core competencies begins with specifying the organization's primary values, goals, and strategies.
-
-[001] Criterion contamination occurs when ratings on a performance measure are affected by factors unrelated to the individual's actual performance, such as when a supervisor's performance ratings for an employee are affected by the rater's knowledge of how well the employee did on the selection tests used to hire the employee.
+[001-2] Criterion contamination occurs when ratings on a performance measure are affected by factors unrelated to the individual's actual performance, such as when a supervisor's performance ratings for an employee are affected by the rater's knowledge of how well the employee did on the selection tests used to hire the employee.
 
 [145] When using BARS, a supervisor rates each employee on several dimensions of job performance using a graphic rating scale, with points on the scale being "anchored" by specific behaviors (critical incidents) that each describe a different level of performance.
 
 [17] Job analysis methods can be categorized as work-oriented, worker-oriented, or a combination of the two.
 
 [057] A supervisor's performance ratings exhibiting a halo effect show a pattern of ratings that are highly consistent in positivity or negativity across different dimensions for each employee.
-
---------------------------------------------------------------------------------
-ORG: Job Analysis and Performance Assessment- (1 items)
---------------------------------------------------------------------------------
-
-[030] An advantage of relative job performance measures is that they reduce leniency, strictness, and central tendency rater biases.
 
 --------------------------------------------------------------------------------
 ORG: Organizational Change and Development (15 items)
@@ -186,15 +180,15 @@ ORG: Organizational Change and Development (15 items)
 
 [155] During process consultation, an organizational development (OD) consultant will most likely focus on communication, decision-making, and problem-solving.
 
-[16] Process consultation is not an example of a technostructural intervention.
+[16-1] Process consultation is not an example of a technostructural intervention.
 
-[16] Lewin's (1951) model of planned change in organizations involves unfreezing, changing, and refreezing.
+[16-2] Lewin's (1951) model of planned change in organizations involves unfreezing, changing, and refreezing.
 
 [74] A program logic model is a visual representation of a program's components and is used to assist with the development, implementation, and evaluation of the program, and its common components include resources, activities, and outputs.
 
 [15] A primary focus of process consultation is determining how groups of employees discuss problems, make decisions, and achieve work-related goals.
 
-[16] The primary emphases of TQM are continuous improvement, total employee involvement, customer satisfaction, and data-driven decision-making.
+[16-3] The primary emphases of TQM are continuous improvement, total employee involvement, customer satisfaction, and data-driven decision-making.
 
 [17] The compressed workweek has the strongest beneficial effect on job satisfaction based on research.
 
@@ -216,9 +210,9 @@ ORG: Organizational Decision-Making (10 items)
 
 [185] As described by Janis (1982), groupthink is most likely to occur in highly cohesive groups that have a strong directive leader.
 
-[20] Group polarization refers to the tendency of a group to make more extreme decisions than would be made by individual group members working alone.
+[20-1] Group polarization refers to the tendency of a group to make more extreme decisions than would be made by individual group members working alone.
 
-[20] To reduce the likelihood that a work group's decisions will be affected by groupthink, the group leader can appoint a member to act as "devil's advocate."
+[20-2] To reduce the likelihood that a work group's decisions will be affected by groupthink, the group leader can appoint a member to act as "devil's advocate."
 
 [21] Janis proposes that group leaders can reduce the risk for groupthink by remaining neutral in the beginning of a discussion, encouraging members to express their opinions, appointing a member to play devil's advocate, and bringing in outside opinions.
 
@@ -228,7 +222,7 @@ ORG: Organizational Decision-Making (10 items)
 
 [019] An employee of the Acme Company who always orders inventory as soon as the level of inventory falls below a specified point is engaging in a programmed decision.
 
-[131] Error: Rewrite failed
+[131] A mindguard is a group member who acts as a self-appointed censor and shields the group and group leader from dissenting views by, for example, actively discouraging members from sharing contradictory ideas. The presence of a mindguard is one of the symptoms of groupthink.
 
 [196] Simon identified cognitive limitations, time constraints, and imperfect or inadequate information as the causes of satisficing, which involves making decisions by considering alternatives only until a minimally acceptable (rather than the best) alternative is found.
 
@@ -248,23 +242,23 @@ ORG: Organizational Leadership (18 items)
 
 [173] As an advocate of Hersey and Blanchard's situational leadership theory, you would recommend that the newly promoted manager adopt a selling leadership style.
 
-[19] The original version of Vroom-Yetton-Jago's leadership model provided a decision tree to help leaders determine the optimal leadership style in a particular situation.
+[19-1] The original version of Vroom-Yetton-Jago's leadership model provided a decision tree to help leaders determine the optimal leadership style in a particular situation.
 
 [17] A high level of consideration is more important for subordinate satisfaction, while a high level of initiating structure is more important for performance.
 
-[18] Female leaders are rated as more effective in feminine work settings, while male leaders are rated as more effective in masculine work settings.
+[18-1] Female leaders are rated as more effective in feminine work settings, while male leaders are rated as more effective in masculine work settings.
 
 [86] A meta-analysis by Eagly et al. (2003) found that men tend to be more transactional than women in terms of active and passive management by exception, while women tend to be more transformational than men and more transactional in terms of contingent rewards.
 
-[19] An advocate of House's path-goal theory would question the supervisor about some of the characteristics of the supervisee and his job tasks, and based on her answers, recommend that she adopt a supportive style with this supervisee.
+[19-2] An advocate of House's path-goal theory would question the supervisor about some of the characteristics of the supervisee and his job tasks, and based on her answers, recommend that she adopt a supportive style with this supervisee.
 
-[18] Low LPC leaders are task-oriented and describe their least preferred coworker in negative terms because they focus on the coworker's task performance, while high LPC leaders are person-oriented and describe their least preferred coworker in positive terms because they separate interpersonal characteristics from task performance.
+[18-2] Low LPC leaders are task-oriented and describe their least preferred coworker in negative terms because they focus on the coworker's task performance, while high LPC leaders are person-oriented and describe their least preferred coworker in positive terms because they separate interpersonal characteristics from task performance.
 
 [20] Judge, Bono, Ilies, and Gerehardt's (2002) meta-analysis found that extraversion is the best predictor of leader effectiveness among the Big Five personality traits.
 
-[18] Ohio State University researchers found that leader behaviors represent two independent dimensions: Leaders high in initiating structure are task-oriented and focus on achieving performance goals, while leaders high in consideration are person-oriented and focus on fostering the trust and respect of subordinates.
+[18-3] Ohio State University researchers found that leader behaviors represent two independent dimensions: Leaders high in initiating structure are task-oriented and focus on achieving performance goals, while leaders high in consideration are person-oriented and focus on fostering the trust and respect of subordinates.
 
-[19] The Vroom-Yetton-Jago contingency model provides a decision tree that poses a series of questions designed to help supervisors determine to what extent subordinates should be allowed to participate in decision-making, with the styles ranging from highly autocratic (make the decision alone) to highly democratic (let group members make the decision).
+[19-3] The Vroom-Yetton-Jago contingency model provides a decision tree that poses a series of questions designed to help supervisors determine to what extent subordinates should be allowed to participate in decision-making, with the styles ranging from highly autocratic (make the decision alone) to highly democratic (let group members make the decision).
 
 [004] The optimal leadership style in Fiedler's contingency model depends on the leader's position power, the nature of the relationships between the leader and the employees, and the task structure.
 
@@ -280,9 +274,9 @@ ORG: Organizational Theories (8 items)
 
 [149] Mayo and his colleagues conducted a series of studies at the Hawthorne plant of the Western Electric Company and found that productivity increased regardless of changes in physical conditions, and they referred to this as the Hawthorne effect.
 
-[15] According to McGregor's Theory Y, managers with an optimistic view of employees see them as being capable of self-direction and self-control.
+[15-1] According to McGregor's Theory Y, managers with an optimistic view of employees see them as being capable of self-direction and self-control.
 
-[15] Taylor believed that worker motivation is most affected by the desire for economic gain, and advocated using a differential piece-rate system that directly links pay to productivity.
+[15-2] Taylor believed that worker motivation is most affected by the desire for economic gain, and advocated using a differential piece-rate system that directly links pay to productivity.
 
 [13] The self-fulfilling prophecy effect is most consistent with McGregor's predictions about Theory X and Theory Y managers.
 
@@ -304,21 +298,21 @@ ORG: Satisfaction, Commitment, and Stress (17 items)
 
 [209] Downsizing survivor syndrome has been attributed to a sense of unfairness and reduction in trust caused by the organization's violation of the psychological contract - i.e., of the unwritten expectations that employees and employers have about their responsibilities and obligations to each other.
 
-[24] A chronically elevated level of the stress hormone cortisol has been linked to a loss of neurons in the hippocampus and memory impairment.
+[24-1] A chronically elevated level of the stress hormone cortisol has been linked to a loss of neurons in the hippocampus and memory impairment.
 
-[23] Longitudinal research has found that an individual's level of job satisfaction tends to be stable over time and across jobs and careers.
+[23-1] Longitudinal research has found that an individual's level of job satisfaction tends to be stable over time and across jobs and careers.
 
-[25] Of the core characteristics of the Type A behavior pattern, hostility has been most closely linked to an increased risk for heart disease and other health problems.
+[25-1] Of the core characteristics of the Type A behavior pattern, hostility has been most closely linked to an increased risk for heart disease and other health problems.
 
-[24] Selye's general adaptation syndrome consists of three stages: alarm reaction, resistance, and exhaustion.
+[24-2] Selye's general adaptation syndrome consists of three stages: alarm reaction, resistance, and exhaustion.
 
-[25] The "3 C's" of hardiness are control, commitment, and challenge, as identified by Kobasa (1982).
+[25-2] The "3 C's" of hardiness are control, commitment, and challenge, as identified by Kobasa (1982).
 
-[23] Of the three main types of organizational commitment (normative, affective, and continuance), affective commitment most highly and consistently correlates with various job outcomes.
+[23-2] Of the three main types of organizational commitment (normative, affective, and continuance), affective commitment most highly and consistently correlates with various job outcomes.
 
-[25] A survey question asking employees to rate the fairness of the processes used to make decisions about employee raises, bonuses, and promotions assesses their perceptions of procedural justice.
+[25-3] A survey question asking employees to rate the fairness of the processes used to make decisions about employee raises, bonuses, and promotions assesses their perceptions of procedural justice.
 
-[013] Error: Rewrite failed
+[013] As long as you have Kobasa linked with the concept of hardiness, you would have been able to easily identify the correct answer to this question. The phrase "to successfully cope with stress" may have acted as a cue to help you recall this link if the name Kobasa didn't immediately help you identify the correct answer. Note that, even if you do not know that Kobasa's concept of hardiness is also known as psychological hardiness, you would want to choose answer A because, of the answers given, it comes closest to what you know.
 
 [020] In contrast to the commonly held belief that women experience greater work-family conflict than men do, the Shockley et al. meta-analysis found that men and women report similar levels of conflict.
 
@@ -338,17 +332,17 @@ ORG: Theories of Motivation (15 items)
 
 [194] To increase motivation and satisfaction of employees at Best Plumbing Supply, the organizational psychologist will most likely recommend that the owner redesign the employees' jobs to provide opportunities for autonomy, responsibility, and advancement, as this is consistent with Herzberg's (1966) two-factor theory.
 
-[197] Error: Rewrite failed
+[197] Research on goal-setting theory has found that, when supervisees participate in setting their own performance goals, the goals tend to be more difficult than the goals the supervisor would have set alone.
 
 [191] The five core job dimensions identified by the job characteristics model are skill variety, task identity, task significance, autonomy, and feedback.
 
-[22] Equity theory predicts that a worker's motivation is affected by the comparisons the worker makes between their input/outcome ratio and the input/outcome ratios of workers doing the same or a similar job.
+[22-1] Equity theory predicts that a worker's motivation is affected by the comparisons the worker makes between their input/outcome ratio and the input/outcome ratios of workers doing the same or a similar job.
 
-[21] Maslow's need hierarchy theory predicts that, when a person's physiological and safety needs have been satisfied, the person will be motivated primarily by their social needs.
+[21-1] Maslow's need hierarchy theory predicts that, when a person's physiological and safety needs have been satisfied, the person will be motivated primarily by their social needs.
 
-[22] When interviewing employees to determine how to alleviate low motivation, an employer familiar with equity theory will focus on the employees' perceptions of the relative fairness of their treatment at work.
+[22-2] When interviewing employees to determine how to alleviate low motivation, an employer familiar with equity theory will focus on the employees' perceptions of the relative fairness of their treatment at work.
 
-[21] Herzberg's two-factor theory predicts that job enrichment is the best way to increase employees' job motivation and satisfaction.
+[21-2] Herzberg's two-factor theory predicts that job enrichment is the best way to increase employees' job motivation and satisfaction.
 
 [23] Equity theory predicts that a worker's motivation is affected by the worker's perceptions of the degree to which he/she is being treated fairly compared to other workers.
 
@@ -376,25 +370,25 @@ ORG: Training Methods and Evaluation (15 items)
 
 [111] Vestibule training is chosen as the optimal method of training because it is less dangerous than on-the-job training.
 
-[100] A needs analysis is conducted to identify training needs and often includes an organizational analysis, task analysis, person analysis, and demographic analysis.
+[100-1] A needs analysis is conducted to identify training needs and often includes an organizational analysis, task analysis, person analysis, and demographic analysis.
 
-[10] Cross-training is a method used to teach each member of a team the essential tasks performed by other team members.
+[10-1] Cross-training is a method used to teach each member of a team the essential tasks performed by other team members.
 
-[11] A formative evaluation is conducted during the development of a training program to determine what changes need to be made for the program to achieve its goals, and it may include having experts review the content of each component of the program and administering measures of attitudes and learning to trainees following delivery of each component.
+[11-1] A formative evaluation is conducted during the development of a training program to determine what changes need to be made for the program to achieve its goals, and it may include having experts review the content of each component of the program and administering measures of attitudes and learning to trainees following delivery of each component.
 
 [12] Kirkpatrick's evaluation model for training programs identifies results as the most informative level, followed by behavior, learning, and reaction.
 
-[10] An organizational psychologist will conduct a needs analysis to determine if the performance of many of its recently hired employees can be improved by providing them with training.
+[10-2] An organizational psychologist will conduct a needs analysis to determine if the performance of many of its recently hired employees can be improved by providing them with training.
 
-[11] Overlearning involves continuing to practice newly acquired skills beyond the point of mastery, resulting in automaticity.
+[11-2] Overlearning involves continuing to practice newly acquired skills beyond the point of mastery, resulting in automaticity.
 
-[10] According to Kirkpatrick's (1998) evaluation model, reaction criteria provide the least valuable information about the effects of a training program.
+[10-3] According to Kirkpatrick's (1998) evaluation model, reaction criteria provide the least valuable information about the effects of a training program.
 
 [09] Overlearning is most useful for skills and knowledge that will be used infrequently on-the-job, as it results in automaticity, which is especially important for tasks performed relatively infrequently and when correct performance is essential because errors can have serious negative consequences.
 
 [009] When acquiring new knowledge or a new skill, overlearning is particularly important when performance errors are likely to be costly.
 
-[100] Summative evaluation, as described by Trochim (2020), does not include implementation evaluation.
+[100-2] Summative evaluation, as described by Trochim (2020), does not include implementation evaluation.
 
 [045] The least accurate description of mentoring in organizations is that mentors identify the agenda for the nature and goals of their relationships with mentees.
 

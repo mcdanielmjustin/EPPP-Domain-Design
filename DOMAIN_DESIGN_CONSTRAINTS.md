@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.7)
+# Domain Design Constraints Checklist (v2.13)
 
 ## 1. Big 4 Model Rules
 
@@ -20,11 +20,11 @@
 - [x] Minimum 70% Mastery
 - [x] Range: 20-30% Fundamental
 
-### Non-Big 4 Assignments
+### Non-Big 4 Assignments (v2.13 names)
 - [x] Position 3: Clinical Psychopathology (30%)
-- [x] Position 4: Therapeutic Psychology (25%)
-- [x] Position 6: Organizational Psychology (30%)
-- [x] Position 8: Psychological Assessment (30%) - *moved from Big 4*
+- [x] Position 4: Psychotherapy Models, Interventions, & Prevention (25%)
+- [x] Position 6: Workforce Development & Leadership (30%)
+- [x] Position 8: Clinical Assessment & Interpretation (30%) - *moved from Big 4*
 - [x] Position 9: Psychopharmacology & Ethics (30%) - Capstone
 
 ## 3. Domain Naming Requirements
@@ -94,18 +94,18 @@ Each domain has a distinctive thematic lean:
 - [x] **Maximum**: 200 anchor points per domain
 - [x] All domains verified within range
 
-### Domain Size Verification (v2.3 - Verified)
-| Domain | Size | Status |
-|--------|------|--------|
-| 1 (Psychometrics) | 193 | ✓ OK |
-| 2 (Developmental) | 175 | ✓ OK |
-| 3 (Psychopathology) | 185 | ✓ OK |
-| 4 (Therapeutic) | 168 | ✓ OK |
-| 5 (Social/Cultural) | 153 | ✓ OK |
-| 6 (Organizational) | 173 | ✓ OK |
-| 7 (Biopsychology) | 192 | ✓ OK |
-| 8 (Assessment) | 152 | ✓ OK |
-| 9 (Pharma/Ethics) | 179 | ✓ OK |
+### Domain Size Verification (v2.13 - Verified)
+| Domain | Name | Size | Status |
+|--------|------|------|--------|
+| 1 | Psychometrics & Research Methods | 193 | ✓ OK |
+| 2 | Lifespan & Developmental Stages | 174 | ✓ OK |
+| 3 | Clinical Psychopathology | 134 | ✓ OK |
+| 4 | Psychotherapy Models, Interventions, & Prevention | 168 | ✓ OK |
+| 5 | Social & Cultural Psychology | 153 | ✓ OK |
+| 6 | Workforce Development & Leadership | 172 | ✓ OK |
+| 7 | Biopsychology | 192 | ✓ OK |
+| 8 | Clinical Assessment & Interpretation | 190 | ✓ OK |
+| 9 | Psychopharmacology & Ethics | 191 | ✓ OK |
 
 ## 10. Additional Constraints
 
@@ -228,3 +228,109 @@ Both components share a common prerequisite structure - they require **integrati
 **Thematic Connection:** Professional integration - applying all prior knowledge responsibly.
 
 The personality "The integrator" captures this capstone nature.
+
+## 19. v2.8 - Data Quality Fixes
+
+**Issues Fixed:**
+
+1. **"Error: Rewrite failed" anchor points (12 items)**
+   - Added fallback to column 7 (full explanation) when column 9 has rewrite error
+   - All 12 broken anchor points now display actual content
+
+2. **Duplicate subdomain headers (14 pairs)**
+   - Added `normalize_subdomain()` function to merge:
+     - Trailing hyphens (e.g., `Disorders` vs `Disorders-`)
+     - `&` vs `and` variations
+     - Case differences (`disorders` vs `Disorders`)
+
+3. **Duplicate anchor point IDs**
+   - Added suffix for duplicate IDs within same subdomain
+   - Example: `[01]`, `[01]`, `[01]` → `[01-1]`, `[01-2]`, `[01-3]`
+   - Unique IDs remain unchanged
+
+## 20. v2.9 - Content-Based Overrides and Deduplication
+
+**Issues Fixed:**
+
+1. **Gender Dysphoria misplacement**
+   - Replaced ID-based override with content-based drug term matching
+   - Removed: `('PPA', 'Sexual Dysfunctions...', '21'): 9` override
+   - Added: `is_pharmacology_content()` function with drug term list
+   - Result: Gender dysphoria anchor points stay in D3; only pharmacology content moves to D9
+
+2. **Content duplication (3 items)**
+   - Added deduplication by content key (first 100 chars, lowercased)
+   - Removed 3 duplicate anchor points across D2, D3, D6
+   - Total anchor points: 1570 → 1567
+
+**Domain size updates (v2.9):**
+| Domain | v2.8 Size | v2.9 Size | Change |
+|--------|-----------|-----------|--------|
+| 2 | 175 | 174 | -1 (dedup) |
+| 3 | 185 | 179 | -6 (pharma move + dedup) |
+| 6 | 173 | 172 | -1 (dedup) |
+| 9 | 179 | 184 | +5 (pharma move) |
+
+## 21. v2.10 - Header Normalization and Quality Review
+
+**Issues Fixed:**
+
+1. **Domain 5 duplicate subdomain headers**
+   - "Errors, Bias, and Heuristics" vs "Errors, Biases, and Heuristics"
+   - Added normalization: `s.replace('Errors, Bias, and Heuristics', 'Errors, Biases, and Heuristics')`
+   - Consolidated: 1 + 14 = 15 items under single header
+
+2. **Domain 9 split Ethics headers**
+   - Variations like "Standards 1 & 2" vs "Standards 1 and 2" vs "Ethics Code Overview..."
+   - Added pattern-based normalization for all 5 Ethics Standard pairs
+   - All headers now use consistent format: "APA Ethics Code [Overview and] Standards X and Y"
+
+**Issues Reviewed (No Change Needed):**
+
+1. **Little Albert factual error claim** - VERIFIED CORRECT
+   - Entry [008]: "white rat was the conditioned stimulus" is accurate
+   - After conditioning, the rat (originally neutral) became the CS
+   - No factual error present
+
+2. **Tort law entry length** - SOURCE DATA ISSUE
+   - Entry [022] in D9 is ~200 words (typical: 30-50 words)
+   - Content is accurate but verbose
+   - This is source CSV content, not an export issue
+   - Documented as known data quality characteristic
+
+3. **Skewed distributions entry length** - SOURCE DATA ISSUE (v2.12)
+   - Entry [058] in D1 is ~150 words / 923 characters
+   - Covers: definition, negative/positive skew, mean/median/mode ordering
+   - Content is accurate and pedagogically complete
+   - Could be split into 2-3 anchor points in future source data revision
+   - Documented as known data quality characteristic
+
+## 22. v2.13 - Domain Naming for Uniqueness
+
+**Issue:** Domain names collided with PrepJet competitor names (Con #8 from comprehensive assessment).
+
+**Collisions identified:**
+- D6: "Organizational Psychology" = PrepJet's exact name
+- D8: "Psychological Assessment" = PrepJet's exact name
+
+**Resolution:** Renamed 6 domains to ensure uniqueness from both ASPPB and PrepJet:
+
+| Domain | Old Name | New Name |
+|--------|----------|----------|
+| 1 | Psychometrics & Scientific Foundations | Psychometrics & Research Methods |
+| 2 | Developmental Psychology | Lifespan & Developmental Stages |
+| 4 | Therapeutic Psychology | Psychotherapy Models, Interventions, & Prevention |
+| 6 | Organizational Psychology | Workforce Development & Leadership |
+| 8 | Psychological Assessment | Clinical Assessment & Interpretation |
+| 9 | Psychopharmacology & Professional Ethics | Psychopharmacology & Ethics |
+
+**Naming criteria applied:**
+- Recognition: Will EPPP students recognize the content area?
+- Uniqueness: Different from ASPPB and PrepJet names?
+- Content Fit: Does it match the actual anchor point allocation?
+- Memorability: Easy to recall?
+
+**Result:** All 9 domains now have unique names that:
+- Use generic academic terminology (not copyrightable)
+- Describe content accurately
+- Are distinct from all competitor branding

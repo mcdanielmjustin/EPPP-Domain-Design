@@ -1,0 +1,452 @@
+================================================================================
+DOMAIN 9: PSYCHOPHARMACOLOGY & ETHICS
+================================================================================
+Total Anchor Points: 191
+================================================================================
+
+--------------------------------------------------------------------------------
+ETH: APA Ethics Code Overview and Standards 1 and 2 (27 items)
+--------------------------------------------------------------------------------
+
+[010] The APA Ethics Code and Canadian Code of Ethics encourage pro bono services, as addressed in their General Principles.
+
+[021] A psychologist should provide requested confidential information about a former client to an Ethics Committee only after confirming the client has signed an authorization to release the information.
+
+[032] To be consistent with ethical requirements, a psychologist who specializes in treating depression but has not worked with African American or low-income clients should agree to see a new client from those populations as long as they consult with a colleague who has experience working with those clients.
+
+[028] Dr. Liu, a licensed psychologist, should provide emergency mental health services to the nearby rural community devastated by a flood until the emergency ends or alternative services become available, despite lacking specific experience working with victims of natural disasters.
+
+[017] The graduate student should discuss the ethical violation with the psychologist, as the psychologist's requirement that his students participate in the research without providing an alternative assignment violates ethical standards.
+
+[006] The APA Ethics Code states that APA may take action against a member who has been expelled or suspended from an affiliated state psychological association or convicted of a felony.
+
+[039] Dr. Andersen should consult with a colleague to help her monitor her effectiveness with clients and determine the best course of action, as she has realized that she hates going home after work and has started feeling negatively toward therapy clients who resemble her abrasive, alcoholic father-in-law.
+
+[04-1] To be consistent with ethical requirements, a psychodynamic psychotherapist with limited experience in mindfulness meditation should inform the client of their limited experience, discuss the client's options, and refer the client to a qualified therapist if they continue to want training in mindfulness meditation.
+
+[02-1] Denying a psychologist a promotion based solely on a pending ethics complaint against them would be unacceptable, as it violates ethical standards that require due process and natural justice procedures for employment decisions.
+
+[03-1] Hiring psychology graduate students to administer measures is acceptable as long as the students are provided with training in administering the measures and relevant ethical guidelines.
+
+[01-1] This situation is addressed in Standards 1.04 and 1.05 of the APA's Ethics Code and Standards II.43 and II.44 of the Canadian Code of Ethics, and an attempt at an informal resolution would be the best initial course of action.
+
+[03-2] As an ethical psychologist, Dr. Berstein should obtain professional consultation to determine the best course of action regarding her attraction to her client Rusty R.
+
+[04-2] A psychologist's new clients are a married couple and their two sons, ages 11 and 16, who moved to the United States from Mexico five years ago, and the psychologist, who does not speak Spanish, should not have the son or aunt act as an interpreter to avoid conflicts and inaccuracies due to a lack of objectivity.
+
+[02-2] As an ethical psychologist, Dr. Swenson should see the clients in therapy but seek consultation with a colleague who has relevant experience.
+
+[02-3] The best course of action when overhearing two members of the clerical staff complaining about the possible unethical behavior of a licensed psychologist, assuming client confidentiality is not an issue and you are not legally required to report the behavior, is to discuss the possible ethical violation with the psychologist.
+
+[04-3] A licensed psychologist, Dr. Ballard, should agree to see an adult client from an unfamiliar ethnic background and seek supervision or consultation by telephone, videoconference, or other means with someone who has experience working with members of this population.
+
+[06] Dr. Unger, a cognitive behavioral psychologist, may conduct therapy via telephone for a client with a disorder that has been successfully treated face-to-face if he has received adequate training in telepsychology, despite the lack of empirical evidence on its effectiveness when conducted via telephone.
+
+[03-3] Psychologists may prioritize ethical responsibilities or legal requirements, depending on the nature of the situation, when facing unresolvable conflicts between their ethical responsibilities and legal requirements, according to the ethics codes of the American and Canadian Psychological Associations.
+
+[01-2] To be consistent with ethical requirements, Dr. Linden should inform Raymond R. of her lack of experience with meditation, discuss his options with him, and give him a referral if he continues to want training in meditation.
+
+[05] Dr. Wallace should refer the family to a therapist who speaks Croatian but, if that's not possible, obtain the assistance of a professional interpreter, as the oldest daughter should not act as an interpreter to be consistent with ethical requirements.
+
+[001] Psychologists may not deny tenure or promotion to an employee solely because that employee is the complainant or respondent in a pending ethics complaint.
+
+[002] To be consistent with ethical requirements, Dr. Maddox should see older adults in therapy if she's able to obtain consultation while doing so with a colleague who has experience working with members of this population.
+
+[014] As an ethical psychologist, you should explain to Anita the seriousness of her allegation and discuss the options she has in the situation where another therapist touched her inappropriately.
+
+[124] When psychologists are faced with conflicts between ethical responsibilities and legal requirements, they may comply with legal requirements when doing so doesn't violate basic human rights.
+
+[099] Open access is most consistent with the General Principle of Justice in the APA's Ethics Code, which calls for fairness and justice to entitle all persons to access to and benefit from the contributions of psychology.
+
+[062] A psychologist should provide the Ethics Committee with the requested client information after confirming that the client has signed an authorization to release the information.
+
+[02-4] Accepting a small gift from a client to avoid causing them to "lose face" is most consistent with the APA Ethics Code principles of Beneficence/Nonmaleficence and Respect for People's Rights and Dignity.
+
+--------------------------------------------------------------------------------
+ETH: APA Ethics Code Standards 3 and 4 (43 items)
+--------------------------------------------------------------------------------
+
+[091] Privilege is a legal concept that protects a client's confidential information from being disclosed in legal proceedings.
+
+[076] The potential limits of confidentiality should ordinarily be discussed with a therapy client at the outset of therapy and subsequently as needed, to be consistent with the requirements of the APA Ethics Code and the Canadian Code of Ethics.
+
+[054] The co-worker's sexually suggestive comments would represent sexual harassment if the co-worker does not stop making them after being told they're offensive, as per the APA Ethics Code.
+
+[065] Giving a client the business card of the psychologist's husband, who is a licensed massage therapist, is unacceptable because it violates ethical prohibitions against engaging in situations that create a conflict of interest.
+
+[087] Dr. Wilson, the court-hired psychologist evaluating the mental competence of a man charged as an accomplice in a bank robbery that ended in the death of a bank employee, provided the court only with information relevant to the man's mental competence, consistent with ethical requirements.
+
+[094] The holder of the privilege is ordinarily the client or the client's legal representative.
+
+[105] Consultation with colleagues is addressed in Standard 4.06 of the Ethics Code, which states that psychologists should not disclose confidential client information unless they have obtained the client's authorization or they do not disclose information "that reasonably could lead to the identification" of the client.
+
+[050] Quid pro quo sexual harassment involves a demand for sexual favors in exchange for job benefits.
+
+[083] After a person's death, the legally authorized person to whom psychologists can disclose confidential information with the appropriate consent is ordinarily the executor of the person's estate, the estate administrator, or other legal representative.
+
+[061] To fulfill ethical requirements for a research study involving 50 sixth grade students, the researcher should obtain assent from each student and permission from the parent(s) of each student.
+
+[11-1] Dr. Bright violated ethical requirements because changing the names of the family members was not adequate given that they are prominent citizens residing in a small town.
+
+[05-1] It is acceptable for a psychologist to decide not to continue seeing a client with antisocial personality disorder as long as the psychologist provides the client with referrals to other mental health professionals.
+
+[08-1] Dr. Miller, who has been hired by the court to conduct a court-ordered evaluation of Edward E., a defendant in a criminal case, does not have to obtain informed consent from Ed before proceeding with the evaluation but should inform him of the limits on confidentiality.
+
+[09-1] Psychologists should let employees using their company's employee assistance program (EAP) know that they will not release any confidential information to the employees' supervisors without the employees' authorization to do so.
+
+[06-1] Before deciding how to proceed, an ethical psychologist should consider whether their shared church membership with new clients is likely to impact their effectiveness as a therapist, in accordance with ethical standards prohibiting multiple relationships that could impair objectivity or competence.
+
+[07-1] Dr. Crosby, a licensed psychologist, should give her clients the phone number of a colleague who is willing to accept their calls and see them in case of an emergency during her two-week absence from her full-time private practice to spend time with her father having hip replacement surgery.
+
+[10-1] Dr. Watson, a newly licensed psychologist, is allowed to consult with a more experienced colleague about a new client without obtaining the client's authorization as long as he can disguise the client's identity, which is consistent with the APA Ethics Code and the Canadian Code of Ethics.
+
+[11-2] This practice is unethical since the intern should be identified as the person who administered and scored the tests.
+
+[05-2] A psychologist should tell the client that they cannot see the client's best friend in therapy and offer to give the friend referrals to other mental health professionals, as seeing the best friend would constitute an unacceptable multiple relationship.
+
+[06-2] Psychologists should usually avoid accepting contingent fees when acting as an expert witness in a legal case, as this is most consistent with the ethical requirements outlined in the APA's Ethics Code and Specialty Guidelines for Forensic Psychology, as well as the Canadian Code of Ethics.
+
+[08-2] Informed consents may be written or verbal but should be documented, as per the requirements of the ethics codes published by the American and Canadian Psychological Associations.
+
+[07-2] To be consistent with ethical guidelines, a psychologist conducting research with psychiatric inpatients who have legal guardians should obtain assent from each patient and informed consent from each patient's legal guardian.
+
+[10-2] To be consistent with ethical guidelines, Dr. Moore should refuse to provide Ms. Kazinsky's mother with information in Max's record without permission of the executor or administrator of his estate, as Max, a former client of Dr. Moore's, passed away two months ago at the age of 32.
+
+[209] Implied consent is inferred from the behaviors or circumstances of a person.
+
+[09-2] The primary concern with using Skype to provide psychotherapy on the Internet is the issue of confidentiality, as people may not be aware that their sessions could be recorded and released by the parent company.
+
+[07-3] A client who you stopped seeing in therapy two months ago calls you to request that you send her a summary of her assessment results by email, which you should do if she has been informed of the potential limits on confidentiality and the information in the email is encrypted.
+
+[10-3] The best course of action is to discuss with Jamie the need to share information about her binging and purging with her parents before contacting them.
+
+[09-3] A psychologist who has unknowingly become involved in a potentially harmful multiple relationship with a current therapy client and a relative of the client should seek consultation to help determine the best course of action, as required by ethical standards.
+
+[11-3] Psychologists do not have to obtain a client's authorization before discussing the client's case with a consultant if they can disguise the client's identity while doing so, according to the ethical guidelines of the American and Canadian Psychological Associations.
+
+[08-3] Dr. Hassan's decision to not provide therapy to Gerard G. due to her personal feelings regarding his past sexual assault conviction is acceptable if she provides him with referrals to other mental health professionals.
+
+[019] As an ethical psychologist, you will consider the nature of your therapeutic relationship with your client Maggie M. and the potential effect on her of your acceptance or refusal of her invitation to a party celebrating the completion of her dissertation before deciding whether or not to accept the invitation, in accordance with the APA's Ethics Code and the Canadian Code of Ethics.
+
+[003] To be consistent with ethical requirements, you should send the school counselor only information you believe is relevant to your client Tyler's problems at school, as per the APA's Ethics Code and the Canadian Code of Ethics.
+
+[020] When a 14-year-old client, Sally, says she has been thinking about killing herself, the best course of action is to continue discussing her feelings to determine if she is actually at risk for attempting suicide.
+
+[009] Under the Privacy Rule of the Health Insurance Portability and Accountability Act (HIPAA), a therapist can deny clients access to their protected health information when they believe that access is reasonably likely to endanger the life or physical safety of the client or other person.
+
+[017] The 1976 Tarasoff decision does not apply to the situation where a client discloses that he engaged in unsafe sex with three partners after receiving his HIV-positive test results 18 months ago but is no longer doing so, and the appropriate actions for the therapist and client depend on state or provincial laws.
+
+[175] A professional executor may be a licensed psychologist or other licensed health provider.
+
+[141] When reporting the results of your evaluation of a 35-year-old applicant for managerial positions at a national chain of toy stores, you do not include information about the applicant's abortion in your report.
+
+[069] Dr. Renee Rochester does not have to obtain informed consent from the defendant but should tell him about the nature of the services being provided and the limits of confidentiality when conducting a court-ordered evaluation of Terrance Tillis, the defendant in a criminal court case, to be consistent with the provisions of the APA's Specialty Guidelines for Forensic Psychology (2013).
+
+[111] When a forensic psychologist is hired to conduct a psychological evaluation of a defendant in a criminal case, the "client" is the person/entity that retained the psychologist.
+
+[133] A psychologist should refuse to conduct a child custody evaluation for a former therapy client, as this would constitute a multiple relationship.
+
+[202] Consumer Skype is not considered HIPAA compliant because it will not enter into a business associate agreement.
+
+[090] When a psychologist is providing therapy to an employee through an employee assistance program (EAP), the psychologist must not provide information to the employee's supervisor without authorization from the employee whether the employee's participation is the result of a self-referral or referral from the supervisor.
+
+[040] A psychologist providing individual therapy to inmates of an adult correctional facility should inform the appropriate prison official of an inmate's intent to physically harm another inmate, given the duty to protect and the priority of safety over confidentiality concerns.
+
+--------------------------------------------------------------------------------
+ETH: APA Ethics Code Standards 5 and 6 (32 items)
+--------------------------------------------------------------------------------
+
+[124] When confidential information is faxed or otherwise transferred electronically, it is not possible to guarantee it will not be accessed by unauthorized individuals, so the best course of action is to remove all identifying information before faxing the requested information to the therapist.
+
+[151-1] A psychologist may refuse to forward a client's record to a colleague for nonpayment of fees only if the records are not needed for the client's emergency treatment.
+
+[135] Accepting contingent fees should usually be avoided, as the APA Ethics Code and Specialty Guidelines for Forensic Psychology state that the threat to impartiality presented by the acceptance of contingent fees should lead forensic practitioners to strive to avoid providing professional services on the basis of contingent fees.
+
+[113] Inviting Annie's husband to participate in Annie's therapy sessions for her social phobia is acceptable since the psychologist believes his participation will benefit Annie, as it is consistent with the standard that prohibits uninvited solicitation but allows attempting to implement appropriate collateral contacts for the purpose of benefiting an already engaged therapy client.
+
+[143] Agreeing to the arrangement where Mrs. Giovanni exchanges home cleaning services for therapy would be unethical, as it creates a potentially harmful multiple relationship.
+
+[102] This arrangement is unacceptable because psychologists are prohibited from compensating employees of newspapers in exchange for a newspaper article about their services.
+
+[116] To be consistent with ethical requirements, psychologists can solicit testimonials from former (but not current) clients as long as they're not vulnerable to undue influence.
+
+[136] APA's Record Keeping Guidelines recommend retaining the full client record until 7 years after the last date of service delivery for adults or until 3 years after a minor reaches the age of majority, whichever is later.
+
+[157] It is acceptable for psychologists to receive a fee from referral of clients to another psychologist only if the fee represents the psychologists' actual costs for referring the clients.
+
+[144] Routinely waiving insurance co-payments without the insurance company's agreement constitutes insurance fraud and is unethical and illegal.
+
+[127] As an ethical psychologist, you should discuss the client's concerns and tell her that you need to keep a record of her sessions and explain your reasons for doing so.
+
+[151-2] To be consistent with ethical requirements, a psychologist will notify the client that they will contact a collection agency if the client does not pay for their services as agreed and does not respond to the psychologist's letters asking them to contact the psychologist to discuss the unpaid bill.
+
+[14-1] Using a collection agency to collect unpaid fees is acceptable only if the psychologist notifies the client of their intent and provides the client an opportunity to make prompt payment before doing so.
+
+[12-1] The designation "Ph.D. (Cand.)" is unacceptable even if it accurately identifies a graduate student's status, as it violates ethical standards by implying an earned credential.
+
+[16-1] Bartering may be acceptable according to the ethics codes of the American and Canadian Psychological Associations when it is not clinically contraindicated.
+
+[13-1] As an ethical psychologist, in-person solicitation of business may be acceptable if it is uninvited as long as it does not target people who are vulnerable to undue influence.
+
+[15-1] Unless a psychologist clearly communicates that responding to viewer emails and calls does not establish a therapeutic relationship, accepting an offer to present mental health information on a TV program would be unethical.
+
+[14-2] Psychologists can ethically place paid advertisements in newspapers as long as the columns are clearly identified as such.
+
+[17] Billing insurance companies for missed appointments without their approval would be insurance fraud, which is both unethical and illegal.
+
+[13-2] It is unacceptable for Dr. Lansky to list her Ph.D. in business administration on her business card and advertisements for her clinical psychology practice, as it does not meet the requirements of the APA's Ethics Code and the Canadian Code of Ethics.
+
+[16-2] Psychologists should reach an agreement with new clients about fees and other financial issues as early as is feasible in the professional relationship.
+
+[15-2] A psychologist starting a private practice may offer the first therapy session for free to new clients if she clearly specifies her usual hourly fee and the purpose of the first session.
+
+[14-3] This situation is directly addressed in Standard 5.04 of the APA Ethics Code and indirectly addressed in Standard III.5 of the Canadian Code of Ethics, where the psychologist would want to make sure that callers understand that a professional therapeutic relationship is not established when she responds to their questions and that the advice or opinions she provides do not constitute therapy.
+
+[12-2] Withholding a client's record for nonpayment of fees is always unethical when the record is needed for the client's emergency treatment.
+
+[16-3] Billing an insurance company for a reimbursable form of therapy instead of the non-reimbursable form that's actually being provided is unethical.
+
+[13-3] Bartering therapy services for yard work and home repairs is unethical according to ethical guidelines, as the therapist would be acting as both therapist and employer, which could affect their objectivity and the therapeutic relationship.
+
+[022] A tort is a civil wrongdoing that results from a negligent breach of duty that results in injury or harm to a patient. Torts can be intentional or unintentional. Conversion (theft of or damage to personal property), infliction of emotional distress, and fraud/deceit are types of intentional torts. Unintentional torts (e.g., malpractice) involve negligence and are also known as negligence torts. Being familiar with the four conditions required for a claim of malpractice would have helped you identify the correct answer to this question: (a) The psychologist must have had a professional relationship with the patient that established the psychologist's duty to conform to a professional standard of care. (b) There was a breach of the duty (i.e., negligence) on the part of the psychologist. (c) The patient suffered injury or harm as a result of this breach. (d) The psychologist's breach of duty was the direct or proximate cause of the patient's harm or injury.
+
+[005] Withholding a therapy client's record for nonpayment of fees is always unethical when it's needed for the client's emergency treatment.
+
+[004] Psychologists must not engage in uninvited in-person solicitation of business from current or potential therapy clients or others who are vulnerable to undue influence.
+
+[147] Psychologists are prohibited from soliciting testimonials from current clients and, in some circumstances, former clients.
+
+[185] The 7th edition of the Publication Manual of the American Psychological Association states that authors should retain raw data associated with their articles published in APA journals in accordance with institutional or funder requirements.
+
+[21] Listing the University of Illinois on Dr. Jackson's business card for her clinical practice is not acceptable since her affiliation with the University of Illinois is not relevant to her clinical practice.
+
+--------------------------------------------------------------------------------
+ETH: APA Ethics Code Standards 7 and 8 (38 items)
+--------------------------------------------------------------------------------
+
+[163-1] Psychologists are prohibited from becoming sexually involved with students over whom they have or are likely to have evaluative authority.
+
+[157] Changing the format of the presentation from a "lecture" to having attendees describe their personal experiences with eating disorders is unethical because it violates the requirements of the APA Ethics Code and Canadian Code of Ethics, which require psychologists to provide accurate descriptions of the content of the programs they provide.
+
+[169-1] Psychologists must allow research participants, who are students receiving class credit, to withdraw from a study at any time during the study, as required by the APA Ethics Code and Canadian Code of Ethics.
+
+[175-1] Dr. Oliver's requirement for students in his Psychology 101 class to participate in another professor's research project is acceptable only if students are given the choice of participating or completing an alternative assignment.
+
+[187-1] According to the ethical requirements for authorship of a journal article based substantially on a student's doctoral dissertation, the student must be listed as the principal author, except under exceptional circumstances.
+
+[181-1] Use of deception in research may be acceptable when alternative procedures are not available and subjects are informed about the deception "as early as is feasible."
+
+[169-2] Dr. Merritt's evaluation of Alice is not acceptable because it was not based entirely on Alice's actual performance as an intern.
+
+[163-2] A graduate program in clinical psychology requires first-year students to participate in individual therapy, which is acceptable as long as there are no multiple relationships between the students and the therapists according to the APA Ethics Code and the Canadian Code of Ethics.
+
+[181-2] Debriefing research participants about the nature and results of a research study is required, but in some cases, debriefing may not be necessary if scientific or humane values justify delaying or withholding this information.
+
+[175-2] Offering inducements to research participants, such as a gift card to a local restaurant, is acceptable as long as it is not likely to coerce participation.
+
+[187-2] It would be unacceptable for the post-doctoral student to list one of the professors in her department as the principal author of the article on the research study she has just completed, as the professor's contribution was relatively minor.
+
+[01] Authors of research articles published in APA journals must retain their data for at least 5 years after the date of publication.
+
+[21-1] According to the ethics codes published by the American and Canadian Psychological Associations, a psychologist who discovers an error in the description of the results of their statistical analysis in a published article is required to take action to correct the error.
+
+[20-1] In his dissertation proposal, a graduate student used the organization and headings used by the author of a published journal article, and used arguments and data presented by that author and the author of another published article on the same topic to justify his study's hypotheses, but he cited both authors only once in the introductory paragraph, which is unacceptable since the graduate student has not given adequate credit to the other authors.
+
+[19-1] Covering only research on aging that produces results similar to one's own studies in an introductory neuropsychology class would be unacceptable, as it violates ethical requirements to present instructional information in an accurate and unbiased manner.
+
+[18-1] The APA Ethics Code and Canadian Code of Ethics require psychologists to allow research participants to withdraw from a study at any time, so an ethical psychologist would allow the students to withdraw from the study.
+
+[17-1] Sexual relationships with supervisees over whom psychologists have evaluative authority are prohibited according to the ethics codes of the American and Canadian Psychological Associations.
+
+[19-2] This issue is addressed in Standard 7.04 of the APA's Ethics Code and the Values Statement for Standard I and Standard I.8 of the Canadian Code of Ethics. Standard 7.04 states that students should not be required to disclose personal information in course- or program-related activities related to psychological treatment except in two circumstances: (a) this requirement has been clearly identified in program and admissions materials or (b) the information is needed to "evaluate or obtain assistance for students whose personal problems could reasonably be judged to be preventing them from performing their training- or professionally related activities in a competent manner or posing a threat to the student or others."
+
+[18-2] This is acceptable as long as the client's complaint is valid and Dr. Devlin has previously provided the intern with feedback about his performance.
+
+[21-2] Psychologists may use deception in a research study when it's justified by the study's prospective value and participants are allowed to withdraw from the study at any time.
+
+[22] Psychologists may use animal subjects in research that causes them pain or stress when alternative procedures are unavailable and doing so is justified by the study's prospective value.
+
+[20-2] Informed consents are not necessary when the study involves investigating normal educational practices, as this is consistent with the provisions of the APA's Ethics Code and the Canadian Code of Ethics.
+
+[17-2] If a psychologist's former intern is not likely to be under the psychologist's evaluative authority in the future, a sexual relationship between them is considered acceptable according to ethical guidelines.
+
+[19-3] If Dr. Wendy Wundt terminates Lloyd's internship due to his recent behaviors, she will have acted ethically only if she first provides Lloyd with a plan to remediate his unacceptable behaviors and Lloyd continues to engage in those behaviors.
+
+[20-3] Offering monetary or other inducements to encourage people to volunteer for a research study is unacceptable if they're likely to coerce participation.
+
+[21-3] Dr. Morten and Dr. Chang are both responsible for the appropriate treatment of animal subjects in the rhesus monkey attachment research.
+
+[18-3] If a research psychologist decides it's not possible to conduct a study without deceiving participants about the true purpose, they must tell participants about the true purpose as early as feasible and allow them to withdraw their data.
+
+[026] The supervisor should determine if it's necessary to reassign the intern's current client to another therapist and discuss with the intern ways that might help her reconcile the conflict between her religious beliefs and the requirement that psychologists work effectively with diverse (including homosexual) clients.
+
+[006] Deception is never acceptable when a research study's procedures may cause participants physical pain or severe emotional distress.
+
+[011] Sexual relationships with students over whom psychologists have evaluative authority are prohibited according to the ethics codes of the American and Canadian Psychological Associations.
+
+[028] Psychologists should ordinarily debrief research participants immediately after their participation but, when that isn't possible, should take steps to reduce the risk for harm.
+
+[222] Except under exceptional circumstances, the student should be listed as principal author on any multiple-authored article that is substantially based on the student's doctoral dissertation.
+
+[156] Requiring psychology students to participate in individual or group therapy may be acceptable if they are allowed to select providers from mental health professionals not affiliated with the program.
+
+[197] Simultaneous (concurrent) submission of an article to multiple journals is unacceptable, as the author(s) should submit the article to one journal at a time and wait for it to be rejected by one journal before submitting it to another journal.
+
+[210] Psychologists may use animal subjects in research that may cause the animals pain or stress when alternative nonpainful and nonstressful procedures are unavailable and use of animals is justified by the potential value of the research.
+
+[046] Changing course requirements is acceptable for a psychology professor if the changes do not affect the ability of students to fulfill the new requirements by the end of the semester.
+
+[26] Before administering an intervention to children with bipolar disorder and acute stress disorder, the psychologist must obtain consent from the child's legal guardian(s) and assent from the child unless assent is waived on capacity grounds or grounds of direct benefit to the child.
+
+[054] A psychologist reviewing a research paper cannot use the unique ideas and procedures presented in the paper in their own research without first obtaining permission from the paper's authors.
+
+--------------------------------------------------------------------------------
+PHY: Psychopharmacology - Antipsychotics and Antidepressants (16 items)
+--------------------------------------------------------------------------------
+
+[213] Selective serotonin reuptake inhibitors (SSRIs) have a better tolerability profile than the tricyclic antidepressants (TCAs) and greater safety in overdose.
+
+[201] The best course of action for a young man with schizophrenia who develops tardive dyskinesia while taking a conventional antipsychotic is to replace the conventional antipsychotic with an atypical antipsychotic.
+
+[208] The tertiary amines (e.g., amitriptyline, imipramine, clomipramine) exert their effects by inhibiting the reuptake of both serotonin and norepinephrine, with some having a greater effect on serotonin, while the secondary amines (e.g., nortriptyline, desipramine) are more potent at inhibiting the reuptake of norepinephrine than serotonin.
+
+[202] When a patient with schizophrenia is taking a neuroleptic (antipsychotic) drug and develops the symptoms of neuroleptic malignant syndrome, the drug should be discontinued immediately because it is a life-threatening side effect.
+
+[23-1] An older adult taking a conventional antipsychotic is at the greatest risk for developing tardive dyskinesia, a condition involving repetitive involuntary movements caused by long-term use of antipsychotic drugs.
+
+[22-1] A person taking monoamine oxidase inhibitors (MAOIs) should avoid eating foods containing tyramine.
+
+[24] Of the antipsychotics, the atypical drug clozapine is most likely to produce agranulocytosis, a rare but potentially fatal blood disorder characterized by an abnormally low level of white blood cells, requiring regular blood monitoring.
+
+[22-2] The risk for developing agranulocytosis, a potentially fatal blood disorder, is greatest for the antipsychotic drug clozapine.
+
+[23-2] The risk for tardive dyskinesia is greatest for a 70-year-old woman taking an antipsychotic drug as a treatment for schizophrenia.
+
+[014] SSRIs and SNRIs are both considered first-line pharmacological treatments for major depressive disorder.
+
+[004] Combining an SSRI with an MAOI, lithium, or other serotonergic drug can cause serotonin syndrome, and treatment involves immediate withdrawal of the serotonergic drugs and providing appropriate medical interventions for the patient's symptoms.
+
+[013] Risperidone and other second-generation (atypical) antipsychotic drugs are serotonin and dopamine antagonists.
+
+[006] A hypertensive crisis may occur when foods containing tyramine are consumed while taking the drug phenelzine.
+
+[120] Akathisia is a movement disorder caused by antipsychotic drugs and is characterized by a sense of restlessness and an urge to keep moving.
+
+[221] Clozapine and, to a lesser extent, other SGAs can cause neutropenia and agranulocytosis, which is a severe form of neutropenia.
+
+[153] If a person with bipolar I disorder is not taking a mood stabilizing drug but begins taking an SSRI to treat her current depressive symptoms, the SSRI may trigger rapid cycling or manic symptoms, as treating the depression of bipolar I disorder with an SSRI or other antidepressant can trigger mania or hypomania or rapid cycling, and treatment guidelines generally recommend prescribing an antidepressant for individuals with bipolar I disorder only when the person is also taking a mood stabilizer.
+
+--------------------------------------------------------------------------------
+PHY: Psychopharmacology - Other Psychoactive Drugs (17 items)
+--------------------------------------------------------------------------------
+
+[207] Anticonvulsant drugs, such as carbamazepine, are often prescribed for individuals with bipolar disorder who have not responded to lithium or cannot tolerate its side effects.
+
+[214] Lithium is used to treat bipolar disorder.
+
+[24-1] Memantine, unlike galantamine, rivastigmine, and donepezil, does not slow the cognitive decline caused by Alzheimer's disease by increasing cholinergic activity.
+
+[25-1] Propranolol and atenolol have been found useful for relieving the physical symptoms of some types of anxiety (especially performance-related anxiety), but they do not have a direct effect on its emotional or cognitive symptoms.
+
+[57] Disulfiram (Antabuse) causes nausea, vomiting, dizziness, confusion, and other unpleasant symptoms when taken in conjunction with alcohol.
+
+[25-2] Naltrexone reduces the rewarding effects of alcohol and cravings for alcohol for a middle-aged patient who has just received a diagnosis of alcohol use disorder.
+
+[54] Benzodiazepines with a shorter half-life are preferred for older adults, and tapering should be slow to reduce the risk and severity of withdrawal symptoms.
+
+[23] The therapeutic index (TI) is a quantitative measure of the relative safety of a drug that is calculated by dividing the lethal dose 50 (LD50), which indicates the minimum drug dose that had a lethal effect in 50% of a test sample, by the effective dose 50 (ED50), which indicates the minimum drug dose that produced the therapeutic (desired) effect in 50% of a test sample, with a larger TI indicating a safer drug.
+
+[25-3] GABA agonists, such as benzodiazepines and barbiturates, produce relaxation and sleepiness.
+
+[24-2] Carbamazepine and valproic acid are anticonvulsant drugs that are considered alternatives to lithium as first-line treatments for the manic episodes associated with bipolar disorder.
+
+[012] For college students without ADHD, taking methylphenidate and other stimulant drugs has positive effects on attention and mood but no beneficial effects on GPA.
+
+[016] Diazepam, alprazolam, and lorazepam are benzodiazepines that are used to treat anxiety and insomnia.
+
+[022] Based on Mr. Wolf's symptoms characteristic of Parkinson's disease, the most effective pharmacological treatment for him is likely to be levodopa.
+
+[007] Dronabinol is a synthetic form of tetrahydrocannabinol (THC) that has been FDA approved for the treatment of chemotherapy-induced nausea and vomiting.
+
+[088] The hallucinogenic drug lysergic acid diethylamide (LSD) is a serotonin agonist.
+
+[177] The effects of methylphenidate, nicotine, cocaine, and other psychostimulants are mediated primarily by the neurotransmitters dopamine and norepinephrine.
+
+[159] THC (tetrahydrocannabinol), the main psychoactive chemical in marijuana, produces its reinforcing effects by increasing dopamine concentrations in the nucleus accumbens.
+
+--------------------------------------------------------------------------------
+PHY: Psychopharmacology: Antipsychotics and Antidepressants (1 items)
+--------------------------------------------------------------------------------
+
+[08] Venlafaxine and duloxetine are SNRIs that are used to treat major depressive disorder, social anxiety disorder, and neuropathic pain.
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorder (2 items)
+--------------------------------------------------------------------------------
+
+[225] When symptoms of generalized anxiety disorder (GAD) do not respond adequately to SSRIs or SNRIs, the drug-of-choice is often the anxiolytic buspirone (Buspar) or a benzodiazepine.
+
+[14] Obsessive-compulsive disorder (OCD) has been linked to low levels of serotonin.
+
+--------------------------------------------------------------------------------
+PPA: Bipolar and Depressive Disorders (5 items)
+--------------------------------------------------------------------------------
+
+[142] Electroconvulsive therapy (ECT) has been found to have higher response and remission rates than repetitive transcranial magnetic stimulation (rTMS) as a treatment for major depressive disorder, with the superiority of ECT being greatest for patients with psychotic depression.
+
+[27] St. John's wort should not be taken with an SSRI because doing so can cause serotonin syndrome.
+
+[25] Esketamine, a nasal spray version of ketamine, has been found to be an effective treatment for treatment-resistant depression.
+
+[001] Research has found that electroconvulsive therapy (ECT) has the fastest time to remission of symptoms compared to cognitive behavioral therapy (CBT), interpersonal therapy (IPT), and antidepressant drugs as treatments for severe depression.
+
+[157] St. John's wort extract is not significantly different from SSRIs in terms of treatment response for mild to moderate depression and has a lower rate of adverse events.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating, Elimination, and Sleep-Wake Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[21] The nonpharmacological treatment-of-choice for insomnia disorder is a multi-component cognitive-behavioral intervention that incorporates stimulus control or sleep restriction with sleep-hygiene education, relaxation training, and/or cognitive therapy.
+
+[025] The medication most useful for reducing daytime sleepiness, improving nighttime sleep, and reducing cataplexy in narcolepsy is sodium oxybate.
+
+--------------------------------------------------------------------------------
+PPA: Neurodevelopmental Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[03] Antipsychotic drugs that reduce dopamine activity in certain areas of the brain have been found useful for suppressing tics.
+
+[038] Autism spectrum disorder has been linked to low brain level and high blood level of serotonin.
+
+--------------------------------------------------------------------------------
+PPA: Schizophrenia Spectrum/Other Psychotic Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[026] Clozapine is considered the most effective medication for treatment-resistant schizophrenia.
+
+--------------------------------------------------------------------------------
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[21] Drugs that increase serotonin are often used to treat premature ejaculation.
+
+[20] Paroxetine is an alternative to behavioral treatments for premature ejaculation.
+
+--------------------------------------------------------------------------------
+PPA: Substance-Related and Addictive Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[007] Research on smoking cessation interventions suggests that counseling and medication are each effective when used alone but the combination of counseling and medication is most effective.
+
+[021] The studies have not yet identified a pharmacological treatment that is consistently effective for cocaine addiction (substance use disorder in the DSM-5).
+
+--------------------------------------------------------------------------------
+PPY: Neurodevelopmental Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[14] The research is not entirely consistent with regard to the association between the use of stimulant drugs by children with ADHD and risk for developing an SUD later in life, with a meta-analysis finding that the use of stimulant medications to treat children with ADHD neither increased nor decreased the risk for later development of an SUD, but a more recent study finding that children with ADHD who began treatment with a stimulant drug at a young age and at a high dose were less likely to develop an SUD than were those who began treatment at an older age and at a lower dose.
+
+
+================================================================================
+END OF DOMAIN
+================================================================================

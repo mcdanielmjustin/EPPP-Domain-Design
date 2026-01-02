@@ -1,0 +1,470 @@
+================================================================================
+DOMAIN 8: CLINICAL ASSESSMENT & INTERPRETATION
+================================================================================
+Total Anchor Points: 190
+================================================================================
+
+--------------------------------------------------------------------------------
+ETH: APA Ethics Code Standards 9 and 10 (33 items)
+--------------------------------------------------------------------------------
+
+[205-1] When the supervisor has legal responsibility for the actions of a psychology intern, the intern must inform clients that he/she is being supervised and give them the supervisor's name.
+
+[211-1] As an ethical psychologist, Dr. King should refer the client to another therapist, as the client was someone he had a sexual relationship with five years ago while in graduate school.
+
+[193-1] As long as Dr. Shadid obtains informed consent from the clients for use of the assessment results for both therapy and research, it is acceptable for him to use the test results in his research study.
+
+[216-1] Unless a reason for continuing therapy (e.g., new therapy goals) can be identified, a therapist should not continue seeing a client when they believe the client is no longer benefitting from therapy, which is consistent with the requirements of the APA Ethics Code and the Canadian Code of Ethics.
+
+[199-1] A psychologist would likely violate ethical requirements for maintaining test security by providing a client's attorney with a copy of test items and the client's answers, even with the client's permission.
+
+[211-2] At the beginning of his fourth therapy session, Antonio tells Dr. Wickham that he's also seeing another therapist who was referred to him by a co-worker, and to be consistent with ethical guidelines, Dr. Wickham should discuss the situation with Antonio to find out why he's seeing two therapists at the same time and determine the best course of action.
+
+[205-2] According to the Ethics Code and the Canadian Code of Ethics, if a client's spouse threatens to harm the therapist, the therapist may terminate therapy with the client with or without providing pretermination counseling.
+
+[216-2] Ethical guidelines prohibit psychologists from becoming sexually involved with former clients unless certain conditions are met.
+
+[072] When conducting group therapy, psychologists should discuss the importance of maintaining confidentiality with group members in the initial and subsequent sessions, as stated in the APA Ethics Code and the Canadian Code of Ethics.
+
+[199-2] As an ethical psychologist, you will explain to the director why you cannot comply with the request to base your decisions primarily on outdated test results and recommend an alternative procedure for evaluating the employees.
+
+[193-2] As an ethical psychologist, you cannot comply with a request to use a personality test that has not been validated as a predictor of job performance for salespeople.
+
+[24-1] The psychologist can administer the measure to older clients if alternative measures are unavailable and he explains the possible limitations of its results to the clients.
+
+[25-1] Psychologists may refuse to release a client's test results to the adult client when they believe that doing so may cause imminent serious physical harm to the client.
+
+[26-1] When a parent, insurance company, or other third party is no longer willing to pay a client's fee for therapy and the client is unable to pay the full fee him/herself, a psychologist should provide pretermination counseling and referrals to alternative services.
+
+[22-1] An ethical psychologist must obtain the patients' consent to use their test information in a research study, in addition to the consent obtained for the initial assessment.
+
+[27] To be consistent with ethical requirements, a psychologist must obtain written consent from a child's parents and verbal assent from the child as soon as possible when seeing the child in individual therapy.
+
+[23-1] Psychologists who use automated scoring and interpretation services are responsible for the validity of the conclusions they derive from them.
+
+[28] When acting as a fact witness in a legal proceeding, psychologists cannot offer their opinions about a defendant's mental state, as fact witnesses testify about the facts (what they have observed), while expert witnesses offer opinions.
+
+[24-2] Hiring a graduate student to administer the MMPI-2 and similar tests may be acceptable as long as the student has had adequate training and will be supervised by the psychologist.
+
+[25-2] Sonia's therapist, Dr. Sholen, should discuss with Sonia the best course of action when Sonia wants to continue seeing Dr. Sholen for therapy in addition to seeing Dr. Benedict.
+
+[26-2] Agreeing to date Ms. Kazinsky, a client Dr. Moore has been seeing in therapy for three months, would be unethical regardless of how much time passes between the last therapy session and their first date, as this would violate the APA's and Canadian Code of Ethics' standards regarding therapist-client relationships.
+
+[23-2] Psychologists may refrain from releasing test data to protect a client/patient or others from substantial harm or misuse or misrepresentation of the data or the test, as per the requirements of the APA's Ethics Code and Canadian Code of Ethics.
+
+[22-2] To be consistent with ethical guidelines, Dr. Tolvardson should discuss the situation further with Marie to determine the best course of action when a client is receiving mental health services from another professional.
+
+[23-3] Providing therapy to former sexual partners is unacceptable under any circumstances, as stated in the APA's Ethics Code and the Canadian Code of Ethics.
+
+[24-3] It may be acceptable to administer a psychological test to members of a particular racial/ethnic group when the reliability and validity of the test have not been established for that group but have been established for other populations, if alternative measures are unavailable and the possible limitations of the test's results are specified, according to the ethics codes of the American and Canadian Psychological Associations.
+
+[008] Dr. Browne will continue dating Susie, who is the sister of one of his former clients, as an ethical psychologist, in accordance with the APA's Ethics Code and the Canadian Code of Ethics.
+
+[013] To be consistent with ethical requirements when evaluating students with limited English skills, Dr. Bernstein may use an interpreter who is fluent in both Spanish and English and has appropriate training, and must indicate the possible limitations of the test results in his report.
+
+[007] Psychologists may use automated and other professional test scoring and interpretation services, but the psychologists are responsible for the appropriate application, interpretation, and use of tests.
+
+[010] Based on the ethical requirements, the psychologist may terminate therapy with Bonnie with or without providing her with pretermination counseling and referrals, due to the threat from Bonnie's boyfriend Bruno.
+
+[024] Since Dr. Stein believes therapy is most effective when all members of the immediate family attend all therapy sessions, the best course of action when Mrs. Miller says her husband is unwilling to attend additional sessions is for Dr. Stein to refer Mrs. Miller to another family therapist who is willing to see only some members of the family.
+
+[027] The best course of action for Dr. Beck is to agree to see Emiko in therapy until her crisis has passed and then provide her with a referral to a colleague if she needs additional therapy sessions.
+
+[164] As described in the Standards for Educational and Psychological Testing, test modifications (but not accommodations) alter the construct measured by the original test.
+
+[078] Psychologists may use obsolete tests and test results in certain circumstances according to the ethical guidelines.
+
+--------------------------------------------------------------------------------
+ETH: Professional Issues (23 items)
+--------------------------------------------------------------------------------
+
+[043] Vicarious liability refers to an employer's legal responsibility for the acts of his/her employees.
+
+[222-1] When receiving a subpoena to provide confidential information about a client without authorization, the appropriate action is to appear in court and claim the privilege on behalf of the client.
+
+[219-1] According to APA guidelines, "physically challenged adults" should not be used to describe research participants in an article.
+
+[222-2] Four conditions must be met for a claim of malpractice: (1) The psychologist must have a legal duty to provide professional services to the client. (2) The psychologist must have breached that duty as the result of negligence or by providing services that did not meet the professional standard of care. (3) The client was psychologically or physically harmed or injured. (4) The psychologist's breach of duty was the cause of the client's harm or injury.
+
+[219-2] To serve as an expert witness in a court case, a psychologist must be determined qualified to do so by the judge.
+
+[212] The APA's (2014) Guidelines for Clinical Supervision in Health Service Psychology identifies protecting the welfare of the supervisee's client as the supervisor's primary legal and ethical obligation.
+
+[28-1] When a psychologist receives a subpoena to testify about a client, he/she should contact the attorney who issued the subpoena and ask to be released from it if the client has not provided authorization to release information.
+
+[27-1] The most acceptable way for psychologists to deal with negative reviews of their services posted by former clients on customer websites is to collect and post patient-satisfaction ratings on their professional websites.
+
+[28-2] Four conditions are required for a claim of malpractice: (a) the psychologist must have had a professional relationship with the client, (b) there was a dereliction or breach of the duty on the part of the psychologist, (c) the client suffered injury or harm as a result of this dereliction or breach, and (d) the psychologist's dereliction or breach of duty was the direct or proximate cause of the person's harm or injury.
+
+[26] When a psychologist receives a valid subpoena requesting that they appear in court to provide information about a current or former client but doesn't have the client's authorization to do so, the psychologist would ordinarily appear as requested by the subpoena but assert (claim) the privilege on the client's behalf and then provide information only with the client's authorization or a court order.
+
+[25] Providing therapy using interactive videoconferencing to a client who is temporarily moving to another city is acceptable if the client will be temporarily residing in the same jurisdiction and may be acceptable if they will be residing in a different jurisdiction, according to ethical guidelines.
+
+[27-2] When testifying as a fact witness in court, a psychologist should not provide an opinion about a client's future functioning unless ordered to do so by the judge.
+
+[018] A psychology intern's primary supervisor must be a licensed psychologist.
+
+[021] A psychologist evaluating a defendant's competency to stand trial focuses on the defendant's ability to understand the charges against them and the nature and range of possible penalties, as well as their ability to cooperate with their attorney, and when a defendant is found incompetent, judicial proceedings are suspended until the defendant receives treatment and their competency is restored.
+
+[012] The appropriate description consistent with the APA Publication Manual guidelines is "adults with a mental illness."
+
+[023] A supervisor's primary ethical and legal obligation is to protect the welfare of the clients of supervisees.
+
+[015] The best course of action for the supervisor is to transfer the psychology intern to another rotation, as the intern's problems are limited to a specific rotation and are probably time-limited since he's reacting to his grandmother's recent diagnosis of Alzheimer's disease.
+
+[025] The insanity defense is raised in less than 1% of all felony cases and leads to acquittal only about 25% of the time.
+
+[016] The integrated developmental model (IDM) of supervision describes a supervisee's stages of development in terms of three characteristics: self-other awareness, motivation, and autonomy.
+
+[019] The ASPPB's E.Passport is one of the requirements for providing telepsychology to a client who is in another jurisdiction.
+
+[116] The goal of APA accreditation is to protect the wellbeing of the public and the interests of students.
+
+[083] According to Shneidman, the purpose of a psychological autopsy is to clarify the manner of death when the manner is equivocal.
+
+[169] You can continue seeing Betsy B., age 49, in therapy via videoconferencing after she moves to another state only if your state and the state she is moving to are PSYPACT states or that state's law permits you to do so.
+
+--------------------------------------------------------------------------------
+PAS: Clinical Tests (18 items)
+--------------------------------------------------------------------------------
+
+[109] The Bender-Gestalt II is a measure of visual-motor integration that's also used as a screening test for brain damage, especially right parietal lobe damage.
+
+[120] The studies have found that use of the standard cutoff score (24) on the MMSE with African American and Latino patients results in too many false positives, so lowering the cutoff score for these patients reduces this problem.
+
+[132] The Glasgow Coma Scale uses eye opening, verbal, and motor responses to stimuli to evaluate a patient's level of consciousness.
+
+[121] Patients with damage to the frontal lobe can be expected to make multiple random errors and perseverative errors on the Wisconsin Card Sorting Test.
+
+[11-1] To confirm a diagnosis of intellectual disability for a 9-year-old child, one would administer a measure of intelligence along with the Vineland-3, a measure of adaptive functioning.
+
+[10-1] A score above 24 on the Mini-Mental State Exam (MMSE) indicates normal cognitive functioning.
+
+[09-1] The Stroop Color Word Test measures selective (focused) attention and the abilities to concentrate and inhibit the most prepotent response.
+
+[11-2] A person at Level X on the revised version of the Rancho Scale of Cognitive Functioning is alert and oriented and can usually function independently but may need extra time or compensatory strategies.
+
+[09-2] An Impairment Index score of 0.4 to 0.5 or above on the Halstead-Reitan Neuropsychological Battery (HRNB) is usually indicative of brain damage, with the cutoff depending on the individual's IQ.
+
+[10-2] The Tower of London is used to assess the problem-solving and planning abilities of a 10-year-old child who has symptoms of autism spectrum disorder, as poor performance on this test has been linked to autism and several other disorders.
+
+[09-3] Research investigating the accuracy of the Mini-Mental State Exam (MMSE) for identifying neurocognitive disorder suggests that it produces higher rates of false positives for African Americans and Hispanic Americans than for European Americans.
+
+[11-3] The Vineland-3 would be most useful for confirming the diagnosis of intellectual disability for a 6-year-old child.
+
+[10-3] When using the Glasgow Coma Scale to assess level of consciousness following a traumatic brain injury, the patient is rated on his/her best eye opening, verbal, and motor responses, with a total rating ranging from 3 to 15, where 15 indicates the patient is fully awake and aware.
+
+[004] The Stroop Color-Word Association Test is best described as a measure of response inhibition.
+
+[006] A patient who receives a rating of Level V (Confused/Inappropriate Nonagitated) on the Rancho Scale of Cognitive Functioning Revised is confused but nonagitated, responds to simple, familiar commands, is not oriented to person, place, or time, has difficulty learning new information, and may wander randomly with a vague intention of going home.
+
+[107] The Boston Process Approach emphasizes observing a patient's problem-solving activity to determine how, when, and why the patient is unable to solve problems.
+
+[076] The Stroop Color and Word Test is most useful for assessing selective attention and response inhibition in children with ADHD.
+
+[176] The Dot Counting Test is most useful for detecting feigned cognitive impairment, as poor effort is suggested when the time taken to count grouped dots is equal to or greater than the time taken to count ungrouped dots.
+
+--------------------------------------------------------------------------------
+PAS: Interest Inventories (6 items)
+--------------------------------------------------------------------------------
+
+[073] Empirical criterion keying involves including items in a scale or test that distinguish between criterion groups, which for the Occupational Scales of the Strong Interest Inventory were people in different occupational groups and a group consisting of "people-in-general."
+
+[12-1] The Kuber Occupational Interest Survey (KOIS) includes Occupational Scales, College Major Scales, and Vocational Interest Estimates, but does not include Personal Styles Scales, which are included in the Strong Interest Inventory (SII).
+
+[12-2] Holland's six occupational themes are realistic, investigative, artistic, social, enterprising, and conventional.
+
+[12-3] The Strong Interest Inventory (SII) does not provide scores on the creative general occupational theme, though it includes scores on Holland's six occupational themes: realistic, investigative, artistic, social, enterprising, and conventional.
+
+[012] Interest inventories are less valid than intelligence tests for predicting job performance.
+
+[193] The items selected for inclusion in each Occupational Scale of the Strong Interest Inventory distinguished between individuals employed in the occupation assessed by the scale and individuals in a general representative sample.
+
+--------------------------------------------------------------------------------
+PAS: MMPI-2 (9 items)
+--------------------------------------------------------------------------------
+
+[084] The L-F-K profile on the MMPI-2 with a low score on the F scale and high scores on the L and K scales suggests that the examinee attempted to make a favorable impression.
+
+[099] Elevated scores on scales 1 (Hs) and 3 (Hy) with a significantly lower score on scale 2 (D) on the MMPI-2 is referred to as the "conversion V" pattern, which is associated with somatization of psychological problems, poor insight into feelings and motivation, and a desire to appear rational and normal.
+
+[01-1] Empirical criterion keying was used to develop the clinical scales of the MMPI-2 by including items that distinguished between clinical groups and a general (nonclinical) group.
+
+[01-2] A 43-year-old man with a history of false disability claims and hoping his current work-related mental disability claim will be accepted is most likely to obtain a low K scale score and high F scale score on the MMPI-2.
+
+[01-3] Parents undergoing child custody evaluations who have symptoms of parental alienation syndrome are more likely to respond defensively to the MMPI-2 as evidenced by higher-than-normal scores on the L and K scales and lower-than-normal scores on the F scale.
+
+[011] The FB (F-Back) scale of the MMPI-2 consists of infrequently endorsed items that indicate an attempt to "fake bad", while the S, TRIN, and VRIN scales assess examinee's tendency to present themselves in an unrealistically positive way and response consistency.
+
+[008] A two-point code of 4-9 on the MMPI-2 is most associated with impulsivity, antisocial tendencies, and low frustration tolerance.
+
+[064] Siegel and Langford (1998) found that mothers exhibiting parental alienation syndrome were more likely to obtain significantly higher L and K scale scores and significantly lower F scale scores on the MMPI-2 compared to mothers not exhibiting parental alienation syndrome.
+
+[13] The F scale of the MMPI provides information on overreporting of psychological symptoms, as items in the F scale are infrequently endorsed by members of the general population, and an elevated F score indicates overreporting of atypical or deviant behaviors or beliefs that may be due to an attempt to "fake bad" or significant pathology.
+
+--------------------------------------------------------------------------------
+PAS: Other Measures of Cognitive Ability (14 items)
+--------------------------------------------------------------------------------
+
+[051-1] The Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5) is used to evaluate the receptive vocabulary of individuals, including those with autism spectrum disorder.
+
+[131] The court's ruling in the 1979 case of Larry P. v. Wilson Riles prohibited schools from using IQ tests to place African American children in special education classes.
+
+[062] The Raven's Progressive Matrices (RPM) tests are measures of fluid intelligence and are considered to be culture-reduced because they do not use language and performance does not depend on specific cultural or academic learning, with three RPM tests: Standard Progressive Matrices, Colored Progressive Matrices, and Advanced Progressive Matrices.
+
+[088] When an occupational interest test provides ipsative scores, this means that an examinee's scores indicate the relative strength of each occupational interest assessed by the test.
+
+[044] The Kaufman Assessment Battery for Children, Second Edition (KABC-II) provides five scale scores (Simultaneous, Sequential, Planning, Learning, and Knowledge) and two global scores that correspond to two theoretical models - the Cattell-Horn-Carroll model of cognitive abilities and the Luria neuropsychological processing model.
+
+[077] The Wonderlic Personnel Test-Revised is a measure of general mental ability used to predict job success.
+
+[08-1] Raven's Standard Progressive Matrices (SPM) is useful for assessing the intelligence of a 26-year-old with limited English proficiency.
+
+[07-1] The Cognitive Assessment System was based on the assumption that planning, attention, simultaneous processing, and sequential processing are the essential elements of intellectual functioning.
+
+[08-2] The Leiter-3 is a nonverbal measure of fluid intelligence that includes subtests evaluating attention, memory, visualization, and reasoning.
+
+[07-2] The Raven's Standard Progressive Matrices is used to assess the nonverbal cognitive abilities of a 10-year-old child with limited English proficiency.
+
+[08-3] The Leiter-3 is a nonverbal measure of cognitive abilities for individuals 3 to 75+ years of age who have cognitive delays, speech or hearing impairments, autism spectrum disorder, or limited English proficiency.
+
+[002] The Coloured Progressive Matrices is a version of Raven's Progressive Matrices for children ages 5 to 11, older adults, and individuals with mental or physical impairments that assesses nonverbal intelligence.
+
+[126] The Columbia Mental Maturity Scale is useful for assessing children 3 to 10 years of age who have sensory, motor, or speech deficits and was originally developed for children with cerebral palsy.
+
+[051-2] An advantage of computerized adaptive tests is that they reduce testing time without losing precision of measurement.
+
+--------------------------------------------------------------------------------
+PAS: Other Measures of Personality (14 items)
+--------------------------------------------------------------------------------
+
+[098] The NEO-PI-3 (NEO Personality Inventory-3) provides scores on the five major domains of personality: neuroticism, extraversion, agreeableness, conscientiousness, and openness to experience.
+
+[110] The Thematic Apperception Test (TAT) was developed based on Murray's personality theory, which describes personality as the result of internal and external forces, such as biological and psychological needs and environmental pressures.
+
+[066] The Leiter International Performance Scale, Third Edition (Leiter-3) is a measure of cognitive abilities for individuals ages 3 to 75+ that is useful for non-English speakers and individuals with language impairments.
+
+[055] Research on the Fagan Test of Intelligence has confirmed that selective attention to novel stimuli in infancy is a good predictor of IQ in childhood, adolescence, and young adulthood.
+
+[03-1] Cattell used the lexical method and factor analysis to develop the Sixteen Personality Factor (16PF) Questionnaire.
+
+[02-1] Confabulation on the Rorschach, which involves overgeneralizing from one detail of an inkblot to the whole inkblot, is associated with a thought disorder caused by organic brain injury or a functional disorder.
+
+[02-2] The items included in the EPPS (Edwards Personal Preference Schedule) assess the 15 needs identified in Murray's theory of needs (e.g., achievement, autonomy, affiliation, dominance).
+
+[04] The purpose of the inquiry phase in administering the Rorschach is to obtain the information needed to accurately code the examinee's responses.
+
+[03-2] Evidence for the five-factor model of personality has been provided by lexical research, which is based on the assumption that universally important personality traits are encoded in language.
+
+[02-3] For the clinical diagnosis of personality disorders, self-report measures are most useful as initial screening devices that are followed by a semistructured interview when they indicate a client has symptoms of a personality disorder.
+
+[03-3] The Myers-Briggs Type Indicator (MBTI) is based on Jung's personality typology and provides information on four bipolar personality dimensions.
+
+[003] The development of the Myers-Briggs Type Indicator was based on Jung's theory of psychological types and the personality research of Isabel Briggs Myers and Katherine Cook Briggs.
+
+[009] Form quality is a measure of perceptual accuracy and indicates the extent to which the examinee's response corresponds to the actual shape of the inkblot when scoring and interpreting the Rorschach test.
+
+[140] A meta-analysis found that both self- and informant-ratings of individuals with Alzheimer's disease indicated significantly higher levels of neuroticism and lower levels of openness and extraversion compared to those without the disease.
+
+--------------------------------------------------------------------------------
+PAS: Stanford-Binet and Wechsler Tests (23 items)
+--------------------------------------------------------------------------------
+
+[029] The Stanford-Binet Intelligence Scales, Fifth Edition (SB5) provides four types of composite scores, including Factor Index scores, that have a mean of 100 and a standard deviation of 15.
+
+[018] Age-related changes in fluid intelligence have been linked to changes in processing speed and working memory.
+
+[040] Individuals with mild Alzheimer's disease typically obtain the highest scores on the Verbal Comprehension Index and the lowest scores on the Processing Speed Index of the WAIS-IV.
+
+[007-1] In the context of psychological assessment, the terms "floor" and "ceiling" refer to the degree to which a test can discriminate among examinees who have very low levels or very high levels of the characteristic measured by the test, with a limited floor indicating the test cannot discriminate well among examinees with low levels, and a limited ceiling indicating the test cannot discriminate well among examinees with high levels.
+
+[011] The SB5 is based on the Cattell-Horn-Carroll model of cognitive abilities and provides scores on five factors derived from that model: knowledge, fluid reasoning, quantitative reasoning, visual-spatial processing, and working memory.
+
+[022] A 20-year-old who has received a diagnosis of ADHD would likely obtain the highest score on the Verbal Comprehension index of the WAIS-IV.
+
+[033] The Wechsler Intelligence Scale for Children, Fifth Edition (WISC-V) is appropriate for individuals ages 6.0 to 16.11.
+
+[04-1] The SB5 administration begins with two routing subtests: object series/matrices and vocabulary.
+
+[05-1] The WAIS-IV full-scale and index scores have a mean of 100 and standard deviation of 15, and the individual subtests have a mean of 10 and standard deviation of 3.
+
+[06-1] The WAIS-IV General Ability Index (GAI) score is useful for obtaining a measure of intelligence that minimizes the effects of working memory and processing speed.
+
+[06-2] Adults with traumatic brain injury are most likely to obtain the highest score on the Verbal Comprehension Index of the WAIS-IV.
+
+[05-2] The Stanford-Binet Intelligence Scales, Fifth Edition (SB5) provides scores on the following five cognitive factors: Fluid Reasoning, Knowledge, Quantitative Reasoning, Visual-Spatial Processing, and Working Memory, but not Abstract Reasoning.
+
+[07] The WPPSI-IV (Wechsler Preschool and Primary Scale of Intelligence, 4th Edition) is appropriate for examinees ages 2:6 to 7:7.
+
+[05-3] Children with ADHD included in the WISC-V standardization sample obtained the lowest score on the Processing Speed Index.
+
+[06-3] Fluid intelligence begins to decline at about 30 to 40 years of age, while crystallized intelligence continues to increase and peaks at 60 to 70 years of age.
+
+[04-2] The SB5 intelligence test is appropriate for a 12-year-old child, with an age range of 2:0 to 85+ years, unlike the WPPSI-IV, WAIS-IV, and CMMS which have different age ranges.
+
+[007-2] The WAIS-IV Processing Speed Index consists of the Symbol Search and Coding subtests, and the supplemental Cancellation subtest.
+
+[001] The WAIS-IV's Global Ability Index (GAI) is based on Verbal Comprehension and Perceptual Reasoning subtest scores, and it's useful when an examiner wants to obtain a measure of general intelligence that's not affected by processing speed or working memory.
+
+[010] A measure of fluid intelligence would not include items that assess numerical reasoning.
+
+[005] Providing adults with training on a demanding working memory task is likely to improve their fluid intelligence even when the working memory task is not similar in format to the fluid intelligence task.
+
+[29] Individuals with nonverbal learning disability (NVLD) tend to obtain significantly higher scores on the WAIS-IV's Verbal Comprehension Index (VCI) than on the Perceptual Reasoning Index (PRI).
+
+[216] The Technical and Interpretive Manual for the WAIS-IV reports the results of several factor analyses that support the test's underlying four-factor structure.
+
+[151] The "classic aging pattern" on measures of IQ refers to the tendency of scores on verbal tests (crystallized intelligence) to hold up fairly well with increasing age while scores on performance tests (fluid intelligence) begin to decline in the 20s.
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorder (7 items)
+--------------------------------------------------------------------------------
+
+[225] Brain activity in the caudate nucleus is elevated in people with obsessive-compulsive disorder (OCD), and cognitive behavior therapy has been shown to reduce that activity.
+
+[160] Exposure with response prevention is a research-supported treatment for obsessive-compulsive disorder.
+
+[13] Interoceptive exposure is a technique used in the treatment of panic disorder that involves exposing the individual to the physical sensations associated with a panic attack.
+
+[12-1] In vivo exposure and response prevention is considered the first-line treatment for agoraphobia, and the research has found that combining exposure with applied relaxation, breathing retraining, or cognitive techniques does not significantly improve outcomes.
+
+[25] For generalized anxiety disorder, the combination of motivational interviewing and CBT is more effective than CBT alone for reducing worry, especially when initial worry is severe.
+
+[12-2] In vivo exposure is most effective when it's paired with applied tension rather than relaxation for specific phobia, blood-injection-injury type.
+
+[012] Research has consistently found internet-delivered cognitive behavior therapy (iCBT) to be equivalent to in-person CBT for reducing the symptoms of social anxiety disorder, with studies also confirming that the beneficial effects of iCBT are short- and long-term.
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[016] Successful treatment with cognitive behavior therapy for a specific phobia will most likely lead to decreased activity in the amygdala, insula, and dorsal anterior cingulate cortex and increased activity in the ventromedial prefrontal cortex, according to functional neuroimaging findings.
+
+--------------------------------------------------------------------------------
+PPA: Bipolar and Depressive Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[18] Cognitive-behavioral therapy and interpersonal psychotherapy are evidence-based treatments for postpartum depression, especially postpartum depression with mild to moderate symptoms.
+
+[172] Family-focused therapy is the treatment-of-choice for a 16-year-old with bipolar I disorder when their parents have become increasingly overprotective and emotionally overinvolved, increasing conflicts between them and the child.
+
+--------------------------------------------------------------------------------
+PPA: Disruptive, Impulse-Control, and Conduct Disorders (3 items)
+--------------------------------------------------------------------------------
+
+[15] Parent-child interaction therapy (PCIT) is an evidence-based family treatment for young children with conduct disorder or other disruptive behavior disorder, and has also been found to be effective for children with a history of maltreatment.
+
+[19] Multisystemic therapy is about equally effective for African American youth and European youth.
+
+[097] The treatment-of-choice for a 6-year-old child with oppositional defiant disorder who has been physically abused by their parents is parent-child interaction therapy.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating and Sleep-Wake Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[006] Family-based treatment for bulimia (FB-BN) involves greater collaboration between parents and the affected adolescent compared to family-based treatment for anorexia (FB-AN).
+
+[010] Cognitive-behavioral therapy and interpersonal psychotherapy are evidence-based treatments for binge-eating disorder.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating, Elimination, and Sleep-Wake Disorders (3 items)
+--------------------------------------------------------------------------------
+
+[180] The moisture alarm has the best long-term effects as the most effective treatment for a child's nocturnal enuresis that is not due to a medical condition.
+
+[17] Research has confirmed that the night alarm, also known as the moisture alarm, enuresis alarm, and bell-and-pad, has the best long-term effects for children who have received a DSM-5 diagnosis of enuresis, nocturnal only.
+
+[061] Family-based treatment for adolescents with anorexia nervosa takes an agnostic view of the disorder and consists of three phases: parental control of the adolescent's eating, gradual return of control to the adolescent, and establishing age-appropriate independence in the adolescent.
+
+--------------------------------------------------------------------------------
+PPA: Neurodevelopmental Disorders (3 items)
+--------------------------------------------------------------------------------
+
+[012] Regulated breathing has been found to be an effective treatment for childhood-onset fluency disorder, also known as stuttering.
+
+[01] Lovaas (1987) used discrimination training and shaping to teach young nonspeaking children with autism spectrum disorder to communicate verbally.
+
+[38] Evidence-based parent-training in behavior management (PTBM) is considered the first-line treatment for preschool children 4 and 5 years of age with ADHD.
+
+--------------------------------------------------------------------------------
+PPA: Personality Disorders (4 items)
+--------------------------------------------------------------------------------
+
+[223] Dialectical behavior therapy is based on the assumption that borderline personality disorder is a disorder of the emotion regulation system that involves high emotional vulnerability coupled with an inability to regulate emotions.
+
+[03] The primary goals of individual therapy in dialectical behavior therapy (DBT) are to reduce quality-of-life interfering behaviors and therapy-interfering behaviors, and to eliminate life-threatening behaviors, except for self-triggering behaviors.
+
+[04] Practitioners of dialectical behavior therapy (DBT) primarily aim to increase generalization of behavioral skills acquired during therapy to everyday situations and crises, as well as repair the therapeutic relationship.
+
+[049] When a therapist is using dialectical behavior therapy (DBT) with a client who has recently received the diagnosis of borderline personality disorder, the client's treatment will least likely include family or couple counseling.
+
+--------------------------------------------------------------------------------
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (4 items)
+--------------------------------------------------------------------------------
+
+[208] Orgasmic reconditioning has been identified as an effective treatment for paraphilic disorder.
+
+[198] The squeeze and start/stop techniques are the two most commonly used behavioral interventions for premature ejaculation.
+
+[22] Interventions for genito-pelvic pain disorder include relaxation training, sensate focus, a topical anesthetic, vaginal dilators, and Kegel exercises, but orgasmic reconditioning is used to treat paraphilic disorders.
+
+[004] Behavioral and cognitive-behavioral techniques have been found effective for treating female orgasmic disorder (FOD), and directed masturbation is the most empirically supported technique (especially for lifelong FOD) and is considered to be the first-line treatment for this disorder.
+
+--------------------------------------------------------------------------------
+PPA: Substance-Related and Addictive Disorders (6 items)
+--------------------------------------------------------------------------------
+
+[202] Marlatt and Gordon's relapse prevention (RP) model proposes that high-risk situations are the immediate precipitants of alcohol use after a period of abstinence.
+
+[140] Community reinforcement and family training (CRAFT) is an evidence-based intervention that was designed for families that include an adult who has a substance use problem but refuses to seek treatment.
+
+[28] When using personalized normative feedback (PNF) as an intervention for Jacob, a 21-year-old college student who frequently engages in heavy alcohol use, his therapist will provide Jacob with information that allows him to compare the frequency of his drinking to the actual average frequency of drinking of other college students.
+
+[223] Project MATCH found that the three treatments (motivational enhancement therapy, cognitive-behavioral therapy, and twelve-step facilitation) produced similar reductions in drinking with a small advantage for twelve-step facilitation, and some support for the hypothesis that matching type of treatment to certain patient characteristics improves treatment outcomes.
+
+[084] Community reinforcement and family training (CRAFT) does not involve helping the concerned significant other (CSO) adopt "loving-detachment" from the identified patient (IP) with the substance-use problem, as that is characteristic of Al-Anon.
+
+[211] Voucher-based reinforcement therapy (VBRT) is most effective for promoting initial abstinence, while cognitive behavior therapy (CBT) is most effective for preventing relapse in patients with cocaine use disorder.
+
+--------------------------------------------------------------------------------
+PPA: Trauma/Stressor-Related, Dissociative, and Somatic Symptom Disorders (3 items)
+--------------------------------------------------------------------------------
+
+[156] Research has found that single-session psychological debriefing as a treatment for PTSD has not been effective and may actually increase PTSD symptoms.
+
+[15] Trauma-focused cognitive-behavioral therapy (TF-CBT) is an evidence-based treatment that was initially designed for children and adolescents ages 3 to 18 years who have experienced sexual abuse.
+
+[070] Face-to-face therapy is similarly effective as computer videoconferencing therapy for reducing PTSD symptoms and for maintaining treatment fidelity.
+
+--------------------------------------------------------------------------------
+TES: Test Score Interpretation (12 items)
+--------------------------------------------------------------------------------
+
+[128] In a normal distribution of scores, a T-score of 60 is equivalent to a z-score of 1.0 and a percentile rank of 84.
+
+[115] In a normal distribution, a percentile rank of 84 indicates that an examinee's score is one standard deviation above the mean.
+
+[126] A T-score distribution has a mean of 50 and a standard deviation of 10.
+
+[12-1] In a normal distribution of scores with a mean of 75 and standard deviation of 5, a raw score of 65 is equivalent to a z-score of -2.0.
+
+[11-1] When raw scores are converted to percentile ranks, the resulting distribution will be rectangular.
+
+[11-2] In a normal distribution, a T-score of 40 is equivalent to a percentile rank of 16.
+
+[12-2] Percentage scores are a type of criterion-referenced score, while all other scores mentioned (e.g., z-scores, T-scores, percentile ranks) are norm-referenced scores.
+
+[12-3] In a normal distribution, a T-score of 40 represents the lowest score.
+
+[11-3] Percentile rank distributions are always flat regardless of the shape of the raw score distribution because percentile ranks are evenly distributed throughout the range of scores: The same number of scores fall between the percentile ranks of 1 and 10, 11 and 20, 21 and 30, etc.
+
+[004] In a normal distribution, a T-score of 65 represents the highest score.
+
+[127] Banding is based on the assumption that small differences in selection test scores are not necessarily associated with meaningful differences in job performance.
+
+[15] In a normal distribution, a percentile rank of 84 and a T-score of 60 are both one standard deviation above the mean.
+
+
+================================================================================
+END OF DOMAIN
+================================================================================

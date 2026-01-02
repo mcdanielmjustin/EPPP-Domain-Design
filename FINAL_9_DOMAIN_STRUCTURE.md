@@ -1,4 +1,4 @@
-# Final 9-Domain Structure
+# Final 9-Domain Structure (v2.0)
 ## Comprehensive Analysis-Driven Design
 
 ---
@@ -8,8 +8,9 @@
 Based on comprehensive analysis of all 1,570 anchor points, this structure:
 - Re-sorts content by **thematic lean** (distinctive character)
 - Follows **prerequisite sequences** for optimal scaffolding
-- Implements **Big 4 dispersed model** (positions 1, 2, 5, 8)
+- Implements **Big 4 dispersed model** (positions 1, 2, 5, 7)
 - Applies **fundamental/mastery percentages** per specifications
+- **4th Big 4 range expanded to 7-9** (Biopsychology placed at position 7)
 
 ---
 
@@ -23,8 +24,8 @@ Based on comprehensive analysis of all 1,570 anchor points, this structure:
 | **4** | Therapeutic Psychology | Mechanisms of change | 25% | — |
 | **5** | Social & Cultural Psychology | Identity & group dynamics | 50% | BIG 4 |
 | **6** | Organizational Psychology | Human performance & systems | 30% | — |
-| **7** | Biopsychology | Brain anatomy & neural circuits | 25% | — |
-| **8** | Psychological Assessment | Clinical interpretation & profiles | 45% | BIG 4 |
+| **7** | Biopsychology | Brain anatomy & neural circuits | 45% | BIG 4 |
+| **8** | Psychological Assessment | Clinical interpretation & profiles | 30% | — |
 | **9** | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decision-making | 20% | — |
 
 ---
@@ -51,11 +52,12 @@ Statistical reasoning underlies ALL psychological knowledge claims. This domain 
 | TES | Item Analysis and Test Reliability | Measurement quality (reliability focus) |
 | TES | Test Validity - Content and Construct | Measurement quality (validity focus) |
 | TES | Test Validity - Criterion-Related | Predictive accuracy |
+| TES | Test Score Interpretation | Score conversion and comparison |
 | LEA | Classical Conditioning (theory only) | Foundational learning mechanism |
 | LEA | Operant Conditioning (theory only) | Foundational learning mechanism |
 
 ### Fundamental vs Mastery Split (60/40)
-- **Fundamental (60%):** Basic statistics, research design concepts, reliability/validity definitions, conditioning principles
+- **Fundamental (60%):** Basic statistics, research design concepts, reliability/validity definitions, conditioning principles, score interpretation basics
 - **Mastery (40%):** Applying statistics to evaluate research, choosing appropriate designs, critiquing studies
 
 ### Prerequisite Role
@@ -64,7 +66,7 @@ This domain provides the foundation for:
 - Interpreting assessment validity (Domain 8)
 - Evaluating evidence-based practice (all domains)
 
-### Estimated Questions: ~200
+### Estimated Questions: ~185-200
 
 ---
 
@@ -101,7 +103,7 @@ This domain provides the foundation for:
 - Understanding treatment adaptations for age (Domain 4)
 - Assessing children/adolescents (Domain 8)
 
-### Estimated Questions: ~175
+### Estimated Questions: ~185-200
 
 ---
 
@@ -138,7 +140,7 @@ Psychopathology emphasizes CAUSES - genetic vulnerabilities, biological mechanis
 Requires: Domain 2 (normal development)
 Enables: Domain 4 (treatment selection)
 
-### Estimated Questions: ~210
+### Estimated Questions: ~190-210
 
 ---
 
@@ -162,7 +164,6 @@ The emphasis is on HOW therapy produces change - not just what techniques exist,
 | CLI | Prevention and Consultation | Preventive mechanisms, consultation process |
 | LEA | Interventions - Classical Conditioning | Extinction, counterconditioning mechanisms |
 | LEA | Interventions - Operant Conditioning | Reinforcement-based change mechanisms |
-| LEA | Memory and Forgetting | Memory modification mechanisms |
 
 ### Fundamental vs Mastery Split (25/75)
 - **Fundamental (25%):** Basic therapy models, technique definitions
@@ -172,7 +173,7 @@ The emphasis is on HOW therapy produces change - not just what techniques exist,
 Requires: Domain 1 (outcome research), Domain 2 (developmental adaptations), Domain 3 (diagnosis)
 Enables: Evidence-based treatment planning
 
-### Estimated Questions: ~170
+### Estimated Questions: ~175-190
 
 ---
 
@@ -207,7 +208,7 @@ Identity (individual and cultural) shapes how people perceive, behave, and respo
 ### Prerequisite Role
 Big 4 reinforcement mid-sequence. Contextualizes individual psychology within social systems.
 
-### Estimated Questions: ~155
+### Estimated Questions: ~135-150
 
 ---
 
@@ -243,7 +244,7 @@ Organizations are systems where human performance can be measured, predicted, an
 ### Prerequisite Role
 Applies psychological principles to professional contexts. Integrates motivation, group dynamics, and assessment.
 
-### Estimated Questions: ~175
+### Estimated Questions: ~170-180
 
 ---
 
@@ -261,24 +262,27 @@ Understanding WHERE in the brain processes occur and HOW neural circuits functio
 | Source | Subdomain | Lean Justification |
 |--------|-----------|-------------------|
 | PHY | Brain Regions - Hindbrain/Midbrain/Subcortical | Anatomical structures and functions |
-| PHY | Brain Regions - Cerebral Cortex | Cortical localization |
-| PHY | Nervous System, Neurons, Neurotransmitters | Neural circuit communication |
+| PHY | Brain Regions - Cerebral Cortex | Cortical localization, hemispheric specialization |
+| PHY | Nervous System, Neurons, Neurotransmitters | Neural circuit communication, receptor mechanisms |
 | PHY | Sensation and Perception | Sensory circuit processing |
-| PHY | Memory and Sleep | Memory circuit consolidation |
-| PHY | Emotions and Stress | Limbic circuit function |
-| PHY | Neurological and Endocrine Disorders | Circuit dysfunction |
+| PHY | Memory and Sleep | Memory circuit consolidation, sleep architecture |
+| PHY | Emotions and Stress | Limbic circuit function, HPA axis |
+| PHY | Neurological and Endocrine Disorders | Circuit dysfunction, lesion effects |
+| LEA | Memory and Forgetting | Neural basis of encoding, retrieval, memory systems |
 
-### Fundamental vs Mastery Split (25/75)
-- **Fundamental (25%):** Brain structure names, neurotransmitter types, basic circuit concepts
-- **Mastery (75%):** Predicting lesion effects, interpreting neuroimaging, understanding circuit dysfunction in disorders
+### Fundamental vs Mastery Split (45/55)
+- **Fundamental (45%):** Brain structure names and basic functions, neurotransmitter types (dopamine, serotonin, GABA, acetylcholine, glutamate), basic nervous system organization, sleep stages, basic sensory processing
+- **Mastery (55%):** Predicting lesion effects, interpreting neuroimaging, understanding circuit dysfunction in disorders, applying neurotransmitter knowledge to clinical presentations
 
 ### Prerequisite Role
-Requires: Domain 1 (research foundations)
-Enables: Domain 9 (pharmacology - how drugs affect circuits)
+**BIG 4 DOMAIN** - Provides critical foundation for:
+- Domain 9 (pharmacology requires neurotransmitter knowledge)
+- Understanding biological bases of psychopathology
+- Neuropsychological assessment interpretation
 
-**Note:** Neurotransmitters are introduced here (delayed as requested)
+**Note:** Neurotransmitters are introduced here (delayed as requested). This domain MUST precede Domain 9 (Pharmacology) because all drug mechanisms require understanding of neurotransmitter systems and receptor mechanisms.
 
-### Estimated Questions: ~145
+### Estimated Questions: ~180-200
 
 ---
 
@@ -299,18 +303,18 @@ The emphasis is on INTERPRETING test results - recognizing patterns, understandi
 | PAS | Other Cognitive Ability Measures | Cognitive pattern analysis |
 | PAS | MMPI-2 | Validity and clinical scale profiles |
 | PAS | Other Personality Measures | Personality profile interpretation |
-| PAS | Clinical Tests | Screening interpretation |
+| PAS | Clinical Tests | Screening interpretation (Bender-Gestalt, MMSE, WCST) |
 | PAS | Interest Inventories | Career profile interpretation |
-| TES | Test Score Interpretation | Converting and comparing scores |
 
-### Fundamental vs Mastery Split (45/55)
-- **Fundamental (45%):** Score types, test purposes, basic interpretation rules
-- **Mastery (55%):** Profile analysis, pattern recognition, integrated interpretation, clinical decision-making
+### Fundamental vs Mastery Split (30/70)
+- **Fundamental (30%):** Score types (T-scores, z-scores, percentiles), test purposes, basic interpretation rules, classical test theory concepts
+- **Mastery (70%):** Profile analysis, pattern recognition, integrated interpretation, clinical decision-making, neuropsychological test interpretation, special population considerations
 
 ### Prerequisite Role
-Big 4 reinforcement late-sequence. Integrates psychometric foundations (Domain 1) with clinical application.
+Requires: Domain 1 (psychometric foundations), Domain 7 (brain knowledge for neuropsych tests)
+Benefits from prior biopsychology knowledge for neuropsychological assessment interpretation.
 
-### Estimated Questions: ~85
+### Estimated Questions: ~95-110
 
 ---
 
@@ -327,28 +331,30 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 | Source | Subdomain | Lean Justification |
 |--------|-----------|-------------------|
-| PHY | Psychopharmacology - Antipsychotics/Antidepressants | Drug mechanisms, receptor effects |
-| PHY | Psychopharmacology - Other Drugs | Anxiolytics, mood stabilizers, mechanisms |
-| ETH | Ethics Code Overview, Standards 1 & 2 | Foundational ethical principles |
-| ETH | Standards 3 & 4 | Relationships and confidentiality decisions |
+| PHY | Psychopharmacology - Antipsychotics/Antidepressants | Drug mechanisms, receptor effects (dopamine antagonism, serotonin reuptake) |
+| PHY | Psychopharmacology - Other Drugs | Anxiolytics (GABA), mood stabilizers, cognitive enhancers |
+| ETH | Ethics Code Overview, Standards 1 & 2 | Foundational ethical principles, competence |
+| ETH | Standards 3 & 4 | Multiple relationships and confidentiality decisions |
 | ETH | Standards 5 & 6 | Advertising and record-keeping decisions |
 | ETH | Standards 7 & 8 | Education and research ethics |
 | ETH | Standards 9 & 10 | Assessment and therapy ethics |
-| ETH | Professional Issues | Legal and professional decision-making |
+| ETH | Professional Issues | Malpractice, vicarious liability, forensic issues |
 
 ### Fundamental vs Mastery Split (20/80)
-- **Fundamental (20%):** Drug classes, basic ethics code structure
-- **Mastery (80%):** Predicting drug effects/interactions, navigating ethical dilemmas, integrating biological and ethical considerations
+- **Fundamental (20%):** Drug class names, basic ethics code structure, general principles
+- **Mastery (80%):** Predicting drug effects/interactions, side effect profiles (NMS, tardive dyskinesia, serotonin syndrome), navigating ethical dilemmas, integrating biological and ethical considerations
 
 ### Prerequisite Role
-CAPSTONE domain. Requires integration of:
-- Domain 7 (neural circuits for drug mechanisms)
+**CAPSTONE DOMAIN** - Requires integration of:
+- Domain 7 (neural circuits and neurotransmitters for drug mechanisms)
 - All clinical domains (for ethical scenarios)
 - Research foundations (for research ethics)
 
+**Critical Prerequisite:** Domain 7 (Biopsychology) MUST come before this domain. Students cannot understand "SSRIs inhibit serotonin reuptake" without first learning what serotonin is and how reuptake works.
+
 **Note:** Pharmacology positioned last as requested
 
-### Estimated Questions: ~230
+### Estimated Questions: ~225-240
 
 ---
 
@@ -403,7 +409,7 @@ CAPSTONE domain. Requires integration of:
               ▼                       ▼
 ┌─────────────────────────┐ ┌─────────────────────────┐
 │  [6] ORGANIZATIONAL     │ │  [7] BIOPSYCHOLOGY      │
-│      PSYCHOLOGY         │ │      (25% Fund)         │
+│      PSYCHOLOGY         │ │      ★ BIG 4 (45% Fund) │
 │      (30% Fund)         │ │      Lean: Brain anatomy │
 │      Lean: Human        │ │      & neural circuits   │
 │      performance        │ │      "How does the brain │
@@ -419,7 +425,7 @@ CAPSTONE domain. Requires integration of:
                         ▼
     ┌─────────────────────────────────────────────────┐
     │  [8] PSYCHOLOGICAL ASSESSMENT                   │
-    │      ★ BIG 4 (45% Fund)                         │
+    │      (30% Fund)                                 │
     │      Lean: Clinical interpretation & profiles   │
     │      "What do the scores mean?"                 │
     └─────────────────────┬───────────────────────────┘
@@ -430,7 +436,7 @@ CAPSTONE domain. Requires integration of:
     │      (20% Fund) - CAPSTONE                      │
     │      Lean: Drug mechanisms & ethical decisions  │
     │      "How do we practice responsibly?"          │
-    │      [PHARMACOLOGY]                             │
+    │      [PHARMACOLOGY - requires Domain 7]         │
     └─────────────────────────────────────────────────┘
 ```
 
@@ -440,46 +446,65 @@ CAPSTONE domain. Requires integration of:
 
 | Domain | Name | Lean | Questions | % | Type |
 |--------|------|------|-----------|---|------|
-| 1 | Psychometrics & Scientific Foundations | Statistical reasoning | ~200 | 12.7% | BIG 4 |
-| 2 | Developmental Psychology | Stage theories | ~175 | 11.1% | BIG 4 |
-| 3 | Clinical Psychopathology | Genetics/etiology | ~210 | 13.4% | — |
-| 4 | Therapeutic Psychology | Mechanisms of change | ~170 | 10.8% | — |
-| 5 | Social & Cultural Psychology | Identity/groups | ~155 | 9.9% | BIG 4 |
-| 6 | Organizational Psychology | Human performance | ~175 | 11.1% | — |
-| 7 | Biopsychology | Brain anatomy | ~145 | 9.2% | — |
-| 8 | Psychological Assessment | Clinical interpretation | ~85 | 5.4% | BIG 4 |
-| 9 | Psychopharmacology & Professional Ethics | Drug mechanisms/ethics | ~230 | 14.6% | — |
-| **TOTAL** | | | **~1,545** | **100%** | |
+| 1 | Psychometrics & Scientific Foundations | Statistical reasoning | ~185-200 | 12.5% | BIG 4 |
+| 2 | Developmental Psychology | Stage theories | ~185-200 | 12.5% | BIG 4 |
+| 3 | Clinical Psychopathology | Genetics/etiology | ~190-210 | 12.8% | — |
+| 4 | Therapeutic Psychology | Mechanisms of change | ~175-190 | 11.7% | — |
+| 5 | Social & Cultural Psychology | Identity/groups | ~135-150 | 9.1% | BIG 4 |
+| 6 | Organizational Psychology | Human performance | ~170-180 | 11.2% | — |
+| 7 | Biopsychology | Brain anatomy | ~180-200 | 12.2% | BIG 4 |
+| 8 | Psychological Assessment | Clinical interpretation | ~95-110 | 6.6% | — |
+| 9 | Psychopharmacology & Professional Ethics | Drug mechanisms/ethics | ~225-240 | 14.9% | — |
+| **TOTAL** | | | **~1,540-1,580** | **100%** | |
 
 ---
 
 ## Validation Checklist
 
-### Big 4 Model
+### Big 4 Model ✓
 - [x] Position 1: Big 4 (60% Fund) - Psychometrics
 - [x] Position 2: Big 4 (55% Fund) - Developmental
 - [x] Position 5: Big 4 (50% Fund) - Social/Cultural
-- [x] Position 8: Big 4 (45% Fund) - Assessment
+- [x] Position 7: Big 4 (45% Fund) - **Biopsychology** (4th Big 4 range: 7-9)
 
-### Non-Big 4 Rules
+### Non-Big 4 Rules ✓
 - [x] Position 3: 30% Fund (max 30%) - Psychopathology
 - [x] Position 4: 25% Fund (max 30%) - Therapeutic
 - [x] Position 6: 30% Fund (max 30%) - Organizational
-- [x] Position 7: 25% Fund (max 30%) - Biopsychology
+- [x] Position 8: 30% Fund (max 30%) - **Assessment** (moved from Big 4)
 - [x] Position 9: 20% Fund (max 30%) - Pharmacology/Ethics
 
-### Content Sequencing
-- [x] Neurotransmitters delayed to Domain 7
-- [x] Pharmacology delayed to Domain 9 (capstone)
+### Content Sequencing ✓
+- [x] Neurotransmitters introduced in Domain 7 (Biopsychology)
+- [x] Pharmacology in Domain 9 (capstone) - requires Domain 7 prerequisite
 - [x] Normal development (Domain 2) before psychopathology (Domain 3)
 - [x] Research foundations (Domain 1) early
 - [x] Ethics integrated in capstone (Domain 9)
+- [x] Biopsychology (Domain 7) before Pharmacology (Domain 9) - CRITICAL
 
-### Domain Character
+### Domain Character ✓
 - [x] Each domain has distinctive thematic lean
 - [x] Professional naming (like "Psychopathology", "Biopsychology")
 - [x] Recognizable but distinct from ASPPB
 - [x] Character drives content framing within domain
+
+---
+
+## Source Domain Distribution
+
+| Source | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | D9 |
+|--------|----|----|----|----|----|----|----|----|----|
+| **PHY (175)** | 5% | 5% | 10% | — | — | — | 55% | 5% | 20% |
+| **PPA (208)** | — | 10% | 80% | 5% | — | — | — | 5% | — |
+| **CLI (193)** | — | — | — | 65% | 30% | — | — | — | 5% |
+| **ETH (196)** | — | — | — | — | — | — | — | — | 100% |
+| **LIF (174)** | — | 90% | — | — | 5% | — | 5% | — | — |
+| **ORG (173)** | — | — | — | — | — | 100% | — | — | — |
+| **LEA (98)** | — | — | — | 20% | — | — | 80% | — | — |
+| **SOC (98)** | — | — | — | — | 100% | — | — | — | — |
+| **TES (84)** | 90% | — | — | — | — | — | — | 10% | — |
+| **PAS (84)** | 15% | — | — | — | — | — | 5% | 80% | — |
+| **RMS (84)** | 100% | — | — | — | — | — | — | — | — |
 
 ---
 
@@ -493,9 +518,21 @@ CAPSTONE domain. Requires integration of:
 | Therapeutic Psychology | Treatment (15%) | Mechanisms of change lean; includes behavioral |
 | Social & Cultural Psychology | Social/Cultural (11%) | Identity/groups lean; includes clinical cross-cultural |
 | Organizational Psychology | — | Distinct domain (not in ASPPB Part 1 weighting) |
-| Biopsychology | Biological Bases (10%) | Brain anatomy lean; excludes pharmacology |
-| Psychological Assessment | Assessment/Diagnosis (16%) | Clinical interpretation lean; profile-focused |
+| Biopsychology | Biological Bases (10%) | Brain anatomy lean; **BIG 4 status**; excludes pharmacology |
+| Psychological Assessment | Assessment/Diagnosis (16%) | Clinical interpretation lean; profile-focused; non-Big 4 |
 | Psychopharmacology & Prof. Ethics | Ethical/Legal (16%) | Combined capstone; drug mechanisms + ethics |
+
+---
+
+## Key Changes in v2.0
+
+| Change | v1.0 | v2.0 | Rationale |
+|--------|------|------|-----------|
+| 4th Big 4 | Assessment (Position 8) | Biopsychology (Position 7) | Biopsychology is foundational for pharmacology; more aligned with EPPP weighting |
+| Big 4 Range | Positions 1, 2, 5, 8 | Positions 1, 2, 5, 7 | Expanded 4th Big 4 range to 7-9 |
+| Biopsychology Fund% | 25% | 45% | Now Big 4 status with higher fundamental content |
+| Assessment Fund% | 45% | 30% | Now non-Big 4 with max 30% fundamental |
+| Prerequisite Chain | Implicit | Explicit | Biopsychology → Pharmacology chain documented as critical |
 
 ---
 
@@ -506,8 +543,9 @@ This domain structure represents original intellectual work that:
 1. **Re-clusters content** based on thematic leans derived from comprehensive anchor point analysis
 2. **Creates distinctive domain characters** that differentiate our approach
 3. **Applies scaffolding theory** based on prerequisite relationship mapping
-4. **Integrates across traditional boundaries** (e.g., conditioning split between Domains 1 and 4)
+4. **Integrates across traditional boundaries** (e.g., conditioning split between Domains 1 and 4; memory split between Domains 4 and 7)
 5. **Maintains content fidelity** while transforming organizational framework
 6. **Follows the Big 4 model** with dispersed fundamental reinforcement
+7. **Honors critical prerequisite chains** (Biopsychology → Pharmacology)
 
 The structure is recognizable to psychology professionals while being distinctly organized for optimal learner outcomes.

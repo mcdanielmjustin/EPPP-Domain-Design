@@ -1,7 +1,7 @@
 ================================================================================
 DOMAIN 9: PSYCHOPHARMACOLOGY & PROFESSIONAL ETHICS
 ================================================================================
-Total Anchor Points: 174
+Total Anchor Points: 179
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -395,6 +395,28 @@ PHY: Psychopharmacology: Antipsychotics and Antidepressants (1 items)
 --------------------------------------------------------------------------------
 
 [08] Venlafaxine and duloxetine are SNRIs that are used to treat major depressive disorder, social anxiety disorder, and neuropathic pain.
+
+--------------------------------------------------------------------------------
+PPA: Bipolar and Depressive Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[27] St. John's wort should not be taken with an SSRI because doing so can cause serotonin syndrome.
+
+[157] St. John's wort extract is not significantly different from SSRIs in terms of treatment response for mild to moderate depression and has a lower rate of adverse events.
+
+--------------------------------------------------------------------------------
+PPA: Neurodevelopmental Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[03] Antipsychotic drugs that reduce dopamine activity in certain areas of the brain have been found useful for suppressing tics.
+
+--------------------------------------------------------------------------------
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (2 items)
+--------------------------------------------------------------------------------
+
+[21] Drugs that increase serotonin are often used to treat premature ejaculation.
+
+[21] The DSM-5 diagnosis of gender dysphoria requires a discordance between one's experienced and assigned gender.
 
 
 ================================================================================

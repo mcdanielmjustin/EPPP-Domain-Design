@@ -1,7 +1,7 @@
 ================================================================================
 DOMAIN 3: CLINICAL PSYCHOPATHOLOGY
 ================================================================================
-Total Anchor Points: 190
+Total Anchor Points: 185
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -59,7 +59,7 @@ PPA: Anxiety Disorders and Obsessive-Compulsive Disorders (1 items)
 [016] Successful treatment with cognitive behavior therapy for a specific phobia will most likely lead to decreased activity in the amygdala, insula, and dorsal anterior cingulate cortex and increased activity in the ventromedial prefrontal cortex, according to functional neuroimaging findings.
 
 --------------------------------------------------------------------------------
-PPA: Bipolar and Depressive Disorders (26 items)
+PPA: Bipolar and Depressive Disorders (24 items)
 --------------------------------------------------------------------------------
 
 [132] The DSM-5 diagnosis of major depressive disorder requires the presence of at least five characteristic symptoms with at least one symptom being a depressed mood or a loss of interest or pleasure in usual activities.
@@ -88,8 +88,6 @@ PPA: Bipolar and Depressive Disorders (26 items)
 
 [09] According to the DSM-5-TR, just under 7% of women experience a major depressive episode between birth of their offspring and 12 months postpartum.
 
-[27] St. John's wort should not be taken with an SSRI because doing so can cause serotonin syndrome.
-
 [08] No-suicide contracts don't reduce clients' risk for suicide or provide legal protection for therapists.
 
 [06] Gina's symptoms, including elevated mood, increased goal activity, racing thoughts, and decreased need for sleep, are most suggestive of bipolar I disorder, which is diagnosed when a person has had at least one manic episode that lasted for at least one week.
@@ -103,8 +101,6 @@ PPA: Bipolar and Depressive Disorders (26 items)
 [003] The rates of major depressive disorder are about the same for boys and girls until puberty when there's a substantial increase in the rates for girls and the difference begins to approach the 2:1 female-to-male ratio that is found among adults.
 
 [150] For a DSM diagnosis of bipolar II disorder, a person must have had at least one hypomanic episode and one major depressive episode.
-
-[157] St. John's wort extract is not significantly different from SSRIs in terms of treatment response for mild to moderate depression and has a lower rate of adverse events.
 
 [172] Family-focused therapy is the treatment-of-choice for a 16-year-old with bipolar I disorder when their parents have become increasingly overprotective and emotionally overinvolved, increasing conflicts between them and the child.
 
@@ -207,7 +203,7 @@ PPA: Feeding/Eating, Elimination, and Sleep-Wake Disorders- (1 items)
 [023] People with insomnia disorder most often underestimate their total sleep time and overestimate their sleep onset latency.
 
 --------------------------------------------------------------------------------
-PPA: Neurodevelopmental Disorders (18 items)
+PPA: Neurodevelopmental Disorders (17 items)
 --------------------------------------------------------------------------------
 
 [034] The DSM-5 diagnosis of ADHD requires the presence of characteristic symptoms in at least two settings (e.g., at home and at school) with an onset before 12 years of age and a duration of at least six months.
@@ -227,8 +223,6 @@ PPA: Neurodevelopmental Disorders (18 items)
 [01] Lovaas (1987) used discrimination training and shaping to teach young nonspeaking children with autism spectrum disorder to communicate verbally.
 
 [02] The DSM-5 diagnosis of attention-deficit/hyperactivity disorder (ADHD) requires the onset of some symptoms before 12 years of age.
-
-[03] Antipsychotic drugs that reduce dopamine activity in certain areas of the brain have been found useful for suppressing tics.
 
 [38] Evidence-based parent-training in behavior management (PTBM) is considered the first-line treatment for preschool children 4 and 5 years of age with ADHD.
 
@@ -349,7 +343,7 @@ PPA: Schizophrenia Spectrum/Other Psychotic Disorders- (3 items)
 [026] Clozapine is considered the most effective medication for treatment-resistant schizophrenia.
 
 --------------------------------------------------------------------------------
-PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (10 items)
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (8 items)
 --------------------------------------------------------------------------------
 
 [208] Orgasmic reconditioning has been identified as an effective treatment for paraphilic disorder.
@@ -362,11 +356,7 @@ PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (10 items)
 
 [22] Interventions for genito-pelvic pain disorder include relaxation training, sensate focus, a topical anesthetic, vaginal dilators, and Kegel exercises, but orgasmic reconditioning is used to treat paraphilic disorders.
 
-[21] Drugs that increase serotonin are often used to treat premature ejaculation.
-
 [22] Gender confirmation surgery is generally associated with a decrease in gender dysphoria, high levels of satisfaction, and a low incidence of regret, with somewhat better outcomes for transgender male patients (Lawrence, 2017).
-
-[21] The DSM-5 diagnosis of gender dysphoria requires a discordance between one's experienced and assigned gender.
 
 [20] Paroxetine is an alternative to behavioral treatments for premature ejaculation.
 

@@ -1,6 +1,16 @@
 import csv
 import os
 
+# v2.3: Anchor-point-level overrides (highest priority)
+# Format: (source, subdomain, anchor_id) -> domain
+anchor_point_overrides = {
+    # Pharmacology content moved from D3 to D9
+    ('PPA', 'Neurodevelopmental Disorders', '03'): 9,  # Antipsychotics for tics
+    ('PPA', 'Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders', '21'): 9,  # Serotonin for PE
+    ('PPA', 'Bipolar and Depressive Disorders', '27'): 9,  # St. John's wort + SSRI
+    ('PPA', 'Bipolar and Depressive Disorders', '157'): 9,  # St. John's wort comparison
+}
+
 # Define subdomain to domain mapping based on v2.1 structure
 subdomain_mapping = {
     # Domain 1: Psychometrics & Scientific Foundations
@@ -157,8 +167,11 @@ with open(csv_path, 'r', encoding='utf-8') as f:
         # Determine domain
         domain = None
 
-        # Check specific mapping first
-        if (source, subdomain) in specific_mappings:
+        # v2.3: Check anchor-point-level overrides first (highest priority)
+        if (source, subdomain, anchor_id) in anchor_point_overrides:
+            domain = anchor_point_overrides[(source, subdomain, anchor_id)]
+        # Check specific subdomain mapping
+        elif (source, subdomain) in specific_mappings:
             domain = specific_mappings[(source, subdomain)]
         # Then check source-level mapping
         elif source in subdomain_mapping:

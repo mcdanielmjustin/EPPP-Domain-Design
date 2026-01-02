@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.2)
+# Domain Design Constraints Checklist (v2.3)
 
 ## 1. Big 4 Model Rules
 
@@ -94,18 +94,18 @@ Each domain has a distinctive thematic lean:
 - [x] **Maximum**: 200 anchor points per domain
 - [x] All domains verified within range
 
-### Domain Size Verification (v2.2 - Verified)
+### Domain Size Verification (v2.3 - Verified)
 | Domain | Size | Status |
 |--------|------|--------|
 | 1 (Psychometrics) | 193 | ✓ OK |
 | 2 (Developmental) | 175 | ✓ OK |
-| 3 (Psychopathology) | 190 | ✓ OK |
+| 3 (Psychopathology) | 185 | ✓ OK |
 | 4 (Therapeutic) | 168 | ✓ OK |
 | 5 (Social/Cultural) | 153 | ✓ OK |
 | 6 (Organizational) | 173 | ✓ OK |
 | 7 (Biopsychology) | 192 | ✓ OK |
 | 8 (Assessment) | 152 | ✓ OK |
-| 9 (Pharma/Ethics) | 174 | ✓ OK |
+| 9 (Pharma/Ethics) | 179 | ✓ OK |
 
 ## 10. Additional Constraints
 
@@ -149,3 +149,22 @@ Each domain has a distinctive thematic lean:
 **Rationale:**
 - Test Score Interpretation moved to D8 (interpretation belongs with clinical assessment)
 - Neurocognitive Disorders moved to D7 (brain-based disorders belong with biopsychology)
+
+## 14. v2.3 Changes Summary
+
+| Constraint | v2.2 | v2.3 |
+|------------|------|------|
+| Domain 3 Size | 190 | 185 |
+| Domain 9 Size | 174 | 179 |
+| Pharmacology in D3 | 4 items | 0 items |
+
+**Moved anchor points (D3 → D9):**
+- PPA: Neurodevelopmental Disorders [03] - Antipsychotics for tics
+- PPA: Sexual Dysfunctions... [21] - Serotonin for premature ejaculation
+- PPA: Bipolar and Depressive Disorders [27] - St. John's wort + SSRI interaction
+- PPA: Bipolar and Depressive Disorders [157] - St. John's wort comparison to SSRIs
+
+**Rationale:**
+- Reduces prerequisite violation (pharmacology content appearing before biopsychology)
+- Drug mechanism content belongs in Psychopharmacology domain
+- D3 now focuses purely on disorder presentation/etiology

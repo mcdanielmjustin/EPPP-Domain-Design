@@ -223,6 +223,9 @@ v2.4    | 2026-01-01 | Raised Domain 9 fundamental % from 20% to 30%
 v2.5    | 2026-01-01 | Fixed Domain 3 personality/lean mismatch
         |            | Changed personality: "The nosologist" → "The psychopathologist"
         |            | Matches domain name; encompasses etiology + disease processes
+v2.6    | 2026-01-01 | Documented cognitive-affective content distribution
+        |            | Closed issue: content intentionally spread across D1,D2,D4,D7,D8
+        |            | This is by design, not an omission
 
 
 ================================================================================

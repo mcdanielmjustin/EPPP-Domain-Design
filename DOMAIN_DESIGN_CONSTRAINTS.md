@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.5)
+# Domain Design Constraints Checklist (v2.6)
 
 ## 1. Big 4 Model Rules
 
@@ -192,3 +192,22 @@ Each domain has a distinctive thematic lean:
 - "Nosologist" (classifier) didn't match lean "Genetics & etiology" (causation)
 - "Psychopathologist" matches domain name "Clinical Psychopathology"
 - Encompasses both etiology (causes) and disease processes (presentation)
+
+## 17. v2.6 - Cognitive-Affective Content (Design Note)
+
+**Issue Raised:** EPPP tests "Cognitive-Affective Bases" at ~13%, but no domain has a "cognitive" lean.
+
+**Resolution:** Closed - by design.
+
+Cognitive-affective content is intentionally distributed across domains for thematic coherence:
+
+| EPPP Content | Distribution |
+|--------------|--------------|
+| Learning/Conditioning | D1 (theory) + D4 (interventions) |
+| Memory | D7 (Biopsychology) |
+| Perception/Sensation | D7 (Biopsychology) |
+| Emotion | D7 (Biopsychology) |
+| Cognitive Development | D2 (Developmental) |
+| Intelligence | D8 (Assessment) |
+
+This is a deliberate design choice, not an omission.

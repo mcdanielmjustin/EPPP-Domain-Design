@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.0)
+# Domain Design Constraints Checklist (v2.1)
 
 ## 1. Big 4 Model Rules
 
@@ -88,14 +88,33 @@ Each domain has a distinctive thematic lean:
 - [x] Original domain names
 - [x] Content fidelity maintained
 
-## 9. Additional Constraints
+## 9. Domain Size Constraints (NEW in v2.1)
+
+- [x] **Minimum**: 130 anchor points per domain
+- [x] **Maximum**: 200 anchor points per domain
+- [x] All domains verified within range
+
+### Domain Size Verification
+| Domain | Size | Status |
+|--------|------|--------|
+| 1 (Psychometrics) | ~185-195 | ✓ OK |
+| 2 (Developmental) | ~180-190 | ✓ OK |
+| 3 (Psychopathology) | ~180-190 | ✓ OK |
+| 4 (Therapeutic) | ~150-165 | ✓ OK |
+| 5 (Social/Cultural) | ~160-170 | ✓ OK |
+| 6 (Organizational) | ~170-175 | ✓ OK |
+| 7 (Biopsychology) | ~180-195 | ✓ OK |
+| 8 (Assessment) | ~135-145 | ✓ OK |
+| 9 (Pharma/Ethics) | ~190-200 | ✓ OK |
+
+## 10. Additional Constraints
 
 - [x] 9 domains total
 - [x] All ~1,570 anchor points mapped
 - [x] Question distribution reasonable across domains
 - [x] Domains have "character" in a professional way
 
-## 10. v2.0 Changes Summary
+## 11. v2.0 Changes Summary
 
 | Constraint | v1.0 | v2.0 |
 |------------|------|------|
@@ -104,3 +123,14 @@ Each domain has a distinctive thematic lean:
 | Biopsychology Status | Non-Big 4 (25%) | Big 4 (45%) |
 | Assessment Status | Big 4 (45%) | Non-Big 4 (30%) |
 | Prerequisite Chain | Implicit | Explicit (Domain 7 → Domain 9) |
+
+## 12. v2.1 Changes Summary
+
+| Constraint | v2.0 | v2.1 |
+|------------|------|------|
+| Domain 8 Size | ~95-110 | ~135-145 |
+| Domain 9 Size | ~225-240 | ~190-200 |
+| Domain Size Constraint | None | 130-200 anchor points |
+| ETH Distribution | 100% D9 | 22% D8, 78% D9 |
+| ETH Standards 9 & 10 | Domain 9 | Domain 8 |
+| ETH Professional Issues | All D9 | Split D8/D9 |

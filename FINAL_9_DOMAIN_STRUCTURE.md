@@ -1,5 +1,5 @@
-# Final 9-Domain Structure (v2.0)
-## Comprehensive Analysis-Driven Design
+# Final 9-Domain Structure (v2.1)
+## Comprehensive Analysis-Driven Design - Rebalanced
 
 ---
 
@@ -293,7 +293,7 @@ Understanding WHERE in the brain processes occur and HOW neural circuits functio
 **Personality:** "The diagnostician" - interpretation-focused, profile-oriented, integrative
 
 ### Why This Lean?
-The emphasis is on INTERPRETING test results - recognizing patterns, understanding profiles, making clinical inferences. Not just knowing tests exist, but knowing what scores MEAN.
+The emphasis is on INTERPRETING test results - recognizing patterns, understanding profiles, making clinical inferences. Not just knowing tests exist, but knowing what scores MEAN. Includes ethical practice in assessment and forensic contexts.
 
 ### Content Mapping
 
@@ -305,16 +305,18 @@ The emphasis is on INTERPRETING test results - recognizing patterns, understandi
 | PAS | Other Personality Measures | Personality profile interpretation |
 | PAS | Clinical Tests | Screening interpretation (Bender-Gestalt, MMSE, WCST) |
 | PAS | Interest Inventories | Career profile interpretation |
+| ETH | Standards 9 & 10 | Assessment and therapy ethics - proper administration, scoring, interpretation, informed consent |
+| ETH | Professional Issues (partial) | Forensic issues, vicarious liability, assessment-related professional practice |
 
 ### Fundamental vs Mastery Split (30/70)
-- **Fundamental (30%):** Score types (T-scores, z-scores, percentiles), test purposes, basic interpretation rules, classical test theory concepts
-- **Mastery (70%):** Profile analysis, pattern recognition, integrated interpretation, clinical decision-making, neuropsychological test interpretation, special population considerations
+- **Fundamental (30%):** Score types (T-scores, z-scores, percentiles), test purposes, basic interpretation rules, classical test theory concepts, basic assessment ethics
+- **Mastery (70%):** Profile analysis, pattern recognition, integrated interpretation, clinical decision-making, neuropsychological test interpretation, special population considerations, ethical dilemmas in assessment
 
 ### Prerequisite Role
 Requires: Domain 1 (psychometric foundations), Domain 7 (brain knowledge for neuropsych tests)
 Benefits from prior biopsychology knowledge for neuropsychological assessment interpretation.
 
-### Estimated Questions: ~95-110
+### Estimated Questions: ~135-145
 
 ---
 
@@ -325,7 +327,7 @@ Benefits from prior biopsychology knowledge for neuropsychological assessment in
 **Personality:** "The integrator" - mechanism-focused, principle-driven, professionally-grounded
 
 ### Why This Lean?
-Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) HOW to navigate ethical complexity. Both require sophisticated decision-making and integration of prior knowledge.
+Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) HOW to navigate ethical complexity. Both require sophisticated decision-making and integration of prior knowledge. Focuses on ethics related to research, competence, confidentiality, and advertising rather than assessment-specific ethics.
 
 ### Content Mapping
 
@@ -337,8 +339,7 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 | ETH | Standards 3 & 4 | Multiple relationships and confidentiality decisions |
 | ETH | Standards 5 & 6 | Advertising and record-keeping decisions |
 | ETH | Standards 7 & 8 | Education and research ethics |
-| ETH | Standards 9 & 10 | Assessment and therapy ethics |
-| ETH | Professional Issues | Malpractice, vicarious liability, forensic issues |
+| ETH | Professional Issues (partial) | Malpractice, general professional ethics |
 
 ### Fundamental vs Mastery Split (20/80)
 - **Fundamental (20%):** Drug class names, basic ethics code structure, general principles
@@ -352,9 +353,9 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 **Critical Prerequisite:** Domain 7 (Biopsychology) MUST come before this domain. Students cannot understand "SSRIs inhibit serotonin reuptake" without first learning what serotonin is and how reuptake works.
 
-**Note:** Pharmacology positioned last as requested
+**Note:** Pharmacology positioned last as requested. Assessment/therapy ethics (Standards 9 & 10) and forensic professional issues moved to Domain 8.
 
-### Estimated Questions: ~225-240
+### Estimated Questions: ~190-200
 
 ---
 
@@ -446,16 +447,18 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 | Domain | Name | Lean | Questions | % | Type |
 |--------|------|------|-----------|---|------|
-| 1 | Psychometrics & Scientific Foundations | Statistical reasoning | ~185-200 | 12.5% | BIG 4 |
-| 2 | Developmental Psychology | Stage theories | ~185-200 | 12.5% | BIG 4 |
-| 3 | Clinical Psychopathology | Genetics/etiology | ~190-210 | 12.8% | — |
-| 4 | Therapeutic Psychology | Mechanisms of change | ~175-190 | 11.7% | — |
-| 5 | Social & Cultural Psychology | Identity/groups | ~135-150 | 9.1% | BIG 4 |
-| 6 | Organizational Psychology | Human performance | ~170-180 | 11.2% | — |
-| 7 | Biopsychology | Brain anatomy | ~180-200 | 12.2% | BIG 4 |
-| 8 | Psychological Assessment | Clinical interpretation | ~95-110 | 6.6% | — |
-| 9 | Psychopharmacology & Professional Ethics | Drug mechanisms/ethics | ~225-240 | 14.9% | — |
-| **TOTAL** | | | **~1,540-1,580** | **100%** | |
+| 1 | Psychometrics & Scientific Foundations | Statistical reasoning | ~185-195 | 12.2% | BIG 4 |
+| 2 | Developmental Psychology | Stage theories | ~180-190 | 11.8% | BIG 4 |
+| 3 | Clinical Psychopathology | Genetics/etiology | ~180-190 | 11.8% | — |
+| 4 | Therapeutic Psychology | Mechanisms of change | ~150-165 | 10.0% | — |
+| 5 | Social & Cultural Psychology | Identity/groups | ~160-170 | 10.5% | BIG 4 |
+| 6 | Organizational Psychology | Human performance | ~170-175 | 11.0% | — |
+| 7 | Biopsychology | Brain anatomy | ~180-195 | 12.0% | BIG 4 |
+| 8 | Psychological Assessment | Clinical interpretation | ~135-145 | 8.9% | — |
+| 9 | Psychopharmacology & Professional Ethics | Drug mechanisms/ethics | ~190-200 | 12.4% | — |
+| **TOTAL** | | | **~1,530-1,625** | **100%** | |
+
+**v2.1 Rebalancing Note:** Moved ETH Standards 9 & 10 (33 points) and partial Professional Issues (~10 points) from Domain 9 to Domain 8 to meet the 130-200 anchor point constraint.
 
 ---
 
@@ -497,7 +500,7 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 | **PHY (175)** | 5% | 5% | 10% | — | — | — | 55% | 5% | 20% |
 | **PPA (208)** | — | 10% | 80% | 5% | — | — | — | 5% | — |
 | **CLI (193)** | — | — | — | 65% | 30% | — | — | — | 5% |
-| **ETH (196)** | — | — | — | — | — | — | — | — | 100% |
+| **ETH (196)** | — | — | — | — | — | — | — | 22% | 78% |
 | **LIF (174)** | — | 90% | — | — | 5% | — | 5% | — | — |
 | **ORG (173)** | — | — | — | — | — | 100% | — | — | — |
 | **LEA (98)** | — | — | — | 20% | — | — | 80% | — | — |
@@ -505,6 +508,8 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 | **TES (84)** | 90% | — | — | — | — | — | — | 10% | — |
 | **PAS (84)** | 15% | — | — | — | — | — | 5% | 80% | — |
 | **RMS (84)** | 100% | — | — | — | — | — | — | — | — |
+
+**Note:** ETH distribution updated in v2.1 - 22% to Domain 8 (Standards 9 & 10 + partial Professional Issues), 78% remains in Domain 9.
 
 ---
 
@@ -533,6 +538,20 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 | Biopsychology Fund% | 25% | 45% | Now Big 4 status with higher fundamental content |
 | Assessment Fund% | 45% | 30% | Now non-Big 4 with max 30% fundamental |
 | Prerequisite Chain | Implicit | Explicit | Biopsychology → Pharmacology chain documented as critical |
+
+---
+
+## Key Changes in v2.1
+
+| Change | v2.0 | v2.1 | Rationale |
+|--------|------|------|-----------|
+| Domain 8 Size | ~95-110 | ~135-145 | Rebalanced to meet 130-200 constraint |
+| Domain 9 Size | ~225-240 | ~190-200 | Rebalanced to meet 130-200 constraint |
+| ETH Standards 9 & 10 | Domain 9 | Domain 8 | Assessment/therapy ethics fit Assessment domain thematically |
+| ETH Professional Issues | All Domain 9 | Split D8/D9 | Forensic/assessment-related issues moved to Domain 8 |
+| ETH Distribution | 100% D9 | 22% D8, 78% D9 | Better thematic alignment and size constraints |
+
+**v2.1 Constraint:** All domains must have 130-200 anchor points
 
 ---
 

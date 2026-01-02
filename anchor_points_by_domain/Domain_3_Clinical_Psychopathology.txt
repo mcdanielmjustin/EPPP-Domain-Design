@@ -1,0 +1,534 @@
+================================================================================
+DOMAIN 3: CLINICAL PSYCHOPATHOLOGY
+================================================================================
+Total Anchor Points: 210
+================================================================================
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorder (16 items)
+--------------------------------------------------------------------------------
+
+[154] According to DSM-5, in contrast to people with nonpathological anxiety, those with generalized anxiety disorder are more likely to experience physical symptoms in conjunction with worrying and to experience worrying as uncontrollable.
+
+[148] School refusal due to separation anxiety disorder is characterized by excessive fear or anxiety about being separated from an attachment figure, accompanied by symptoms such as repeated nightmares related to separation and physical symptoms.
+
+[160] Exposure with response prevention is a research-supported treatment for obsessive-compulsive disorder.
+
+[134] Children with generalized anxiety disorder are most likely to worry about academic and athletic performance and about natural disasters.
+
+[112] People with the blood-injection-injury type of specific phobia are more likely to experience vasovagal fainting instead of increased sympathetic nervous system arousal when confronted with the feared object or event.
+
+[13] Interoceptive exposure is a technique used in the treatment of panic disorder that involves exposing the individual to the physical sensations associated with a panic attack.
+
+[14] Obsessive-compulsive disorder (OCD) has been linked to low levels of serotonin.
+
+[12] In vivo exposure and response prevention is considered the first-line treatment for agoraphobia, and the research has found that combining exposure with applied relaxation, breathing retraining, or cognitive techniques does not significantly improve outcomes.
+
+[14] For a DSM-5 diagnosis of social anxiety disorder, the client must exhibit a fear of being embarrassed or humiliated in social situations.
+
+[15] The median age of onset of specific phobia is between 7 and 11 years of age according to the DSM-5.
+
+[11] Jessie's fear of being separated from her parents is characteristic of separation anxiety disorder which may be triggered by a life stress, such as the death of a pet.
+
+[10] The DSM-5 diagnosis of agoraphobia requires the presence of marked anxiety related to at least two of five situations - using public transportation, being in open spaces, being in enclosed spaces, standing in line or being in a crowd, and being outside of the home alone, and learning that Sonia has anxiety attacks not only when she uses public transportation but also when she goes outside her house alone would help confirm this diagnosis.
+
+[12] In vivo exposure is most effective when it's paired with applied tension rather than relaxation for specific phobia, blood-injection-injury type.
+
+[028] Increased sensitivity to environmental stimuli is not included in the DSM-5 as a symptom of a panic attack, whereas depersonalization, fear of losing control or "going crazy," and paresthesias (numbness or tingling sensations) are included.
+
+[077] Anna's symptoms are characteristic of emetophobia, a fear of vomiting, which is categorized in the DSM as a specific phobia, other type.
+
+[044] The insufficient top-down control hypothesis predicts that generalized anxiety disorder (GAD) is due to reduced connectivity between the prefrontal cortex, amygdala, and anterior cingulate cortex.
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorder- (4 items)
+--------------------------------------------------------------------------------
+
+[225] Brain activity in the caudate nucleus is elevated in people with obsessive-compulsive disorder (OCD), and cognitive behavior therapy has been shown to reduce that activity.
+
+[225] When symptoms of generalized anxiety disorder (GAD) do not respond adequately to SSRIs or SNRIs, the drug-of-choice is often the anxiolytic buspirone (Buspar) or a benzodiazepine.
+
+[25] For generalized anxiety disorder, the combination of motivational interviewing and CBT is more effective than CBT alone for reducing worry, especially when initial worry is severe.
+
+[012] Research has consistently found internet-delivered cognitive behavior therapy (iCBT) to be equivalent to in-person CBT for reducing the symptoms of social anxiety disorder, with studies also confirming that the beneficial effects of iCBT are short- and long-term.
+
+--------------------------------------------------------------------------------
+PPA: Anxiety Disorders and Obsessive-Compulsive Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[016] Successful treatment with cognitive behavior therapy for a specific phobia will most likely lead to decreased activity in the amygdala, insula, and dorsal anterior cingulate cortex and increased activity in the ventromedial prefrontal cortex, according to functional neuroimaging findings.
+
+--------------------------------------------------------------------------------
+PPA: Bipolar and Depressive Disorders (26 items)
+--------------------------------------------------------------------------------
+
+[132] The DSM-5 diagnosis of major depressive disorder requires the presence of at least five characteristic symptoms with at least one symptom being a depressed mood or a loss of interest or pleasure in usual activities.
+
+[110] The nature and duration of Maureen's symptoms, including increased energy and talkativeness, distractibility, increased goal activity, decreased need for sleep, and impaired functioning, are most suggestive of bipolar I disorder.
+
+[121] Disruptive mood dysregulation disorder is characterized by recurrent temper outbursts with a persistently irritable or angry mood between outbursts.
+
+[068] If a client's episodes of depressive symptoms have never met all of the criteria for a major depressive episode, this would eliminate the diagnosis of bipolar II disorder.
+
+[079] A person must have experienced depressive symptoms that do not meet the criteria for a major depressive episode and hypomanic symptoms that do not meet the criteria for a hypomanic episode for at least 24 months for adults or 12 months for children and adolescents to receive a DSM-5 diagnosis of cyclothymic disorder.
+
+[090] According to the hopelessness model of depression, the tendency to attribute negative life events to stable and global factors produces hopelessness, which then leads to a specific type of depression.
+
+[11] The DSM-5 diagnosis of persistent depressive disorder requires the presence of symptoms for at least 24 months for adults and at least 12 months for children and adolescents.
+
+[09] Major depressive disorder has been linked to decreased REM latency, reduced slow-wave (stages 3 and 4) sleep, prolonged sleep latency, and increased REM density, but not increased REM latency.
+
+[10] There is growing consensus that no-suicide contracts are not an effective tool for preventing suicide and should not be used or should be used with caution.
+
+[08] Major depressive disorder with seasonal pattern, also known as seasonal affective disorder (SAD), has been linked to a disruption in normal levels of melatonin, a hormone secreted by the pineal gland.
+
+[12] In 2020, the suicide rate was highest for men 75 years of age and older.
+
+[10] Starting in early adolescence, the rate of major depressive disorder for females is about 1.5 to 3.0 times the rate for boys.
+
+[09] According to the DSM-5-TR, just under 7% of women experience a major depressive episode between birth of their offspring and 12 months postpartum.
+
+[27] St. John's wort should not be taken with an SSRI because doing so can cause serotonin syndrome.
+
+[08] No-suicide contracts don't reduce clients' risk for suicide or provide legal protection for therapists.
+
+[06] Gina's symptoms, including elevated mood, increased goal activity, racing thoughts, and decreased need for sleep, are most suggestive of bipolar I disorder, which is diagnosed when a person has had at least one manic episode that lasted for at least one week.
+
+[07] Alicia's diagnosis of major depressive disorder is confirmed by the presence of a loss of interest or pleasure in most activities, along with feelings of trouble concentrating, low energy, loss of appetite, and excessive sleeping.
+
+[018] Lewinsohn's model of depression attributes it to a low rate of response-contingent reinforcement, based on the principles of operant conditioning.
+
+[022] Chinese patients were more likely than Euro-Canadian patients to express somatic symptoms and less likely to express psychological symptoms of depression.
+
+[003] The rates of major depressive disorder are about the same for boys and girls until puberty when there's a substantial increase in the rates for girls and the difference begins to approach the 2:1 female-to-male ratio that is found among adults.
+
+[150] For a DSM diagnosis of bipolar II disorder, a person must have had at least one hypomanic episode and one major depressive episode.
+
+[157] St. John's wort extract is not significantly different from SSRIs in terms of treatment response for mild to moderate depression and has a lower rate of adverse events.
+
+[172] Family-focused therapy is the treatment-of-choice for a 16-year-old with bipolar I disorder when their parents have become increasingly overprotective and emotionally overinvolved, increasing conflicts between them and the child.
+
+[055] Janca et al.'s meta-analysis found that suicide rates for both incarcerated and previously incarcerated men and women are higher after release from incarceration than during incarceration, with the increase after release being greater for women than for men.
+
+[200] Among respondents with major depressive disorder, the largest percentage reported having had alcohol use disorder during their lifetimes.
+
+[182] Research has found that patients with coronary heart disease have a high prevalence of comorbid psychiatric disorders, with major depressive disorder having the highest rate.
+
+--------------------------------------------------------------------------------
+PPA: Bipolar and Depressive Disorders- (5 items)
+--------------------------------------------------------------------------------
+
+[123] According to the DSM-5-TR, twin studies have produced heritability estimates of around 90% for bipolar disorder.
+
+[142] Electroconvulsive therapy (ECT) has been found to have higher response and remission rates than repetitive transcranial magnetic stimulation (rTMS) as a treatment for major depressive disorder, with the superiority of ECT being greatest for patients with psychotic depression.
+
+[18] Cognitive-behavioral therapy and interpersonal psychotherapy are evidence-based treatments for postpartum depression, especially postpartum depression with mild to moderate symptoms.
+
+[25] Esketamine, a nasal spray version of ketamine, has been found to be an effective treatment for treatment-resistant depression.
+
+[001] Research has found that electroconvulsive therapy (ECT) has the fastest time to remission of symptoms compared to cognitive behavioral therapy (CBT), interpersonal therapy (IPT), and antidepressant drugs as treatments for severe depression.
+
+--------------------------------------------------------------------------------
+PPA: Disruptive, Impulse-Control, and Conduct Disorders (10 items)
+--------------------------------------------------------------------------------
+
+[190] Moffitt's (1993) "maturity gap" is most useful for understanding the etiology of adolescent-onset conduct disorder.
+
+[210] The DSM-5 diagnosis of intermittent explosive disorder cannot be assigned to individuals under the chronological age of six years or the equivalent developmental level.
+
+[24] According to Moffitt (2003), the life-course persistent type of antisocial behavior is the result of a combination of inherited or acquired neurological deficits and environmental risks.
+
+[23] Repeated acts of aggression are more characteristic of conduct disorder than oppositional defiant disorder and would suggest the possibility of comorbid conduct disorder.
+
+[23] The four diagnostic categories for conduct disorder in the DSM-5 are aggression to people and animals, destruction of property, deceitfulness or theft, and serious violation of rules, but lack of remorse or guilt is a specifier for this disorder.
+
+[22] The gap between biological and social maturity described by Moffitt (1993) is useful for explaining adolescent-onset conduct disorder.
+
+[011] The DSM-5 diagnosis of intermittent explosive disorder requires that the individual exhibit recurrent impulsive and aggressive outbursts that are manifested as either (a) verbal aggression or physical aggression for, on average, at least twice a week for at least three months, with physical aggression not causing damage or destruction of property or physical injury to other people or animals, or (b) three or more outbursts during a 12-month period that caused damage or destruction of property and/or physical injury to other people or animals.
+
+[019] Scared Straight programs, which aim to reduce the likelihood that juvenile offenders and youth at risk for becoming juvenile offenders will engage in future criminal behaviors by having them visit prisons and interact with adult inmates, have been found to increase the likelihood that participants will engage in future criminal behaviors.
+
+[018] Male adolescents with conduct disorder showed hyporeactive (reduced) cortisol and cardiovascular responses to a stressful procedure when compared to adolescents without a psychiatric disorder, even though all three groups reported experiencing similar levels of negative feelings.
+
+[097] The treatment-of-choice for a 6-year-old child with oppositional defiant disorder who has been physically abused by their parents is parent-child interaction therapy.
+
+--------------------------------------------------------------------------------
+PPA: Disruptive, Impulse-Control, and Conduct Disorders- (2 items)
+--------------------------------------------------------------------------------
+
+[15] Parent-child interaction therapy (PCIT) is an evidence-based family treatment for young children with conduct disorder or other disruptive behavior disorder, and has also been found to be effective for children with a history of maltreatment.
+
+[19] Multisystemic therapy is about equally effective for African American youth and European youth.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating and Sleep-Wake Disorders- (2 items)
+--------------------------------------------------------------------------------
+
+[006] Family-based treatment for bulimia (FB-BN) involves greater collaboration between parents and the affected adolescent compared to family-based treatment for anorexia (FB-AN).
+
+[010] Cognitive-behavioral therapy and interpersonal psychotherapy are evidence-based treatments for binge-eating disorder.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating, Elimination, and Sleep-Wake Disorders (14 items)
+--------------------------------------------------------------------------------
+
+[184] Narcolepsy is characterized by symptoms including cataplexy, hypocretin deficiency, and short rapid eye movement sleep latency.
+
+[174] Pregnant women with pica consume clay, coffee grounds, and other nonnutritive, nonfood substances.
+
+[180] The moisture alarm has the best long-term effects as the most effective treatment for a child's nocturnal enuresis that is not due to a medical condition.
+
+[186] People with a non-rapid eye movement (NREM) sleep arousal disorder, such as sleepwalking or sleep terror, experience incomplete awakening from sleep after an episode and have little or no memory for the event when awakened.
+
+[20] Hypnagogic hallucinations occur during the transition from wakefulness to sleep, and people with narcolepsy often experience them, which may involve any sense but are most often visual.
+
+[19] The diagnosis of anorexia nervosa does not require dieting or fasting to maintain low body weight.
+
+[21] The nonpharmacological treatment-of-choice for insomnia disorder is a multi-component cognitive-behavioral intervention that incorporates stimulus control or sleep restriction with sleep-hygiene education, relaxation training, and/or cognitive therapy.
+
+[16] Overvaluation of body weight and shape would be the least useful for confirming a DSM diagnosis of binge-eating disorder.
+
+[20] Hypnopompic hallucinations occur during the transition from sleep to wakefulness.
+
+[19] Hypnopompic hallucinations occur during the transition from sleep to wakefulness.
+
+[17] Research has confirmed that the night alarm, also known as the moisture alarm, enuresis alarm, and bell-and-pad, has the best long-term effects for children who have received a DSM-5 diagnosis of enuresis, nocturnal only.
+
+[023] As defined by Harvey, sleep-related safety behaviors are counterproductive coping strategies that are used to increase control over sleep but actually worsen insomnia by preventing disconfirmation of unhelpful beliefs, and these behaviors include clock watching to monitor the time it takes to fall asleep.
+
+[025] The medication most useful for reducing daytime sleepiness, improving nighttime sleep, and reducing cataplexy in narcolepsy is sodium oxybate.
+
+[061] Family-based treatment for adolescents with anorexia nervosa takes an agnostic view of the disorder and consists of three phases: parental control of the adolescent's eating, gradual return of control to the adolescent, and establishing age-appropriate independence in the adolescent.
+
+--------------------------------------------------------------------------------
+PPA: Feeding/Eating, Elimination, and Sleep-Wake Disorders- (1 items)
+--------------------------------------------------------------------------------
+
+[023] People with insomnia disorder most often underestimate their total sleep time and overestimate their sleep onset latency.
+
+--------------------------------------------------------------------------------
+PPA: Neurocognitive Disorders (15 items)
+--------------------------------------------------------------------------------
+
+[217] Motor disturbances are a more important cause of disability in the early stages of neurocognitive disorder with Lewy bodies than in the early stages of Alzheimer's disease.
+
+[221] The course of vascular neurocognitive disorder varies and may involve an acute onset of symptoms or a stepwise or progressive decline in functioning with fluctuations in symptoms or plateaus of varying length.
+
+[27] In the early stage of Alzheimer's disease, an MRI is most likely to reveal degeneration in the entorhinal cortex.
+
+[28] Neurocognitive disorder due to Creutzfeldt-Jakob disease, categorized in DSM-5 as neurocognitive disorder due to prion disease, typically progresses very rapidly compared to other types of neurocognitive disorders.
+
+[27] Memory loss associated with neurocognitive disorder due to Alzheimer's disease has been most consistently linked to abnormal levels of acetylcholine in the hippocampus and cerebral cortex.
+
+[28] Aphasia is least likely to be exhibited by a patient with neurocognitive disorder due to HIV infection or other subcortical neurocognitive disorder, as it is more characteristic of cortical neurocognitive disorders like Alzheimer's disease.
+
+[26] Neurocognitive disorder with Lewy bodies is not characterized by perseverative behavior, which is a diagnostic criterion for frontotemporal neurocognitive disorder.
+
+[27] Neurocognitive disorder due to Alzheimer's disease is associated with an accumulation of neuritic plaques and neurofibrillary tangles in the entorhinal cortex, hippocampus, and amygdala.
+
+[029] The locus coeruleus, an area in the brain stem, has been identified as "ground zero" for Alzheimer's disease.
+
+[009] Creutzfeldt-Jakob disease ordinarily has an insidious onset that's followed by a rapid decline in functioning.
+
+[020] The APOE4 gene variant has been identified as a high-risk factor for neurocognitive disorder due to Alzheimer's disease.
+
+[013] The DSM-5 diagnosis of probable major or mild neurocognitive disorder with Lewy bodies requires that the patient's symptoms include at least two core features or one core feature and one suggestive feature, with visual hallucinations being a core feature and concurrent REM sleep behavior disorder being a suggestive feature.
+
+[215] Overexpression of the APP gene on chromosome 21 has been identified as the link between standard trisomy 21 and early-onset Alzheimer's disease.
+
+[115] The symptoms characteristic of the behavioral variant of frontotemporal neurocognitive disorder include perseverative or compulsive behaviors, apathy, loss of empathy, dietary changes, and socially inappropriate behaviors.
+
+[130] The research has most consistently linked a low score on conscientiousness and a high score on neuroticism to an increased risk for a diagnosis of neurocognitive disorder due to Alzheimer's disease.
+
+--------------------------------------------------------------------------------
+PPA: Neurocognitive Disorders- (5 items)
+--------------------------------------------------------------------------------
+
+[001] The presence of Alma's daughter's report that her mother's symptoms are worse in the evening would suggest that Alma's symptoms are more likely due to a neurocognitive disorder than to pseudodementia (major depressive disorder).
+
+[101] Neurocognitive disorder with Parkinson's disease begins after a history of motor symptoms, while neurocognitive disorder with Lewy bodies begins with cognitive symptoms or a combination of cognitive and motor symptoms.
+
+[07] The most common early symptom of neurocognitive disorder due to Alzheimer's disease is impaired memory for recent events.
+
+[30] Neurocognitive disorder caused by prion disease is not potentially reversible.
+
+[190] A rapid decline in the sense of smell is an early symptom of Alzheimer's disease.
+
+--------------------------------------------------------------------------------
+PPA: Neurodevelopmental Disorders (18 items)
+--------------------------------------------------------------------------------
+
+[034] The DSM-5 diagnosis of ADHD requires the presence of characteristic symptoms in at least two settings (e.g., at home and at school) with an onset before 12 years of age and a duration of at least six months.
+
+[045] To assign a diagnosis of ADHD to Adam, a 19-year-old college sophomore, he must have at least five symptoms of inattention and/or five symptoms of hyperactivity and impulsivity.
+
+[012] Regulated breathing has been found to be an effective treatment for childhood-onset fluency disorder, also known as stuttering.
+
+[023] A better prognosis for autism spectrum disorder is most associated with the development of functional language skills by 5 years of age.
+
+[056] The most likely DSM-5 diagnosis for a 15-year-old boy who has three motor tics and one vocal tic that started 14 months ago is Tourette's disorder.
+
+[024] A child with dyslexia whose reading problems significantly interfere with their academic performance and have not substantially improved with appropriate intervention would receive a DSM-5 diagnosis of specific learning disorder.
+
+[013] For the diagnosis of autism spectrum disorder, the DSM-5 requires symptoms to be present during the early developmental period, with symptoms usually recognized by the time the child is between 12 and 24 months of age but may occur earlier or later, depending on the severity of the symptoms.
+
+[01] Lovaas (1987) used discrimination training and shaping to teach young nonspeaking children with autism spectrum disorder to communicate verbally.
+
+[02] The DSM-5 diagnosis of attention-deficit/hyperactivity disorder (ADHD) requires the onset of some symptoms before 12 years of age.
+
+[03] Antipsychotic drugs that reduce dopamine activity in certain areas of the brain have been found useful for suppressing tics.
+
+[38] Evidence-based parent-training in behavior management (PTBM) is considered the first-line treatment for preschool children 4 and 5 years of age with ADHD.
+
+[04] The correct DSM-5 diagnosis for a 12-year-old boy who has two motor tics that began nine months ago is provisional tic disorder.
+
+[01] A better prognosis for individuals with autism spectrum disorder has been linked to the development of functional language skills by age 5.
+
+[02] The DSM-5 diagnosis of attention-deficit/hyperactivity disorder (ADHD) requires an onset of symptoms before 12 years of age and a duration of symptoms for at least 6 months.
+
+[027] Phonological dyslexia is the most common type of dyslexia, the most common reading disorder.
+
+[015] Down syndrome is the most common genetic cause of intellectual developmental disorder due to a chromosomal abnormality that is caused by an error during cell division.
+
+[038] Autism spectrum disorder has been linked to low brain level and high blood level of serotonin.
+
+[137] Individuals with ADHD tend to have a smaller volume in five brain structures: caudate nucleus, putamen, nucleus accumbens, amygdala, and hippocampus.
+
+--------------------------------------------------------------------------------
+PPA: Neurodevelopmental Disorders- (4 items)
+--------------------------------------------------------------------------------
+
+[002] Tourette's disorder is most frequently comorbid with ADHD.
+
+[11] Deficits in face recognition underlie many of the impairments in social functioning that are characteristic of autism spectrum disorder.
+
+[09] ADHD is the most common comorbid psychiatric disorder for individuals with specific learning disorder.
+
+[14] Hypersexuality is useful for distinguishing between juvenile bipolar disorder and ADHD because it is more common for youth with bipolar disorder than for those with ADHD.
+
+--------------------------------------------------------------------------------
+PPA: Personality Disorders (13 items)
+--------------------------------------------------------------------------------
+
+[223] Dialectical behavior therapy is based on the assumption that borderline personality disorder is a disorder of the emotion regulation system that involves high emotional vulnerability coupled with an inability to regulate emotions.
+
+[220] People with schizoid personality disorder have a lack of desire for social relationships and are uninterested in opportunities to develop close relationships.
+
+[224] Symptoms of antisocial personality disorder may become less severe as the person gets older, especially during the fourth decade of life.
+
+[30] People with schizotypal personality disorder may express unhappiness about their lack of relationships, but their behavior suggests a decreased desire for intimate contacts due to anxiety related to suspiciousness about the motivations of other people.
+
+[29] Histrionic personality disorder, in contrast to antisocial personality disorder, is characterized by exaggerated expression of emotions.
+
+[29] Adele's odd beliefs and magical thinking, suspiciousness, lack of close friends, social anxiety, and constricted affect are characteristic of schizotypal personality disorder.
+
+[30] The National Epidemiologic Survey on Alcohol and Related Conditions III (NESARC-III) found that any substance use disorder was the most common comorbidity among adults with antisocial personality disorder.
+
+[29] An essential feature of schizoid personality disorder is feeling disconnected from others.
+
+[30] According to the DSM-5, antisocial and histrionic personality disorders share several characteristics including impulsivity, manipulativeness, seductiveness, and superficiality.
+
+[030] Elena has several of the symptoms of borderline personality disorder identified in the DSM-5 - i.e., an identity disturbance; affective instability; inappropriate, intense anger; recurrent suicidal behavior; and frantic efforts to avoid abandonment.
+
+[008] The most likely diagnosis for a client who says he'd like to have friends but is very uncomfortable around people and seems uninterested in taking steps to develop friendships is schizotypal personality disorder.
+
+[049] When a therapist is using dialectical behavior therapy (DBT) with a client who has recently received the diagnosis of borderline personality disorder, the client's treatment will least likely include family or couple counseling.
+
+[102] The personality disorder characterized by symptoms such as being suspicious of others' motives, feeling anxious around people, and preferring to be alone is schizotypal personality disorder.
+
+--------------------------------------------------------------------------------
+PPA: Personality Disorders- (3 items)
+--------------------------------------------------------------------------------
+
+[168] The presence of Carla being hypersensitive to criticism and rejection by others would be least useful for confirming a diagnosis of obsessive-compulsive personality disorder (OCPD).
+
+[03] The primary goals of individual therapy in dialectical behavior therapy (DBT) are to reduce quality-of-life interfering behaviors and therapy-interfering behaviors, and to eliminate life-threatening behaviors, except for self-triggering behaviors.
+
+[04] Practitioners of dialectical behavior therapy (DBT) primarily aim to increase generalization of behavioral skills acquired during therapy to everyday situations and crises, as well as repair the therapeutic relationship.
+
+--------------------------------------------------------------------------------
+PPA: Schizophrenia Spectrum/Other Psychotic Disorders (18 items)
+--------------------------------------------------------------------------------
+
+[224] A delusional belief is a false belief that a person firmly holds despite contradictory evidence, as exemplified by the middle-aged woman who believes aliens are controlling her actions.
+
+[099] Prefrontal underactivity has been linked to the negative symptoms of schizophrenia.
+
+[078] According to the DSM-5, over half of individuals with a diagnosis of schizophrenia have a comorbid tobacco use disorder.
+
+[067] Based on the symptoms presented, the most likely diagnosis for Sam, age 16, who started complaining about hearing voices two weeks ago shortly after his father was diagnosed with lung cancer, is brief psychotic disorder.
+
+[057] In his frequently cited review of the research, I. Gottesman reported a concordance rate for schizophrenia of 9% for non-twin siblings.
+
+[035] Assuming that a woman's symptoms meet the diagnostic criteria for a diagnosis of delusional disorder, the appropriate type of delusion is erotomanic if she's convinced that a local celebrity she met at a fundraiser six months ago is in love with her.
+
+[046] Assuming that Gaylen's symptoms are not due to another mental disorder, a medical condition, or drug use, the most likely diagnosis is schizophreniform disorder, as she has had auditory hallucinations and disorganized speech for two months.
+
+[05] The DSM-5 diagnosis of schizoaffective disorder requires the presence of delusions or hallucinations for at least two weeks without symptoms of a major depressive or manic episode.
+
+[06] Expressed emotion has been linked to an increased risk for relapse for individuals with schizophrenia, depression, and several other mental disorders.
+
+[07] A better prognosis for schizophrenia is associated with female gender, an acute and late onset of symptoms, comorbid mood symptoms (especially depressive symptoms), predominantly positive symptoms, precipitating factors, a family history of a mood disorder, and good premorbid adjustment.
+
+[06] Kevin Keene, an 18-year-old who started complaining about hearing voices and seeing ghosts of his dead grandparents, and has been unable to carry on a conversation because he jumps from one topic to another and sometimes makes up words, has the most likely diagnosis of schizophreniform disorder.
+
+[05] The concordance rate for schizophrenia in monozygotic (identical) twins is 48%.
+
+[08] A person experiencing an erotomanic delusion believes that another person (often a famous person or person with higher status) is in love with him or her.
+
+[03] When one first-degree relative who shares 50% of their genes has schizophrenia, the chance that their relative also receives the diagnosis is 6 to 17%.
+
+[05] Raymond Miller, age 19, is brought to therapy by his parents for schizophreniform disorder symptoms including visual hallucinations, apathy, and reduced speech that have lasted for a little over three months.
+
+[002] The DSM-5 diagnosis of schizoaffective disorder requires the presence of concurrent psychotic symptoms and mood episodes for the duration of the disorder except for two or more weeks when psychotic symptoms were present without mood symptoms.
+
+[017] Research comparing patients with schizophrenia living in Western industrialized countries and non-Western developing countries found that these patients differ in terms of the onset and course of the disorder and the rate of remission.
+
+[142] The peak age of onset for schizophrenia is early- to mid-20s for males and late-20s for females.
+
+--------------------------------------------------------------------------------
+PPA: Schizophrenia Spectrum/Other Psychotic Disorders- (3 items)
+--------------------------------------------------------------------------------
+
+[214] Involvement of family members in the care of patients with schizophrenia increases the patient's medication adherence and reduces the patient's risk for relapse.
+
+[18] Studies looking at psychiatric outcomes for the offspring of monozygotic (identical) twins who are discordant for schizophrenia have found that the frequency of schizophrenia in offspring of nonaffected twins is similar to the frequency of schizophrenia in offspring of affected twins, with the frequency for offspring of nonaffected and affected twins being greater than the frequency in the general population.
+
+[026] Clozapine is considered the most effective medication for treatment-resistant schizophrenia.
+
+--------------------------------------------------------------------------------
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders (10 items)
+--------------------------------------------------------------------------------
+
+[208] Orgasmic reconditioning has been identified as an effective treatment for paraphilic disorder.
+
+[198] The squeeze and start/stop techniques are the two most commonly used behavioral interventions for premature ejaculation.
+
+[192] The DSM-5 diagnosis of gender dysphoria requires marked incongruence between one's experienced/expressed gender and one's assigned gender for at least six months for children, adolescents, and adults.
+
+[23] Frotteuristic disorder involves recurrent and intense sexual arousal for at least six months from touching or rubbing against a nonconsenting adult as manifested in fantasies, urges, and/or behaviors.
+
+[22] Interventions for genito-pelvic pain disorder include relaxation training, sensate focus, a topical anesthetic, vaginal dilators, and Kegel exercises, but orgasmic reconditioning is used to treat paraphilic disorders.
+
+[21] Drugs that increase serotonin are often used to treat premature ejaculation.
+
+[22] Gender confirmation surgery is generally associated with a decrease in gender dysphoria, high levels of satisfaction, and a low incidence of regret, with somewhat better outcomes for transgender male patients (Lawrence, 2017).
+
+[21] The DSM-5 diagnosis of gender dysphoria requires a discordance between one's experienced and assigned gender.
+
+[20] Paroxetine is an alternative to behavioral treatments for premature ejaculation.
+
+[122] The majority of men who receive the diagnosis of transvestic disorder identify their sexual orientation as heterosexual.
+
+--------------------------------------------------------------------------------
+PPA: Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders- (1 items)
+--------------------------------------------------------------------------------
+
+[004] Behavioral and cognitive-behavioral techniques have been found effective for treating female orgasmic disorder (FOD), and directed masturbation is the most empirically supported technique (especially for lifelong FOD) and is considered to be the first-line treatment for this disorder.
+
+--------------------------------------------------------------------------------
+PPA: Substance-Related and Addictive Disorders (13 items)
+--------------------------------------------------------------------------------
+
+[196] Autonomic hyperactivity, hand tremor, insomnia, transient hallucinations, and generalized tonic-clonic seizures are most suggestive of alcohol withdrawal, as described in the DSM-5.
+
+[202] Marlatt and Gordon's relapse prevention (RP) model proposes that high-risk situations are the immediate precipitants of alcohol use after a period of abstinence.
+
+[215] Many of the symptoms of opioid withdrawal are also associated with influenza, such as nausea, vomiting, diarrhea, muscle aches, and fever.
+
+[218] Korsakoff syndrome is caused by a thiamine (vitamin B1) deficiency and produces severe memory impairment and confabulation, and when it's the result of chronic alcohol abuse, it's categorized in the DSM-5 as alcohol-induced major neurocognitive disorder.
+
+[25] Error: Rewrite failed
+
+[26] The severity of a substance use disorder (mild, moderate, or severe) is determined by the current number of symptoms.
+
+[26] Withdrawal from alcohol after heavy and prolonged use is most likely to cause seizures.
+
+[24] Nystagmus is the symptom least likely to be exhibited by a person meeting the DSM-5 diagnostic criteria for alcohol withdrawal.
+
+[007] Research on smoking cessation interventions suggests that counseling and medication are each effective when used alone but the combination of counseling and medication is most effective.
+
+[021] The studies have not yet identified a pharmacological treatment that is consistently effective for cocaine addiction (substance use disorder in the DSM-5).
+
+[223] Project MATCH found that the three treatments (motivational enhancement therapy, cognitive-behavioral therapy, and twelve-step facilitation) produced similar reductions in drinking with a small advantage for twelve-step facilitation, and some support for the hypothesis that matching type of treatment to certain patient characteristics improves treatment outcomes.
+
+[084] Community reinforcement and family training (CRAFT) does not involve helping the concerned significant other (CSO) adopt "loving-detachment" from the identified patient (IP) with the substance-use problem, as that is characteristic of Al-Anon.
+
+[211] Voucher-based reinforcement therapy (VBRT) is most effective for promoting initial abstinence, while cognitive behavior therapy (CBT) is most effective for preventing relapse in patients with cocaine use disorder.
+
+--------------------------------------------------------------------------------
+PPA: Substance-Related and Addictive Disorders- (5 items)
+--------------------------------------------------------------------------------
+
+[140] Community reinforcement and family training (CRAFT) is an evidence-based intervention that was designed for families that include an adult who has a substance use problem but refuses to seek treatment.
+
+[204] Text messaging is effective as a stand-alone treatment for smoking cessation, and text messaging plus other smoking interventions is more effective than other smoking interventions alone.
+
+[04] Use of opioids is most likely to cause pupillary constriction.
+
+[01] The "flashbacks" associated with hallucinogen persisting perception disorder most often involve visual disturbances.
+
+[28] When using personalized normative feedback (PNF) as an intervention for Jacob, a 21-year-old college student who frequently engages in heavy alcohol use, his therapist will provide Jacob with information that allows him to compare the frequency of his drinking to the actual average frequency of drinking of other college students.
+
+--------------------------------------------------------------------------------
+PPA: Trauma/Stressor-Related, Dissociative, and Somatic Symptom Disorders (17 items)
+--------------------------------------------------------------------------------
+
+[166] To confirm the DSM-5 diagnosis of reactive attachment disorder, the child must have experienced a pattern of severe social neglect or frequent changes in primary caregivers.
+
+[178] Gale's symptoms meet the DSM-5 diagnostic criteria for somatic symptom disorder, which requires the presence of one or more somatic symptoms that cause distress or substantial disruption of daily activities accompanied by excessive thoughts, feelings, or behaviors related to the symptoms.
+
+[172] When determining a client's diagnosis, knowing that the client's symptoms have lasted for less than one month would be most useful for distinguishing between posttraumatic stress disorder and acute stress disorder, as the primary difference is the duration of symptoms, with acute stress disorder requiring a duration of three days to one month and posttraumatic stress disorder requiring a duration of more than one month.
+
+[150] The DSM-5 diagnosis of body dysmorphic disorder requires preoccupation with one or more perceived flaws in physical appearance that appear to be minor or are not apparent to others, accompanied by repetitive behaviors (e.g., mirror checking) and significant distress or impaired functioning.
+
+[162] Dissociative amnesia is characterized by an inability to recall important autobiographical information that's often related to exposure to a stressful or traumatic event, and the DSM-5 refers to the type of dissociative amnesia where the person is unable to recall events that happened during a limited period of time (e.g., for several weeks after the person experienced a traumatic event) as localized amnesia.
+
+[156] Research has found that single-session psychological debriefing as a treatment for PTSD has not been effective and may actually increase PTSD symptoms.
+
+[16] The five categories of symptoms identified in the DSM-5 for acute stress disorder include intrusion, negative mood, dissociative symptoms, avoidance, and arousal, but not stereotypy.
+
+[17] The most likely diagnosis for Edna's symptoms of feeling like a "robot" and experiencing depersonalization, derealization, and somatic symptoms, without substance use or a medical condition, is depersonalization/derealization disorder.
+
+[17] The most likely diagnosis for a 36-year-old man who developed decreased visual acuity in both eyes after the death of his best friend, with no apparent medical or neurological explanation and no indication of faking or inducing the symptoms, is conversion disorder.
+
+[18] If the results of your assessment of the patient suggest that he's intentionally producing his symptoms to qualify for Social Security benefits, the most likely diagnosis for this patient is malingering.
+
+[16] The presence of persistent thoughts about the seriousness of symptoms can help confirm a diagnosis of somatic symptom disorder.
+
+[15] Trauma-focused cognitive-behavioral therapy (TF-CBT) is an evidence-based treatment that was initially designed for children and adolescents ages 3 to 18 years who have experienced sexual abuse.
+
+[13] The primary difference between acute stress disorder and posttraumatic stress disorder is the duration of symptoms: The DSM-5 diagnosis of acute stress disorder requires a duration of three days to one month after exposure to a traumatic event, while the diagnosis of posttraumatic stress disorder requires a duration of more than one month.
+
+[024] Genuine memory loss is more likely when the beginning and end of the period of memory loss are gradual and blurred, and the defendant can recall fragments of some events that occurred during that period.
+
+[005] The research on pre-trauma factors related to the risk for developing PTSD after exposure to a traumatic event has confirmed that female gender and low socioeconomic status are both associated with an increased risk.
+
+[070] Face-to-face therapy is similarly effective as computer videoconferencing therapy for reducing PTSD symptoms and for maintaining treatment fidelity.
+
+[032] Video electroencephalography (vEEG) is considered the gold standard for diagnosing psychogenic nonepileptic seizures (PNES) as it involves simultaneously recording a person's brain electrical activity with an EEG and overt behaviors on video.
+
+--------------------------------------------------------------------------------
+PPA: Trauma/Stressor-Related, Dissociative, and Somatic Symptom Disorders- (2 items)
+--------------------------------------------------------------------------------
+
+[014] A person whose primary symptom is psychogenic nonepileptic seizures (PNES) is most likely to receive a diagnosis of functional neurological symptom disorder.
+
+[162] A 36-year-old man suddenly and unexpectedly leaves his home in a rural town, travels by bus to a nearby city, and is unable to recall any details of his life including his name or where he lives, which is most characteristic of dissociative fugue, a subtype of dissociative amnesia.
+
+--------------------------------------------------------------------------------
+PPY: Anxiety Disorders and Obsessive-Compulsive Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[34] The four factors of the intolerance of uncertainty model that contribute to the chronic worry of individuals with generalized anxiety disorder are intolerance of uncertainty, negative problem orientation, positive beliefs about worry, and cognitive avoidance of threatening mental images.
+
+--------------------------------------------------------------------------------
+PPY: Neurodevelopmental Disorders (1 items)
+--------------------------------------------------------------------------------
+
+[14] The research is not entirely consistent with regard to the association between the use of stimulant drugs by children with ADHD and risk for developing an SUD later in life, with a meta-analysis finding that the use of stimulant medications to treat children with ADHD neither increased nor decreased the risk for later development of an SUD, but a more recent study finding that children with ADHD who began treatment with a stimulant drug at a young age and at a high dose were less likely to develop an SUD than were those who began treatment at an older age and at a lower dose.
+
+
+================================================================================
+END OF DOMAIN
+================================================================================

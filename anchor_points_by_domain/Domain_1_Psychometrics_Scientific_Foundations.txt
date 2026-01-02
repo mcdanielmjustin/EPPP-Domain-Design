@@ -1,0 +1,472 @@
+================================================================================
+DOMAIN 1: PSYCHOMETRICS & SCIENTIFIC FOUNDATIONS
+================================================================================
+Total Anchor Points: 205
+================================================================================
+
+--------------------------------------------------------------------------------
+LEA: Classical Conditioning (15 items)
+--------------------------------------------------------------------------------
+
+[020] Spontaneous recovery refers to the return of an extinguished conditioned response without the conditioned stimulus being presented again with the unconditioned stimulus, confirming that a conditioned response is suppressed rather than eliminated by extinction trials.
+
+[009] Stimulus generalization occurs when stimuli similar to the original conditioned stimulus elicit the conditioned response without ever being presented with the unconditioned stimulus.
+
+[008] In classical conditioning research, the white rat was the conditioned stimulus, because it produced a startle response after being repeatedly paired with the unconditioned stimulus, an unexpected loud noise, which naturally elicited a startle response.
+
+[019] Pavlov's higher-order conditioning experiment involved pairing a tone with food so that the dog salivated when the tone was presented alone, and then pairing a light with the tone so that the dog also salivated when the light was presented alone.
+
+[03] The conditioned response elicited by a neutral stimulus in classical conditioning is usually less in intensity than the unconditioned response.
+
+[01] Pavlov's canine subjects exhibited "experimental neurosis" due to the requirement to make difficult discriminations between similar stimuli, which provoked agitation and aggression.
+
+[02] Delay conditioning, where the conditioned stimulus precedes and overlaps presentation of the unconditioned stimulus, is the most effective method for establishing a conditioned response through classical conditioning.
+
+[01] Little Albert's response to other white furry stimuli was due to stimulus generalization.
+
+[02] Blocking occurs when a new neutral stimulus is presented with a conditioned stimulus, preventing the new stimulus from becoming a conditioned stimulus.
+
+[02] Higher-order conditioning involves treating the initial conditioned stimulus as an unconditioned stimulus and pairing it with a neutral stimulus so that the neutral stimulus also becomes a conditioned stimulus and elicits a conditioned response when presented alone.
+
+[01] In classical conditioning, blocking occurs when a new neutral stimulus is simultaneously presented with a previously conditioned stimulus before presenting the unconditioned stimulus, preventing the new neutral stimulus from becoming a conditioned stimulus.
+
+[013] Testing the effects of overshadowing involves presenting two neutral stimuli together before the unconditioned stimulus, which leads to the less salient conditioned stimulus being overshadowed by the more salient one.
+
+[001] Delay conditioning is a type of forward conditioning in which presentation of the conditioned stimulus precedes and overlaps presentation of the unconditioned stimulus, and it is the most effective method for establishing a conditioned response.
+
+[33] Pavlov's observation of spontaneous recovery of a conditioned response after extinction trials provides evidence that extinction is due to internal inhibition.
+
+[217] John Watson used delay conditioning to establish Little Albert's fear response to white rats.
+
+--------------------------------------------------------------------------------
+LEA: Operant Conditioning (22 items)
+--------------------------------------------------------------------------------
+
+[042] Negative reinforcement occurs when a behavior continues or increases because performing the behavior results in the termination or withdrawal of a stimulus, as exemplified by a woman who eats chocolate because it reduces her anxiety.
+
+[064] Reducing the amount of positive reinforcement, referred to as thinning, involves going from a "thicker" reinforcement schedule to a "thinner" one.
+
+[092] When using positive reinforcement to establish or increase a behavior, use of the variable ratio schedule of reinforcement will maximize the behavior's resistance to extinction.
+
+[053] Mowrer's (1960) two-factor theory of learning proposes that avoidance conditioning is an example of two-factor learning because it combines classical conditioning and negative reinforcement (operant conditioning).
+
+[085] In the context of operant conditioning, fading refers to the systematic and gradual removal of prompts.
+
+[041] Thorndike's research with cats in a puzzle box led to his development of the law of effect.
+
+[052] Negative punishment occurs when a behavior decreases or stops because a stimulus is removed following the behavior, as in the situation where a 12-year-old boy stops teasing his younger sister because his parents subtract 50 cents from his weekly allowance whenever he does so.
+
+[063] Positive behavioral contrast occurs when two behaviors are being reinforced and the reinforcement for one behavior is stopped while reinforcement for the other behavior stays the same, resulting in the behavior that is no longer reinforced decreasing and the behavior that is still receiving the same amount of reinforcement increasing.
+
+[074] B. F. Skinner (1948) referred to the unusual behaviors, such as bowing, turning, and hopping on one foot, exhibited by pigeons who were delivered food pellets every 15 seconds regardless of their behavior as superstitious behaviors.
+
+[09] When using stimulus control to increase a behavior, the presence of a discriminative stimulus indicates that the behavior will be reinforced.
+
+[08] Switching from a continuous schedule to an intermittent schedule of reinforcement reduces the risk for satiation when a parent is using positive reinforcement to establish a desirable behavior in their child.
+
+[07] If reinforcement is stopped for pressing Bar B, a rat will press Bar A with greater frequency and Bar B with less frequency.
+
+[07] Mrs. Smith's reprimands for her son Sam hitting the family dog are being controlled by negative reinforcement.
+
+[06] Avoidance conditioning is an example of two-factor learning that combines classical conditioning and negative reinforcement.
+
+[05] Generalized reinforcers (e.g., money, tokens) are less susceptible than primary and secondary reinforcers to satiation because they can be exchanged for a variety of back-up (primary) reinforcers.
+
+[05] A positive discriminative stimulus signals that a behavior will be reinforced.
+
+[07] Reducing the amount of positive reinforcement is referred to as thinning.
+
+[06] The boy's response to the change in reinforcement, where the point system is stopped for cleaning the cat box but not for taking out the garbage, is referred to as behavioral contrast.
+
+[004] The matching law predicts the effects of two or more concurrent schedules of reinforcement on the behaviors that are being reinforced.
+
+[011] The gradual removal of visual or auditory hints or cues (prompts) is referred to as fading.
+
+[041] Continuing to say "I love you" to his mother whenever she yells at the boy is a result of escape conditioning, where the behavior is maintained because it allows the boy to "escape" his mother's yelling.
+
+[103] The variable ratio schedule of reinforcement produces the highest and steadiest rate of responding and the greatest resistance to extinction.
+
+--------------------------------------------------------------------------------
+RMS: Correlation and Regression (15 items)
+--------------------------------------------------------------------------------
+
+[105] Squaring the correlation coefficient between EPPP score and yearly salary five years after taking the exam will obtain the coefficient of determination, which indicates the amount of variability in yearly salary that's accounted for by EPPP score.
+
+[127] Multiple regression, specifically stepwise multiple regression, is used to identify the fewest number of predictors needed to make an accurate prediction about applicants' job performance scores.
+
+[116] The Spearman rank-order correlation coefficient is the appropriate bivariate correlation coefficient to use when the scores to be correlated are both reported as ranks.
+
+[124] Discriminant function analysis, also known as discriminant analysis, is the appropriate technique to use when two or more predictors will be used to categorize people into one of two or more criterion groups, such as determining which of five vocational training programs is the best one for an unemployed young adult who dropped out of high school.
+
+[113] Eta is used when both variables are measured on a continuous (interval or ratio) scale and the relationship between the variables is nonlinear.
+
+[07] A scatterplot showing that the variability of Y scores is about the same for all scores on X indicates a situation of homoscedasticity.
+
+[08] To determine the correlation between college graduate (yes or no) and yearly income in dollars, a point biserial correlation coefficient would be used.
+
+[07] A restriction in range of scores on variables being measured will most likely produce a correlation coefficient that underestimates the actual relationship between the variables.
+
+[08] The Pearson r correlation coefficient would be used to determine the degree of association between age in years and reaction time in seconds, as both represent a ratio scale of measurement.
+
+[09] Canonical correlation is the appropriate multivariate technique when two or more predictors will be used to estimate status on two or more criteria.
+
+[06] The Spearman rank-order correlation coefficient is the appropriate correlation coefficient to determine the degree of association between the ranks of scores obtained by 35 students on a math exam and a physics exam.
+
+[07] When a predictor's beta weight is negative in a multiple regression equation, it means the predictor has a negative correlation with the criterion.
+
+[005] Multicollinearity occurs when scores on one or more explanatory variables are highly correlated with scores on one or more of the other explanatory variables in a multiple regression analysis.
+
+[004] The point biserial correlation coefficient is the appropriate correlation coefficient to measure the degree of association between high school diploma (yes or no) and yearly income in dollars.
+
+[184] Structural equation modeling (SEM) is used to test models of the relationships among observed and latent variables.
+
+--------------------------------------------------------------------------------
+RMS: Inferential Statistical Tests (19 items)
+--------------------------------------------------------------------------------
+
+[094] The analysis of covariance (ANCOVA) is used to statistically remove the effects of an extraneous variable on the dependent variable.
+
+[081] When conducting a one-way ANOVA, the F-ratio is calculated by dividing the mean square between, which provides an estimate of variability in dependent variable scores due to treatment effects plus error, by the mean square within.
+
+[070] The researcher will use a t-test for correlated samples to analyze the data obtained in the study evaluating the effects of a two-hour online lecture on statistics for improving the statistics knowledge of 35 psychologists who have just started studying for the EPPP.
+
+[059] The single-sample chi-square test is the appropriate statistical test to determine if there's a significant difference in the number of dog owners who chose each label for the dog food product.
+
+[102] Dr. Oz will use a two-way ANOVA to analyze the main and interaction effects of treatment (drug, relaxation, and drug plus relaxation) and condition (tobacco use, chronic alcohol use, or obesity) on the systolic blood pressure of patients with secondary hypertension.
+
+[091] The t-test for a single sample is used to compare an obtained sample mean to a known population mean.
+
+[025] External validity in research design refers to the generalizability of the results.
+
+[10] A multiple-sample chi-square test would be used to compare the number of adults living in rural, urban, or suburban communities who have received a diagnosis of a bipolar disorder, depressive disorder, or anxiety disorder.
+
+[11] To compare the scores subjects in two groups receive on a measure of symptom severity after they receive treatment, a t-test for correlated samples will be used.
+
+[12] The multivariate analysis of variance (MANOVA) is used when a study includes one or more independent variables and two or more dependent variables that are each measured on an interval or ratio scale.
+
+[12] The split-plot ANOVA is used to analyze data collected from a research study that included one between-subjects independent variable and one within-subjects independent variable.
+
+[11] The advantage of conducting a single one-way ANOVA rather than separate t-tests when a study includes one independent variable with three or more levels is that the ANOVA controls the experimentwise error rate.
+
+[12] The MANOVA can be used to analyze data collected in a study that has one independent variable and two or more dependent variables measured on an interval or ratio scale, as it reduces the probability of making a Type I error.
+
+[11] The numerator of the F-ratio produced by a one-way ANOVA is a measure of variability in dependent variable scores that's due to treatment effects plus error.
+
+[10] The researcher will use a multiple-sample chi-square test to analyze the data collected in the study to determine if there are gender differences in acceptance as a graduate student into the six largest departments at a university.
+
+[006] A Cohen's d of .60 indicates a medium effect, which is interpreted in terms of standard deviation units.
+
+[003] The multivariate analysis of variance (MANOVA) is used to simultaneously analyze the effects of one or more independent variables on two or more dependent variables that are each measured on an interval or ratio scale.
+
+[220] The reliable change index is used to determine if a difference in pre- and post-treatment scores on an outcome measure is reliable - i.e., if it is due to real improvement or deterioration in a person's clinical condition or to measurement error.
+
+[118] When a one-way ANOVA produces a statistically significant F-ratio, a post-hoc test would be considered if the independent variable has three or more levels.
+
+--------------------------------------------------------------------------------
+RMS: Internal/External Validity (1 items)
+--------------------------------------------------------------------------------
+
+[068] External validity refers to the extent to which research results are generalizable to other people, settings, and times.
+
+--------------------------------------------------------------------------------
+RMS: Overview of Inferential Statistics (12 items)
+--------------------------------------------------------------------------------
+
+[037] The standard error of the mean increases in size as the population standard deviation increases and sample size decreases.
+
+[048] Increasing the level of significance (alpha) from .05 to .10 increases the probability of making a Type I error and decreases the probability of making a Type II error.
+
+[080] Parametric statistical tests are more powerful than nonparametric tests, meaning that when using a parametric test, you're more likely to reject a false null hypothesis.
+
+[069] A Type II error occurs when a researcher retains a false null hypothesis.
+
+[09] Increasing the size of alpha, increasing the effect size, and using a parametric test when appropriate are methods for increasing the statistical power, which is the ability to reject a false null hypothesis, in designing and conducting a research study.
+
+[10] The central limit theorem predicts that the sampling distribution of means increasingly approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution of scores.
+
+[09] Increasing alpha from .01 to .05 increases both statistical power and the probability of making a Type I error.
+
+[08] The standard error of the mean decreases in magnitude as the population standard deviation decreases and the sample size increases.
+
+[007] Changing alpha from .01 to .05 increases the probability of making a Type I error when the null hypothesis is true and decreases the probability of making a Type II error when the null hypothesis is false.
+
+[002] The size of the standard error of the mean increases as the population standard deviation increases and the sample size decreases.
+
+[36] Statistical power is increased by all factors except population heterogeneity on the dependent variable.
+
+[201] Bayes' theorem combines the prior probability distribution and the likelihood function to obtain a posterior (updated) probability distribution for the parameter.
+
+--------------------------------------------------------------------------------
+RMS: Research - Internal/External Validity (10 items)
+--------------------------------------------------------------------------------
+
+[004] The biggest threat to the internal validity of Dr. Osprey's study on the effects of an anti-drug program on middle school students' attitudes toward drug use is history, as external events during the study period may have systematically affected the students' attitudes.
+
+[015] The Latin square is a type of counterbalanced design that ensures each level of the independent variable appears an equal number of times in each ordinal position.
+
+[014] The Solomon four-group design is used to control for the threat to internal validity known as pretest sensitization.
+
+[04] The double-blind technique reduces experimenter expectancy when designing a research study.
+
+[03] The biggest threat to the internal validity of a study evaluating the effectiveness of a stress reduction technique for alleviating test anxiety is statistical regression.
+
+[05] All single-subject designs involve measuring the dependent variable multiple times at regular intervals during each baseline phase and each treatment phase.
+
+[04] To control for the threat of differential selection to the internal validity of a research study, an investigator will randomly assign participants to different levels of the independent variable.
+
+[03] A research study has adequate internal validity when its results allow a researcher to draw accurate conclusions about the effects of an independent variable on a dependent variable.
+
+[03] The Solomon four-group design is used to evaluate the effects of pretesting on a study's internal and external validity.
+
+[012] The internal validity of a research study is threatened by statistical regression when participants were chosen for inclusion in the study because they obtained extremely low scores on a pretest.
+
+--------------------------------------------------------------------------------
+RMS: Research - Single-Subject and Group Designs (14 items)
+--------------------------------------------------------------------------------
+
+[026] The multiple baseline design is the best single-subject research design for evaluating virtual reality exposure treatment for a 34-year-old woman's storm, height, and spider phobias.
+
+[036] When there are statistically significant main and interaction effects, interpreting the main effects without considering the interaction can lead to erroneous conclusions.
+
+[047] When using the A-B-A-B single-subject design, there are two no-treatment phases and two treatment phases with the same treatment being applied in both treatment phases.
+
+[06] A mixed research design involves randomly assigning patients to one of two treatments (mindfulness-based cognitive therapy (MBCT) or mindfulness-based stress reduction (MBSR)) and measuring their level of social anxiety during the first treatment session and one week, one month, and three months following the end of treatment.
+
+[05] The time-series design is a type of within-subjects design that's essentially a group version of the single-subject AB design.
+
+[06] Participant observation is the primary method of data collection for ethnographic research and involves joining a cultural group and participating in its usual activities.
+
+[05] True experimental research is distinguished from quasi-experimental research by the researcher's ability to manipulate the independent variable(s) and randomly assign subjects to different groups.
+
+[04] The advantage of the single-subject ABAB design is that it enables a researcher to be more certain that the treatment is responsible for any observed change in the subject's behavior.
+
+[001] A mixed design is used in a research study that has at least two independent variables, one between groups and one within subjects variable, to compare the short- and long-term effects of three brief behavioral treatments for social anxiety disorder.
+
+[009] Triangulation refers to the use of more than one approach to the investigation of a research question in order to enhance confidence in the ensuing findings, and between-methods triangulation involves including both qualitative and quantitative methods to collect data.
+
+[008] Community-based participatory research (CBPR) is a type of action research that encourages engagement and full participation of community partners in every aspect of the research process from question identification to analysis and dissemination.
+
+[052] Removing a successful treatment during the second baseline (A) phase in an ABAB design just to see if the treatment caused the elimination of a self-injurious behavior during the initial treatment (B) phase would be unethical when evaluating the effectiveness of an intervention to eliminate the head banging of a child with autism spectrum disorder.
+
+[163] A distinguishing characteristic of community-based participatory research (CBPR) is that community members act as equal research partners who participate in all phases of the research.
+
+[089] When using purposive sampling, researchers rely on their own judgment to determine which individuals to include as subjects in their studies.
+
+--------------------------------------------------------------------------------
+RMS: Types of Variables and Data (13 items)
+--------------------------------------------------------------------------------
+
+[058] Error: Rewrite failed
+
+[003] The most effective way to control extraneous variables is through random assignment of subjects to the different treatment groups.
+
+[01] This study has 3 independent variables and 2 dependent variables, comparing the effects of three SAT review programs on male and female high school students with high, average, or low test anxiety.
+
+[02] In a normal distribution, about 95% of test scores with a mean of 60 and standard deviation of 5 fall between 50 and 70.
+
+[02] According to the stress buffering hypothesis, social support is a moderator variable that affects the likelihood of stressful life events leading to depression or other negative outcomes.
+
+[01] In a positively skewed distribution of scores, the mode has the lowest value and the mean has the highest value.
+
+[01] In a positively skewed distribution of scores, the mode is the lowest score and the mean is the highest score.
+
+[02] The study by Kaczynski, Lindahl, Malik, and Laurenceau (2006) found that the relationship between marital conflict and child adjustment was mediated by parenting style.
+
+[010] When test scores represent an interval or ratio scale and the distribution of scores is skewed, the median is usually the best measure of central tendency for the distribution.
+
+[011] Cluster sampling is a type of random (probability) sampling, not a type of nonrandom sampling.
+
+[138] 16% of middle-school students obtained scores above 165 on a normally distributed achievement test with a mean of 150 and a standard deviation of 15.
+
+[009] Interval and ratio scales allow the conclusion that the difference between scores of 50 and 51 is equal to the difference between 90 and 91.
+
+[16] A bar graph can be used to visually summarize the nominal data collected in a research study.
+
+--------------------------------------------------------------------------------
+TES: Item Analysis and Test Reliability (29 items)
+--------------------------------------------------------------------------------
+
+[049] The standard error of measurement for a test that has a standard deviation of 10 ranges from 0 when the reliability coefficient is 1.0 to 10 when the reliability coefficient is 0.
+
+[016] Reliability coefficients are interpreted directly as the percent of variability in test scores that is due to true score variability, and when the reliability coefficient is .80, this means that 80% of variability in scores is due to true score variability and 20% is due to measurement error.
+
+[005] To make her statistics tests easier, Dr. Haar will want to remove items with an item difficulty index (p) of .15 and lower and add items with an item difficulty index of .85 and higher.
+
+[027] The Kuder-Richardson Formula 20 (KR-20) can be used to estimate a test's internal consistency reliability when test items are scored dichotomously.
+
+[038] Percent agreement as a measure of inter-rater reliability may overestimate reliability because it is affected by chance agreement.
+
+[049] To increase the test-retest reliability of a newly developed measure of intelligence, the test developer should increase the number of test items and make sure the new sample of examinees is heterogeneous with regard to level of intelligence.
+
+[016] According to classical test theory, variability in test scores is due to a combination of true score variability and random error.
+
+[027] The Spearman-Brown formula is used to estimate the effect of adding or subtracting items on a test's reliability coefficient.
+
+[038] The kappa coefficient is used to evaluate the inter-rater reliability of a test when scores or ratings on the test represent a nominal scale of measurement.
+
+[005] The item discrimination index (D) is calculated by subtracting the percent of examinees in the low scoring group who answered the item correctly from the percent of examinees in the high scoring group who answered the item correctly, it ranges from -1.0 to +1.0, and the closer D is to 0, the weaker its ability to discriminate.
+
+[04] A true/false test is likely to have the lowest reliability coefficient compared to three-item and four-item multiple-choice tests and fill-in-the-blanks tests.
+
+[03] Coefficient alpha, also known as Cronbach's alpha, is used to determine a test's internal consistency reliability.
+
+[01] The optimal average item difficulty level (p) for a test with 50 true/false questions is 0.75.
+
+[02] Classical test theory assumes that measurement error is random.
+
+[04] The standard error of measurement is used to construct a confidence interval around an obtained score and indicates the range within which an examinee's true score is likely to fall given his/her obtained score.
+
+[02] The point at which the item characteristic curve (ICC) intercepts the y-axis indicates the probability of choosing the correct answer to the item by guessing alone.
+
+[03] Consensual observer drift tends to artificially increase a measure's inter-rater reliability.
+
+[01] The item discrimination index (D) ranges from -1.00 to +1.00, where a value of +1.0 indicates that all high-scoring examinees answered the item correctly and all low-scoring examinees answered it incorrectly, while a value of -1.0 indicates the opposite.
+
+[01] To increase the difficulty of a statistics test, items with an average item difficulty index (p) close to 0.20 would be added.
+
+[03] A psychologist developing a reading achievement test for middle school students is likely to obtain the highest reliability for the test if it contains 50 items and examinees in the tryout sample are heterogeneous with regard to reading ability.
+
+[02] To calculate the standard error of measurement for a newly developed test, you need the test's standard deviation and reliability coefficient.
+
+[001] A test's internal consistency reliability is indicated by a Cronbach's alpha coefficient of .93.
+
+[010] The item difficulty index ranges from 0 to +1.0, with 0 indicating a very difficult item.
+
+[006] The point at which an item characteristic curve intercepts the Y (vertical) axis provides information about the probability of answering the item correctly by guessing.
+
+[011] A newly developed aptitude test with a split-half reliability coefficient of .75 was administered to 100 high school seniors whose grade point averages ranged from 3.5 to 4.0, and then to another sample of 100 high school seniors whose grade point averages ranged from 2.0 to 4.0, resulting in a split-half reliability coefficient that was larger than .75.
+
+[1] The reliability index is calculated by taking the square root of the reliability coefficient, so that when a test's reliability coefficient is .81, the reliability index is .90.
+
+[073] Cohen's kappa coefficient is the appropriate technique for determining the inter-rater reliability of the ratings made by the manager and assistant manager when they categorized employees as being ready or not ready for promotion.
+
+[168] An unrestricted range of scores and homogeneous content of test items are likely to produce the largest reliability coefficient for a newly developed achievement test.
+
+[195] CTT is test based and IRT is item based, and one difference between them is that CTT focuses on total test scores while IRT focuses on responses to individual test items.
+
+--------------------------------------------------------------------------------
+TES: Test Score Interpretation (12 items)
+--------------------------------------------------------------------------------
+
+[128] In a normal distribution of scores, a T-score of 60 is equivalent to a z-score of 1.0 and a percentile rank of 84.
+
+[115] In a normal distribution, a percentile rank of 84 indicates that an examinee's score is one standard deviation above the mean.
+
+[126] A T-score distribution has a mean of 50 and a standard deviation of 10.
+
+[12] In a normal distribution of scores with a mean of 75 and standard deviation of 5, a raw score of 65 is equivalent to a z-score of -2.0.
+
+[11] When raw scores are converted to percentile ranks, the resulting distribution will be rectangular.
+
+[11] In a normal distribution, a T-score of 40 is equivalent to a percentile rank of 16.
+
+[12] Percentage scores are a type of criterion-referenced score, while all other scores mentioned (e.g., z-scores, T-scores, percentile ranks) are norm-referenced scores.
+
+[12] In a normal distribution, a T-score of 40 represents the lowest score.
+
+[11] Percentile rank distributions are always flat regardless of the shape of the raw score distribution because percentile ranks are evenly distributed throughout the range of scores: The same number of scores fall between the percentile ranks of 1 and 10, 11 and 20, 21 and 30, etc.
+
+[004] In a normal distribution, a T-score of 65 represents the highest score.
+
+[127] Banding is based on the assumption that small differences in selection test scores are not necessarily associated with meaningful differences in job performance.
+
+[15] In a normal distribution, a percentile rank of 84 and a T-score of 60 are both one standard deviation above the mean.
+
+--------------------------------------------------------------------------------
+TES: Test Validity - Content and Construct Validity (20 items)
+--------------------------------------------------------------------------------
+
+[060] The multitrait-multimethod matrix is used to evaluate a test's construct validity.
+
+[071] In the context of factor analysis, "oblique" means the factors extracted are correlated.
+
+[071] When the correlation between a test and a factor is .60, this means that 36% of variability in test scores is explained by variability in the factor.
+
+[082] Evaluating a newly developed 10-item screening test's concurrent validity involves administering the test to a sample of clinic patients along with an established (validated) 50-item measure of depression and correlating the two sets of scores.
+
+[060] The multitrait-multimethod matrix provides evidence of a test's convergent validity when scores on the test have high correlations with scores on other tests that measure the same or a related construct.
+
+[07] In the context of factor analysis, "orthogonal" means uncorrelated.
+
+[06] The multitrait-multimethod matrix provides evidence of a test's divergent validity when scores on the test have low correlations with scores on tests that measure unrelated constructs.
+
+[05] Assessing the validity of a test means evaluating its accuracy in measuring what it was designed to measure.
+
+[07] A factor loading of .30 for Factor I means that 9% of variability in test scores is explained by Factor I.
+
+[06] A large heterotrait-monomethod coefficient in a multitrait-multimethod matrix assessment indicates inadequate divergent validity.
+
+[08] When a test is cross-validated on another sample, the criterion-related validity coefficient usually is smaller than the initial coefficient obtained on the original sample.
+
+[05] Face validity refers to the degree to which test items "look like" they measure what the test purports to measure, which can affect test performance, but it does not provide information on whether or not the test accurately measures what it was designed to measure.
+
+[06] When a test's communality is .40 in a factor analysis, this means that the identified factors explain 40% of the variability in test scores.
+
+[05] A small monotrait-heteromethod coefficient indicates that the test lacks adequate convergent validity.
+
+[04] When a test developer uses varimax to rotate the factors identified in a factor analysis, the rotated factors are orthogonal, which means that they're uncorrelated.
+
+[002] In the context of factor analysis, "orthogonal" means the factors extracted are uncorrelated.
+
+[005] A small heterotrait-monomethod coefficient provides evidence of a test's divergent validity, which, along with convergent validity, demonstrates the test's construct validity.
+
+[012] In a factor matrix, a communality indicates the proportion of variability in a single test that's accounted for by all of the identified factors.
+
+[060] In a multitrait-multimethod matrix, a large monotrait-heteromethod coefficient provides evidence of a test's convergent validity.
+
+[098] Rotation of the initial factor matrix simplifies the factor structure, thereby creating a matrix that is easier to interpret.
+
+--------------------------------------------------------------------------------
+TES: Test Validity - Criterion-Related Validity (23 items)
+--------------------------------------------------------------------------------
+
+[106] A test's criterion-related validity coefficient can be no greater than the square root of its reliability coefficient.
+
+[117] Shrinkage is associated with cross-validation and refers to the fact that a validity coefficient is likely to be smaller than the original coefficient when the predictor(s) and criterion are administered to another (cross-validation) sample due to chance factors that contributed to the relationship between the predictor(s) and criterion in the original sample not being present in the cross-validation sample.
+
+[082] Before using a selection test to estimate how well job applicants will do on a measure of job performance on their first few days of work, one would want to ensure the selection test has adequate predictive validity.
+
+[095] False positives are job applicants who are hired on the basis of their scores on a job selection test but then obtain unsatisfactory scores on a measure of job performance six months later.
+
+[104] Adding a new selection test to the current hiring decision procedure will increase decision-making accuracy through incremental validity.
+
+[093] The standard error of estimate is used to construct a confidence interval around an examinee's predicted criterion score.
+
+[10] The correction for attenuation formula is used to estimate the effect of increasing a predictor's reliability on its criterion-related validity coefficient.
+
+[09] The sensitivity of a test is the proportion of people who have a disorder and are correctly identified by the test as having the disorder.
+
+[08] Evaluating a selection test's predictive validity is important when using the test scores to estimate an applicant's future job performance, as opposed to their current status.
+
+[10] A test's specificity refers to its ability to accurately identify people who do not have the disorder or other attribute the test was designed to identify, calculated by dividing the number of true negatives by the number of true negatives plus false positives.
+
+[09] The 99% confidence interval for a predicted job performance score of 80 with a standard deviation of 7 and a standard error of estimate of 3 is 71 to 89.
+
+[09] When a predictor has a reliability coefficient of .64, its criterion-related validity coefficient can be no larger than .80.
+
+[10] When a test developer cross-validates a job knowledge test by administering it to a new sample, the validity coefficient is likely to be less than the original validity coefficient due to shrinkage.
+
+[07] A test's sensitivity is calculated by dividing the number of true positives by the number of true positives plus false negatives.
+
+[08] The 95% confidence interval for an applicant's predicted job performance score of 75, with a standard deviation of 6 and a standard error of estimate of 4, is 67 to 83.
+
+[003] The 95% confidence interval for a middle school student who receives a full-scale IQ score of 105 on an intelligence test that has a mean of 100, standard deviation of 15, and standard error of measurement of 3 is 99 to 111.
+
+[009] A test developer administers an aptitude test to a sample of high school juniors and seniors admitted to college without use of their aptitude test scores, obtains the GPAs of the same students at the end of their second year of college, and calculates a correlation coefficient for the students' aptitude test scores and GPAs, which provides information about the test's predictive validity.
+
+[007] A test developer calculates a test's sensitivity when she divides the number of true positives identified by the test by the number of true positives plus false negatives.
+
+[008] Raising the cutoff score of a new selection test developed for the Acme Company will decrease the number of false positives and increase the number of true negatives.
+
+[043] The incremental validity of a new selection test (predictor) is calculated by subtracting the base rate from the positive hit rate.
+
+[146] When the prevalence of a disorder increases, the positive predictive value of a test for the disorder increases and the negative predictive value decreases.
+
+[218] When a predictor has a criterion-related validity coefficient of 0.80, this means that 64% of variability in scores on the criterion is explained by variability in scores on the predictor.
+
+[183] The correction for attenuation formula is used to estimate the effects of increasing the reliability of a predictor and/or criterion on the criterion-related validity coefficient.
+
+
+================================================================================
+END OF DOMAIN
+================================================================================

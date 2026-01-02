@@ -1,0 +1,408 @@
+================================================================================
+DOMAIN 2: DEVELOPMENTAL PSYCHOLOGY
+================================================================================
+Total Anchor Points: 175
+================================================================================
+
+--------------------------------------------------------------------------------
+LIF: Cognitive Development (31 items)
+--------------------------------------------------------------------------------
+
+[090] Piaget attributed children's ability to engage in deferred imitation and make-believe play to the ability to create mental representations, which emerges during the final substage of the sensorimotor period at about 18 months of age.
+
+[088] Piaget proposed that the construction of knowledge involves adaptation, which consists of two processes - assimilation and accommodation, and applying the word "doggie" to all furry four-legged animals is an example of assimilation.
+
+[101] Elkind's concept of the personal fable refers to the adolescent belief that one is unique and not subject to the rules or consequences that apply to other people, as exemplified by Samantha's belief that there is no way she could get pregnant from unprotected sex with her boyfriend.
+
+[112] When older adults are asked to recall events from their past, the largest number of recalled events are from the recent past, with a "reminiscence bump" which is a spike in memory for events that occurred in mid-adolescence to early adulthood (from about ages 15 to 25).
+
+[137] In adulthood, secondary memory is most negatively affected by increasing age.
+
+[117] Piaget proposed that the ability to conserve emerges during the concrete operational stage as the result of the emergence of reversibility of thought, decentration, and transformational thinking.
+
+[128] According to Vygotsky, assistance from adults and more experienced peers (scaffolding) helps a learner advance within his/her zone of proximal development.
+
+[106] When a child says the moon is following them because it wants to help them see where they're going, this is an example of animistic thinking.
+
+[11] A child exploring the use of a block by banging it against the tray on his highchair, using it to push another block across the tray, and dropping it while sitting in his high chair is an example of tertiary circular reaction, as described by Piaget.
+
+[13] According to Vygotsky, children's make-believe play provides them with a zone of proximal development.
+
+[14] Research on infantile amnesia has consistently found that most older children and adults are unable to recall autobiographical events that occurred when they were less than three or four years of age.
+
+[12] Piaget used the term horizontal decalage to describe the gradual acquisition of abilities within a stage (e.g., the gradual development of conservation skills within the concrete operational stage).
+
+[181] Piaget's stage theory of cognitive development views development as being discontinuous and active.
+
+[10] According to Piaget, children begin to be able to observe another child perform a complex action and then imitate that action for the first time on the following day when they're between 18 and 24 months of age.
+
+[11] A young child's realization that the neighbor's cat is not the same as the family dog and starting to call it "kitty" instead of "doggie" is an example of accommodation according to Piaget's theory.
+
+[02] Paralanguage refers to variations in tone, rhythm, volume, and stress used to express emotions and modify or clarify the meaning of verbal communication.
+
+[13] The synchrony effect, where older adults perform better on certain cognitive tasks in the morning while younger adults perform better in the afternoon or evening, is due to age-related differences in circadian rhythms and peak times of arousal.
+
+[03] Self-defining memory (SDM) is a component of episodic memory and consists of memories that contribute to the construction and maintenance of one's personal identity, which have five characteristics: emotional intensity, vividness, high levels of repetition, linkage to similar memories, and connections to enduring concerns or unresolved conflicts, except for resistance to change.
+
+[12] Vygotsky's zone of proximal development is defined by the child's independent performance and the child's performance with assistance.
+
+[11] The "reminiscence bump" in older adults' recall of past events is related to personal identity formation during adolescence and early adulthood when memories of autobiographical events receive preferential encoding and retention.
+
+[13] In this situation, the child is assimilating the apparent movement of the moon into what he already knows - i.e., things that move with you are following you.
+
+[17] Mothers and fathers tend to perceive and treat boys and girls differently on the basis of sex as soon as their children are born, often describing newborn boys as "strong" and "big" and handling them more firmly, and describing newborn girls as "delicate" and "little" and handling them more gently.
+
+[10] According to Vygotsky's theory, the acquisition of knowledge depends primarily on social interactions.
+
+[14] The sentences "The mouse was chased by the cat" and "The cat chased the mouse" have the same meaning but differ in terms of syntax.
+
+[003] During substage 3 (secondary circular reactions) of the sensorimotor stage, an infant repeats behaviors that elicit a response from a person or object.
+
+[005] Males have higher levels of self-esteem than females do beginning in late childhood and persisting into late adulthood.
+
+[012] Chemotherapy and cranial irradiation are both associated with deficits in neurocognitive functioning when used to treat childhood acute lymphoblastic leukemia (ALL).
+
+[007] Late middle-aged adults who had an older identity had significantly poorer word recall when they were told their performance would be compared to that of older adults than did those who were told their performance would be compared to that of younger adults or were not given any comparison information.
+
+[199] The change-of-location task is most often used to assess theory of mind.
+
+[24] Neo-Piagetian theories of cognitive development are best described as a combination of elements of Piaget's constructivist theory and information processing theories.
+
+[091] Sense of self and language skills are most useful for understanding childhood amnesia, the inability of adults to recall events they experienced before the age of 3 or 4.
+
+--------------------------------------------------------------------------------
+LIF: Early Influences on Development - Nature vs. Nurture (11 items)
+--------------------------------------------------------------------------------
+
+[022] Bronfenbrenner's bioecological theory's mesosystem consists of the interactions between elements of the microsystem.
+
+[011] Full siblings, fraternal twins, and other first degree relatives share about 50% of their genetic material, while half siblings share about 25%.
+
+[029] Niche-picking refers to the tendency of children and adolescents to seek experiences and environments that complement and reinforce their genetic predispositions.
+
+[018] The acquisition of most aspects of human development has a sensitive period, meaning these skills can be acquired most easily during a particular period of time but can still be acquired later, although it may be more difficult.
+
+[007] The shorter-than-average height of the 22-year-old biological son of taller-than-average parents can be explained by the phenotype, which is the result of a combination of genetic and environmental factors.
+
+[01] Canalization refers to the extent to which genotype restricts phenotype to a limited number of developmental outcomes regardless of environmental circumstances.
+
+[02] A heritability estimate indicates the extent to which variability in phenotype in a given population is attributable to differences in genotype.
+
+[01] According to Bronfenbrenner's (2004) ecological systems theory, available legal and social services are part of the exosystem, which consists of elements in the environment that the child may not have direct contact with but affect the child's immediate environment.
+
+[01] A male expresses an X-linked trait whether it's due to a recessive or a dominant allele, while females express the trait only when they have inherited the X-linked recessive allele from both parents.
+
+[02] In Bronfenbrenner's ecological theory, a parent's workplace, the child's extended family, and the mass media are part of the child's exosystem.
+
+[022] Prenatal exposure to alcohol can trigger epigenetic changes that result in fetal alcohol spectrum disorders.
+
+--------------------------------------------------------------------------------
+LIF: Early Influences on Development - Prenatal Development (13 items)
+--------------------------------------------------------------------------------
+
+[044] The symptoms of fetal alcohol syndrome are lifelong and irreversible.
+
+[033] Klinefelter syndrome affects males, is due to the presence of an extra X chromosome, and causes a number of physical abnormalities.
+
+[040] The age of viability, the earliest time in fetal development when the fetus has a good chance of survival outside the womb, is generally considered to be between 22 and 26 weeks after conception.
+
+[062] When a woman uses cocaine during pregnancy, her baby may be premature and have a low birth weight, may be irritable, restless, and difficult to comfort, and may have feeding and sleep problems, an exaggerated startle response, and a high-pitched cry.
+
+[04] Congenital cytomegalovirus (CMV) during prenatal development is most likely to cause sensorineural hearing loss in infants.
+
+[03] Prader-Willi syndrome, characterized by intellectual disability, short stature, small hands and feet, and obesity, is the only disorder in the list caused by a chromosomal deletion.
+
+[03] Rett syndrome primarily affects females and is caused by a mutation in an X-linked gene.
+
+[04] The earliest age at which a baby can survive outside the womb is referred to as the age of viability, which is between 22 and 26 weeks after conception.
+
+[001] Prader-Willi syndrome is most often the result of the deletion of a segment on paternal chromosome 15, while Angelman syndrome is usually the result of the deletion of a segment on maternal chromosome 15.
+
+[009] Consumption of alcohol by pregnant women is most likely to cause major birth defects in their offspring when drinking occurs during the embryonic period (weeks 3 through 8).
+
+[207] Phenylketonuria (PKU) occurs in individuals who are homozygous for a recessive allele.
+
+[080] Women who are 42 years of age or older at the time of conception are at the greatest risk for having a child with standard (nondisjunction) trisomy 21.
+
+[22] Klinefelter syndrome is not caused by a chromosomal deletion, but rather by the presence of two or more X chromosomes in addition to a single Y chromosome in males.
+
+--------------------------------------------------------------------------------
+LIF: Early Influences on Development: Nature vs. Nurture (6 items)
+--------------------------------------------------------------------------------
+
+[06] Fetal programming, which occurs when exposure to certain events during embryonic and fetal development affects the offspring's characteristics at birth and long-term health, explains the link between maternal overnutrition during pregnancy and her offspring's increased risk for obesity, metabolic syndrome, and type 2 diabetes mellitus in childhood and adulthood.
+
+[05] Twin studies have found that the influence of shared environmental factors on intelligence decreases beginning in adolescence, while the influence of nonshared factors is relatively stable throughout the lifespan.
+
+[002] Capron and Duyme (1989) found that being adopted by high-SES parents had a positive effect on children's IQs and being adopted by low-SES parents had a negative effect on children's IQs regardless of the SES of their biological parents.
+
+[31] The median correlation coefficients for IQ scores reported by Bouchard and McGue indicate that the correlation is lowest for biological parent and child living apart.
+
+[166] Twin studies have confirmed that monozygotic twins reared apart are more similar than dizygotic twins reared together in terms of personality.
+
+[143] The active genotype-environment correlation is the association between an individual's genetic predisposition and the niches (environments) the individual chooses, which is also referred to as niche-picking and niche-building.
+
+--------------------------------------------------------------------------------
+LIF: Language Development (17 items)
+--------------------------------------------------------------------------------
+
+[123] Children use two words to create a simple sentence, such as "juice gone," "get toy," and "big doggie," by about 18 to 24 months of age.
+
+[134] Morphemes are the smallest meaningful units in a language, such as "inter," "er," "ism," "pre," and "post" in English.
+
+[145] When a child learns the word "dada," she initially applies it to all adult males, which is an example of overextension.
+
+[152] Code-switching is used by bilingual and multilingual speakers to establish solidarity with listeners belonging to their own minority group.
+
+[10] Noam Chomsky attributed language acquisition to an innate language acquisition device.
+
+[08] Babbling emerges between 3 and 6 months of age and initially involves the repetition of single vowel-consonant combinations that include sounds from different languages.
+
+[09] The vocabulary spurt, when babies use about 50 words, usually begins around 18 months of age.
+
+[08] The smallest distinctive units of sound in a language are referred to as phonemes.
+
+[196] Infant babbling initially includes sounds from all languages but begins to narrow to the sounds of the infant's native language by about 9 months of age.
+
+[07] Newborns emit three different cries that indicate hunger, anger, or pain.
+
+[08] An example of a morpheme is "do".
+
+[09] Underextension occurs when a child applies a word only to a specific person, object, or event rather than to all the people, objects, or events it applies to.
+
+[015] Language brokering, the act of translating and interpreting within immigrant families by children and adolescents for their parents, can have both positive and negative effects on the child and the parent-child relationship.
+
+[025] People who struggle with pragmatic language often have difficulty understanding humor and sarcasm.
+
+[181] The word "unsustainable" has two bound morphemes and one free morpheme.
+
+[086] The research suggests that learning sign language benefits the acquisition of spoken language for deaf and hard-of-hearing children.
+
+[027] No canonical babbling at 5 months of age is not a "red flag" suggesting a young child should be referred for a speech/language evaluation.
+
+--------------------------------------------------------------------------------
+LIF: Physical Development (21 items)
+--------------------------------------------------------------------------------
+
+[066] The 2015 National Survey on Drug Use and Health found that the largest percentage of adolescents said they used alcohol during the previous month, but the percentage was somewhat lower than in previous years.
+
+[077] The development of depth perception in infancy involves becoming sensitive to kinetic cues at one to three months of age, binocular cues at three to five months, and pictorial cues at five to seven months.
+
+[055] The prefrontal cortex is the last area of the brain to become fully functional and continues to develop into the early or mid-20s.
+
+[073] Infants exhibit some degree of auditory localization soon after birth, but this ability disappears between two and four months of age and then reappears and improves to nearly adult levels by about 12 months of age.
+
+[084] Early physical and sexual maturation during adolescence is associated with better outcomes for adolescent boys than for adolescent girls.
+
+[095] Presbyopia (farsightedness) is the inability to focus on near objects and, for many adults, is first evident at about 40 years of age.
+
+[06] Of the five senses, sight is least well-developed at birth.
+
+[07] The human brain increases in size quickly following birth due primarily to an increase in nerve fibers and glial cells and reaches at least 75% its adult size and weight by about 24 months of age.
+
+[05] Exposure to severe or repetitive pain during early infancy increases future sensitivity to pain and is associated with other adverse consequences, such as learning and behavioral problems in childhood.
+
+[192] One-month-old babies respond with the Moro reflex when they are startled by a loud noise or sudden movement.
+
+[04] Research has found that the greatest age-related atrophy in the adult cortex occurs in the frontal and parietal lobes.
+
+[06] The effects of prenatal exposure to a teratogen depend on the type and amount of the teratogen and the organ system but, in general, the most severe defects result when exposure occurs during the embryonic period, which extends from the beginning of the third week to the end of the eighth week.
+
+[12] The research by Ellis and Garber (2000) found that the relationship between maternal mood disorder and early onset puberty in girls was mediated by biological father absence with stepfather presence and stressful family relationships.
+
+[07] Carskadon's (2011) "perfect storm" model of adolescent sleep deprivation includes biological factors like circadian phase delay, societal factors like early school start times, and psychosocial factors like greater autonomy over bedtimes, increased academic pressures, and excessive screen time, but not bedtime snacking.
+
+[024] Breastfeeding the baby and having the baby sleep on his/her back decreases the risk for sudden infant death syndrome (SIDS).
+
+[011] Balancing on one foot for three seconds, catching a ball with stiff arms, and pedaling a tricycle are skills that are usually first evident when toddlers are between 31 and 36 months of age.
+
+[004] The fraternal birth order effect (FBOE) predicts that the likelihood that a boy will have a homosexual orientation increases with each older male biological sibling.
+
+[063] Adults over the age of 40 are likely to have the least trouble hearing a frog croaking.
+
+[155] Of the infants listed, a 5-month-old African American boy is at greatest risk for sudden infant death syndrome (SIDS) due to the risk factors of male gender, African American and Native American race, and age under 6 months.
+
+[042] A high level of religiosity acts as a buffer between exposure to life stress and subsequent alcohol, tobacco, and marijuana use among adolescents.
+
+[214] Sexual fluidity, which refers to changes in a person's sexual attractions and/or behaviors that are inconsistent with their self-described sexual orientation, is reported by both heterosexual and homosexual men and women, with somewhat greater frequencies reported by women.
+
+--------------------------------------------------------------------------------
+LIF: School and Family Influences (18 items)
+--------------------------------------------------------------------------------
+
+[204] Wallerstein and Blakeslee reported that many of the girls in their studies seemed to adjust well to the divorce of their parents during childhood but then developed emotional and behavioral problems in late adolescence and adulthood - e.g., they engaged in risky and self-destructive behaviors, became sexually promiscuous and involved in unsatisfactory relationships, and were excessively worried about betrayal and abandonment.
+
+[210] The Rosenthal effect, also known as the Pygmalion effect or self-fulfilling prophecy effect, is the finding that teachers' positive expectations for students identified as academic "spurters" (who were actually randomly chosen) had a positive effect on the students' IQ scores and grades.
+
+[206] Based on Amato's (1993) review, interparental conflict has received the most consistent and convincing support as a factor that negatively impacts the adjustment of children after their parents' divorce.
+
+[24] Research has found that the relationship between stepparents and their stepchildren tend to be most problematic when remarriage occurs during the children's early adolescence.
+
+[25] Research by Sadker and Sadker has consistently confirmed that gender stereotypes bias how teachers respond to boys and girls in the classroom - they tend to pay more attention to boys and give boys more praise and precise and helpful feedback.
+
+[23] Frequency of paternal contact with children after divorce was the factor least related to children's post-divorce outcomes, in contrast with payment of child support, feelings of closeness, and authoritative parenting, which were related to academic success and problem behaviors (Amato and Gilbreth, 1999).
+
+[14] The risk of child maltreatment is greatest for children below 1 year of age.
+
+[25] Gorchoff, John, and Helson (2008) found that the "empty nest" was associated with an increase in marital satisfaction for the women in their study and that the increase was due primarily to an increase in the quality (but not the quantity) of the time they spent with their husbands.
+
+[18] Lucas-Thompson et al.'s (2010) research found that, overall, children of women who returned to work outside the home during their children's first 3 years of life (especially during the second or third year) were no more likely to develop significant behavioral or academic achievement problems than were children whose mothers did not return to work.
+
+[25] Several studies have found that depression mediates the relationship between childhood maltreatment (especially physical and sexual abuse) and adult obesity, meaning that childhood maltreatment increases the risk for depression, and depression then increases the risk for obesity.
+
+[22] Gottman and Levenson found that, of the four behaviors listed in the answers to this question, contempt (which is characterized by hostility, disrespect, and disgust) is the most damaging to a couple's relationship and is the single best predictor of divorce.
+
+[24] Following divorce, women are more likely to experience chronic economic problems, while men are more likely to experience transient health problems.
+
+[006] Children exhibit the greatest number of internalizing and externalizing behaviors and other problems when their divorced parents remarry when the children are in early adolescence, and girls often exhibit more adjustment problems than boys do following the remarriage of their parents.
+
+[019] Cultural socialization, which focuses on teaching children about their cultural history and traditions and promoting cultural pride, has been more consistently linked to the development of a positive ethnic identity than preparation for bias in African American children and adolescents.
+
+[018] Couples who had cohabited prior to marriage had a decreased risk for marital dissolution during the first year of marriage only.
+
+[020] For individuals between 65 and 95 years of age, the estimated life expectancy in years is longest for married women.
+
+[114] The studies have found that grandmothers tend to have more contact than grandfathers with their grandchildren and that grandparents and grandchildren of the same sex have closer relationships than those of the opposite sex, with grandmothers and granddaughters having the closest relationships.
+
+[191] Overcontrolling ("helicopter") parenting during toddlerhood was predictive of poor emotional and behavioral self-regulation (as measured by emotion regulation and inhibitory control) at age 5, which in turn was predictive of emotional, social, and academic problems at age 10.
+
+--------------------------------------------------------------------------------
+LIF: Socioemotional Development - Attachment, Emotions, and Social Relationships (30 items)
+--------------------------------------------------------------------------------
+
+[174] Ainsworth and her colleagues distinguished between two types of insecure attachment patterns: avoidant and ambivalent, and parents of children with the avoidant pattern are often either rejecting and unresponsive or intrusive and overstimulating.
+
+[192] Parten identified cooperative play as the most socially complex of the six types of social participation she observed in children 2-1/2 to 4 years of age.
+
+[168] Social referencing refers to the use of the emotional reactions of a parent or other person to determine how to respond in ambiguous situations, often studied by placing infants in situations involving a stranger, a novel object, or the visual cliff.
+
+[180] The Oregon model of parent management training developed by Gerald Patterson and his colleagues (1982) was based on their research that found a link between high levels of aggressiveness in children and coercive family interactions.
+
+[212] Studies have found that rejected children have worse outcomes than neglected children and are less likely to experience a change in status when they change peer groups.
+
+[194] The disorganized/disoriented attachment pattern has been linked to early abuse and neglect by parents, parents who abuse alcohol or drugs, and severe maternal depression.
+
+[188] For most infants, separation anxiety begins when the infant is between 6 and 8 months of age.
+
+[182] According to Harlow and Zimmerman's research, contact comfort is most important for the development of attachment in young rhesus monkeys.
+
+[21] Crick and Dodge's social information-processing model attributes high levels of aggression in children to a hostile attribution bias.
+
+[22] Damon's three stages of friendship development are handy playmate, mutual trust and assistance, and intimacy and loyalty.
+
+[20] Embarrassment, envy (jealousy), and empathy are the first self-conscious emotions to emerge at about 18 to 24 months of age.
+
+[18] Ainsworth and her colleagues used the "strange situation" to study attachment in babies one to two years of age.
+
+[19] The Adult Attachment Interview classifies interviewees as dismissing when they provide positive descriptions of their early relationships with their parents, but their descriptions are not supported or are contradicted by their actual memories.
+
+[22] Mildred Parten (1932) categorized children's play into two types: nonsocial play, which includes unoccupied play, solitary play, and onlooker play, and social play, which includes parallel play, associative play, and cooperative play.
+
+[19] According to Bowlby (1980), an infant's early attachment relationships lead to the development of internal working models that consist of beliefs about the self, others, and the self in relationship to others, which affect future relationships.
+
+[21] Stranger anxiety typically begins at around 8 months of age for most children.
+
+[19] Infants show a shift in their attention to particular facial expressions of emotion by 7 months of age: Prior to this age, they give more attention to happy faces, but this changes at about 7 months to more attention to fearful faces.
+
+[21] Embarrassment, envy (jealousy), and empathy are the first self-conscious emotions to emerge at about 18 to 24 months of age, followed by pride, shame, and guilt at about 30 to 36 months of age.
+
+[20] Infants with an insecure/resistant (ambivalent) attachment pattern cling to their mother, are very upset when she leaves, and may be angry and reject her when she returns, and their mothers are inconsistent in their caregiving.
+
+[23] The intervention for aggressive, antisocial behavior in children developed by Patterson and his colleagues at the Oregon Social Learning Center focuses primarily on teaching parents effective parenting strategies.
+
+[016] Feelings of shame elicit the greatest motivation to change oneself compared to feelings of guilt, because shame is the result of a dispositional appraisal while guilt is the result of a behavioral appraisal.
+
+[023] Shame focuses on feelings about oneself while guilt focuses on feelings about one's behavior, and shame tends to be more motivating for self-change.
+
+[010] Bowlby's theory of attachment was most influenced by ethological theory.
+
+[008] Dissatisfied older married couples show more restraint in expressing negative emotions compared to dissatisfied middle-aged married couples.
+
+[017] According to Selman (1980), during the stage of friendship that extends from about 3 to 6 years of age, a child says friends are children whom they play with or live nearby.
+
+[056] Children as young as 3 years of age categorize toys, clothing, and activities by gender due to the acquisition of gender schemas.
+
+[225] Most children begin to prefer same-sex playmates between 2 and 3 years of age with girls showing a preference earlier than boys do according to research on gender segregation.
+
+[106] A meta-analysis by the APA Task Force on Violent Media (2015) found that exposure to violent videogames increases aggressive behaviors, cognitions, and affect and decreases empathy.
+
+[174] Instrumental aggression usually first appears in children by the time they are 1 year of age and then peaks at 2 years of age.
+
+[134] Rowe and Kahn's model of successful aging includes reducing the risk for disease and disease-related disability, maintaining high cognitive and physical functioning, and staying actively engaged in life, but not acceptance of the normal effects of aging.
+
+--------------------------------------------------------------------------------
+LIF: Socioemotional Development - Moral Development (6 items)
+--------------------------------------------------------------------------------
+
+[186] Individuals in the first stage of Kohlberg's preconventional level of moral development base their judgments on the consequences of the act, and a person in this stage would say that Heinz should not steal the drug because of the negative consequences of doing so.
+
+[200] As described by Piaget, children in the heteronomous stage of moral reasoning base their judgments about a person's behavior on the consequences of the behavior.
+
+[23] The child who doesn't steal because it's against the law is in the law and order orientation stage of Kohlberg's conventional level of moral development.
+
+[188] Kohlberg's theory of moral development has been criticized for claiming that moral development ends in late childhood, but this claim was actually made by Piaget, not Kohlberg, and has been challenged by research on moral development during adolescence and adulthood.
+
+[014] Piaget and Kohlberg both viewed the influence of peers as more important than the influence of parents for the moral development of children.
+
+[125] Stage 6 of Kohlberg's model of moral development is the universal ethical principles stage.
+
+--------------------------------------------------------------------------------
+LIF: Socioemotional Development - Temperament and Personality (20 items)
+--------------------------------------------------------------------------------
+
+[142] The goodness-of-fit model developed by Thomas and Chess (1977) focuses on the match between a child's temperament and the demands of the social environment.
+
+[162] Bem's gender schema theory combines elements of cognitive developmental theory and social learning theory to explain how children learn about gender roles and acquire a gender identity.
+
+[198] Carstensen's socioemotional selectivity theory proposes that, as we get older, emotionally meaningful goals become more important and knowledge-related goals become less important.
+
+[150] The positive outcome ("virtue") of Erikson's autonomy vs. shame and doubt stage of psychosocial development is will (initiative and self-determination), not purpose.
+
+[156] Authoritative parenting style is characterized by high demandingness and high responsiveness, which leads to the best outcomes for children and adolescents, as found by research by Baumrind (1971) and others.
+
+[176] Marcia's moratorium status is characterized by the adolescent currently experiencing an identity crisis and a lack of commitment to a particular identity in terms of college major, career, or marriage.
+
+[170] Parents with an authoritative parenting style have high levels of both demandingness-control and acceptance-responsiveness.
+
+[164] Most infants begin to recognize themselves in a mirror by about eighteen months of age.
+
+[158] According to Erikson's theory of psychosocial development, the positive outcome ("virtue") of the ego integrity versus despair stage is wisdom.
+
+[16] Behavioral inhibition is a temperament characteristic that has a biological basis and is relatively stable over time, according to Kagan and his colleagues.
+
+[15] Kohlberg's three stages of gender-role development are gender identity, gender stability, and gender constancy.
+
+[17] The three major dimensions of temperament identified by Rothbart are not approach/withdrawal, but rather surgency/extraversion, negative affectivity, and effortful control.
+
+[17] Agreeableness and conscientiousness are the Big Five personality traits that generally increase with increasing age during adulthood.
+
+[15] Freud's latency stage and Erikson's industry versus inferiority stage both occur when children are between the ages of six and 11.
+
+[15] Authoritative parents enjoy spending time with their children, have high expectations for their children, and provide them with rules that are developmentally appropriate and consistently enforced.
+
+[16] Morgan's response in the Heinz dilemma suggests that he is at the conventional level of Kohlberg's moral development.
+
+[18] Marcia's (1966) identity development model identifies four identity statuses that differ with regard to crisis and choice.
+
+[013] Rothbart and Derryberry (1981) describe temperament as constitutional differences in reactivity and self-regulation, influenced by heredity, maturation, and experience.
+
+[021] Mirror self-recognition has been identified as a prerequisite for the emergence of the initial secondary emotions, which include embarrassment and envy.
+
+[095] Authoritarian and permissive parenting are both associated with an increased risk for bullying behavior and victimization by a bully, but authoritarian parenting is more strongly related to bullying behavior and permissive parenting is more strongly related to victimization.
+
+--------------------------------------------------------------------------------
+LIF: Socioemotional Development: Temperament and Personality (1 items)
+--------------------------------------------------------------------------------
+
+[177] Most children pass the mirror self-recognition test by 18 to 24 months of age, but children with Down syndrome usually do not pass the test until they are 36 to 48 months of age.
+
+--------------------------------------------------------------------------------
+LIFE: Early Influences on Development - Prenatal Development (1 items)
+--------------------------------------------------------------------------------
+
+[051] A special diet is used to prevent the intellectual disabilities caused by phenylketonuria (PKU).
+
+
+================================================================================
+END OF DOMAIN
+================================================================================

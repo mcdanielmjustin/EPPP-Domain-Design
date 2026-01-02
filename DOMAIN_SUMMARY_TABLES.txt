@@ -226,6 +226,9 @@ v2.5    | 2026-01-01 | Fixed Domain 3 personality/lean mismatch
 v2.6    | 2026-01-01 | Documented cognitive-affective content distribution
         |            | Closed issue: content intentionally spread across D1,D2,D4,D7,D8
         |            | This is by design, not an omission
+v2.7    | 2026-01-01 | Documented Domain 9 structure rationale
+        |            | Closed issue: Pharma+Ethics share capstone integration theme
+        |            | Both require integration of multiple prior domains
 
 
 ================================================================================

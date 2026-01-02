@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.6)
+# Domain Design Constraints Checklist (v2.7)
 
 ## 1. Big 4 Model Rules
 
@@ -211,3 +211,20 @@ Cognitive-affective content is intentionally distributed across domains for them
 | Intelligence | D8 (Assessment) |
 
 This is a deliberate design choice, not an omission.
+
+## 18. v2.7 - Domain 9 Structure (Design Note)
+
+**Issue Raised:** Pharmacology + Ethics have no genuine thematic connection ("forced marriage").
+
+**Resolution:** Closed - by design.
+
+Both components share a common prerequisite structure - they require **integration of prior domains**:
+
+| Component | Prerequisites |
+|-----------|---------------|
+| Pharmacology | D7 (neurotransmitters) + D3 (disorders) + D4 (treatment) |
+| Ethics | D1 (research) + D3 (diagnosis) + D4 (therapy) + D8 (assessment) |
+
+**Thematic Connection:** Professional integration - applying all prior knowledge responsibly.
+
+The personality "The integrator" captures this capstone nature.

@@ -1,7 +1,7 @@
 ================================================================================
 DOMAIN 7: BIOPSYCHOLOGY
 ================================================================================
-Total Anchor Points: 172
+Total Anchor Points: 192
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -383,6 +383,54 @@ PHY: Sensation and Perception (14 items)
 [071] In signal detection theory, d-prime (d') indicates the difference between the standard scores for the hit rate and false alarm rate.
 
 [110] Prosopagnosia (face blindness) is best described as involving intact bottom-up processing with a lack of top-down processing.
+
+--------------------------------------------------------------------------------
+PPA: Neurocognitive Disorders (15 items)
+--------------------------------------------------------------------------------
+
+[217] Motor disturbances are a more important cause of disability in the early stages of neurocognitive disorder with Lewy bodies than in the early stages of Alzheimer's disease.
+
+[221] The course of vascular neurocognitive disorder varies and may involve an acute onset of symptoms or a stepwise or progressive decline in functioning with fluctuations in symptoms or plateaus of varying length.
+
+[27] In the early stage of Alzheimer's disease, an MRI is most likely to reveal degeneration in the entorhinal cortex.
+
+[28] Neurocognitive disorder due to Creutzfeldt-Jakob disease, categorized in DSM-5 as neurocognitive disorder due to prion disease, typically progresses very rapidly compared to other types of neurocognitive disorders.
+
+[27] Memory loss associated with neurocognitive disorder due to Alzheimer's disease has been most consistently linked to abnormal levels of acetylcholine in the hippocampus and cerebral cortex.
+
+[28] Aphasia is least likely to be exhibited by a patient with neurocognitive disorder due to HIV infection or other subcortical neurocognitive disorder, as it is more characteristic of cortical neurocognitive disorders like Alzheimer's disease.
+
+[26] Neurocognitive disorder with Lewy bodies is not characterized by perseverative behavior, which is a diagnostic criterion for frontotemporal neurocognitive disorder.
+
+[27] Neurocognitive disorder due to Alzheimer's disease is associated with an accumulation of neuritic plaques and neurofibrillary tangles in the entorhinal cortex, hippocampus, and amygdala.
+
+[029] The locus coeruleus, an area in the brain stem, has been identified as "ground zero" for Alzheimer's disease.
+
+[009] Creutzfeldt-Jakob disease ordinarily has an insidious onset that's followed by a rapid decline in functioning.
+
+[020] The APOE4 gene variant has been identified as a high-risk factor for neurocognitive disorder due to Alzheimer's disease.
+
+[013] The DSM-5 diagnosis of probable major or mild neurocognitive disorder with Lewy bodies requires that the patient's symptoms include at least two core features or one core feature and one suggestive feature, with visual hallucinations being a core feature and concurrent REM sleep behavior disorder being a suggestive feature.
+
+[215] Overexpression of the APP gene on chromosome 21 has been identified as the link between standard trisomy 21 and early-onset Alzheimer's disease.
+
+[115] The symptoms characteristic of the behavioral variant of frontotemporal neurocognitive disorder include perseverative or compulsive behaviors, apathy, loss of empathy, dietary changes, and socially inappropriate behaviors.
+
+[130] The research has most consistently linked a low score on conscientiousness and a high score on neuroticism to an increased risk for a diagnosis of neurocognitive disorder due to Alzheimer's disease.
+
+--------------------------------------------------------------------------------
+PPA: Neurocognitive Disorders- (5 items)
+--------------------------------------------------------------------------------
+
+[001] The presence of Alma's daughter's report that her mother's symptoms are worse in the evening would suggest that Alma's symptoms are more likely due to a neurocognitive disorder than to pseudodementia (major depressive disorder).
+
+[101] Neurocognitive disorder with Parkinson's disease begins after a history of motor symptoms, while neurocognitive disorder with Lewy bodies begins with cognitive symptoms or a combination of cognitive and motor symptoms.
+
+[07] The most common early symptom of neurocognitive disorder due to Alzheimer's disease is impaired memory for recent events.
+
+[30] Neurocognitive disorder caused by prion disease is not potentially reversible.
+
+[190] A rapid decline in the sense of smell is an early symptom of Alzheimer's disease.
 
 
 ================================================================================

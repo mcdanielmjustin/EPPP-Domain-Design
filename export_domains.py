@@ -17,7 +17,7 @@ subdomain_mapping = {
 specific_mappings = {
     # TES - mostly Domain 1, some Domain 8
     ('TES', 'Item Analysis and Test Reliability'): 1,
-    ('TES', 'Test Score Interpretation'): 1,
+    ('TES', 'Test Score Interpretation'): 8,  # v2.2: Moved to D8 (interpretation belongs with assessment)
     ('TES', 'Test Validity - Content and Construct Validity'): 1,
     ('TES', 'Test Validity - Criterion-Related Validity'): 1,
 
@@ -75,8 +75,8 @@ specific_mappings = {
     ('PPA', 'Disruptive, Impulse-Control, and Conduct Disorders-'): 3,
     ('PPA', 'Substance-Related and Addictive Disorders'): 3,
     ('PPA', 'Substance-Related and Addictive Disorders-'): 3,
-    ('PPA', 'Neurocognitive Disorders'): 3,
-    ('PPA', 'Neurocognitive Disorders-'): 3,
+    ('PPA', 'Neurocognitive Disorders'): 7,  # v2.2: Moved to D7 (brain-based disorders)
+    ('PPA', 'Neurocognitive Disorders-'): 7,  # v2.2: Moved to D7 (brain-based disorders)
     ('PPA', 'Personality Disorders'): 3,
     ('PPA', 'Personality Disorders-'): 3,
     ('PPA', 'Sexual Dysfunctions, Gender Dysphoria, and Paraphilic Disorders'): 3,

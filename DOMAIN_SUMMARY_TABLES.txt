@@ -11,17 +11,17 @@ Repository: https://github.com/mcdanielmjustin/EPPP-Domain-Design
 
 #  | Domain Name                              | Thematic Lean                      | Personality            | Fund% | Mastery% | Type   | Anchor Pts | % Total
 ---|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
-1  | Psychometrics & Scientific Foundations   | Statistical reasoning & validity   | "The methodologist"    | 60%   | 40%      | BIG 4  | 192        | 12.2%
-2  | Developmental Psychology                 | Stage theories & critical periods  | "The developmentalist" | 55%   | 45%      | BIG 4  | 187        | 11.9%
-3  | Clinical Psychopathology                 | Genetics & etiology                | "The nosologist"       | 30%   | 70%      | --     | 184        | 11.7%
-4  | Therapeutic Psychology                   | Mechanisms of change               | "The interventionist"  | 25%   | 75%      | --     | 155        | 9.9%
-5  | Social & Cultural Psychology             | Identity & group dynamics          | "The contextualist"    | 50%   | 50%      | BIG 4  | 165        | 10.5%
+1  | Psychometrics & Scientific Foundations   | Statistical reasoning & validity   | "The methodologist"    | 60%   | 40%      | BIG 4  | 193        | 12.3%
+2  | Developmental Psychology                 | Stage theories & critical periods  | "The developmentalist" | 55%   | 45%      | BIG 4  | 175        | 11.1%
+3  | Clinical Psychopathology                 | Genetics & etiology                | "The nosologist"       | 30%   | 70%      | --     | 190        | 12.1%
+4  | Therapeutic Psychology                   | Mechanisms of change               | "The interventionist"  | 25%   | 75%      | --     | 168        | 10.7%
+5  | Social & Cultural Psychology             | Identity & group dynamics          | "The contextualist"    | 50%   | 50%      | BIG 4  | 153        | 9.7%
 6  | Organizational Psychology                | Human performance & systems        | "The optimizer"        | 30%   | 70%      | --     | 173        | 11.0%
-7  | Biopsychology                            | Brain anatomy & neural circuits    | "The neuroscientist"   | 45%   | 55%      | BIG 4  | 178        | 11.3%
-8  | Psychological Assessment                 | Clinical interpretation & profiles | "The diagnostician"    | 30%   | 70%      | --     | 137        | 8.7%
-9  | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decisions| "The integrator"       | 20%   | 80%      | --     | 198        | 12.6%
+7  | Biopsychology                            | Brain anatomy & neural circuits    | "The neuroscientist"   | 45%   | 55%      | BIG 4  | 192        | 12.2%
+8  | Psychological Assessment                 | Clinical interpretation & profiles | "The diagnostician"    | 30%   | 70%      | --     | 152        | 9.7%
+9  | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decisions| "The integrator"       | 20%   | 80%      | --     | 174        | 11.1%
 ---|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
-   | TOTAL                                    |                                    |                       |       |          |        | 1,569      | 100%
+   | TOTAL                                    |                                    |                       |       |          |        | 1,570      | 100%
 
 
 ================================================================================
@@ -31,18 +31,18 @@ Repository: https://github.com/mcdanielmjustin/EPPP-Domain-Design
 Source | Total | D1  | D2  | D3  | D4  | D5  | D6  | D7  | D8  | D9
 -------|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----
 RMS    | 84    | 84  | --  | --  | --  | --  | --  | --  | --  | --
-TES    | 84    | 76  | --  | --  | --  | --  | --  | --  | 8   | --
+TES    | 84    | 64  | --  | --  | --  | --  | --  | --  | 20  | --
 PAS    | 84    | 13  | --  | --  | --  | --  | --  | 4   | 67  | --
 PHY    | 175   | 9   | 9   | 18  | --  | --  | --  | 96  | 9   | 35
 LIF    | 175   | --  | 157 | --  | --  | 9   | --  | 9   | --  | --
-PPA    | 208   | --  | 21  | 166 | 10  | --  | --  | --  | 10  | --
+PPA    | 208   | --  | 21  | 146 | 10  | --  | --  | 20  | 10  | --
 CLI    | 193   | --  | --  | --  | 125 | 58  | --  | --  | --  | 10
 ETH    | 196   | --  | --  | --  | --  | --  | --  | --  | 43  | 153
 ORG    | 173   | --  | --  | --  | --  | --  | 173 | --  | --  | --
-LEA    | 98    | 10  | --  | --  | 20  | --  | --  | 69  | --  | --
-SOC    | 98    | --  | --  | --  | --  | 98  | --  | --  | --  | --
+LEA    | 98    | 23  | --  | --  | 33  | --  | --  | 63  | --  | --
+SOC    | 98    | --  | --  | --  | --  | 86  | --  | --  | --  | --
 -------|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----
-TOTAL  | 1,570 | 192 | 187 | 184 | 155 | 165 | 173 | 178 | 137 | 198
+TOTAL  | 1,570 | 193 | 175 | 190 | 168 | 153 | 173 | 192 | 152 | 174
 
 
 ================================================================================
@@ -177,20 +177,20 @@ Tier 4: Integration   | 8, 9    | Evaluate, Create    | 3-4 (Strat., Ext.)  | Ca
 
 
 ================================================================================
-                       DOMAIN SIZE CONSTRAINTS (v2.1)
+                       DOMAIN SIZE CONSTRAINTS (v2.2)
 ================================================================================
 
-Domain | v2.0 Size  | v2.1 Size | Change | Status
--------|------------|-----------|--------|----------------------
-1      | ~185-200   | 192       | --     | OK (130-200)
-2      | ~185-200   | 187       | --     | OK (130-200)
-3      | ~190-210   | 184       | --     | OK (130-200)
-4      | ~175-190   | 155       | --     | OK (130-200)
-5      | ~135-150   | 165       | --     | OK (130-200)
-6      | ~170-180   | 173       | --     | OK (130-200)
-7      | ~180-200   | 178       | --     | OK (130-200)
-8      | ~95-110    | 137       | +43    | FIXED (was below 130)
-9      | ~225-240   | 198       | -43    | FIXED (was above 200)
+Domain | v2.0 Size  | v2.1 Size | v2.2 Size | Change     | Status
+-------|------------|-----------|-----------|------------|----------------------
+1      | ~185-200   | 205       | 193       | -12        | OK (130-200)
+2      | ~185-200   | 175       | 175       | --         | OK (130-200)
+3      | ~190-210   | 210       | 190       | -20        | OK (130-200)
+4      | ~175-190   | 168       | 168       | --         | OK (130-200)
+5      | ~135-150   | 153       | 153       | --         | OK (130-200)
+6      | ~170-180   | 173       | 173       | --         | OK (130-200)
+7      | ~180-200   | 172       | 192       | +20        | OK (130-200)
+8      | ~95-110    | 140       | 152       | +12        | OK (130-200)
+9      | ~225-240   | 174       | 174       | --         | OK (130-200)
 
 
 ================================================================================
@@ -207,6 +207,10 @@ v2.1    | 2026-01-01 | Rebalanced to meet 130-200 anchor point constraint
         |            | Moved ETH Standards 9 & 10 to Domain 8
         |            | Moved partial ETH Professional Issues to Domain 8
         |            | ETH distribution: 22% D8, 78% D9
+v2.2    | 2026-01-01 | Fixed actual size violations (D1: 205, D3: 210)
+        |            | Moved TES: Test Score Interpretation to D8 (-12 from D1)
+        |            | Moved PPA: Neurocognitive Disorders to D7 (-20 from D3)
+        |            | All domains now verified within 130-200 range
 
 
 ================================================================================

@@ -1,7 +1,7 @@
 ================================================================================
 DOMAIN 8: PSYCHOLOGICAL ASSESSMENT
 ================================================================================
-Total Anchor Points: 140
+Total Anchor Points: 152
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -315,6 +315,34 @@ PAS: Stanford-Binet and Wechsler Tests (23 items)
 [216] The Technical and Interpretive Manual for the WAIS-IV reports the results of several factor analyses that support the test's underlying four-factor structure.
 
 [151] The "classic aging pattern" on measures of IQ refers to the tendency of scores on verbal tests (crystallized intelligence) to hold up fairly well with increasing age while scores on performance tests (fluid intelligence) begin to decline in the 20s.
+
+--------------------------------------------------------------------------------
+TES: Test Score Interpretation (12 items)
+--------------------------------------------------------------------------------
+
+[128] In a normal distribution of scores, a T-score of 60 is equivalent to a z-score of 1.0 and a percentile rank of 84.
+
+[115] In a normal distribution, a percentile rank of 84 indicates that an examinee's score is one standard deviation above the mean.
+
+[126] A T-score distribution has a mean of 50 and a standard deviation of 10.
+
+[12] In a normal distribution of scores with a mean of 75 and standard deviation of 5, a raw score of 65 is equivalent to a z-score of -2.0.
+
+[11] When raw scores are converted to percentile ranks, the resulting distribution will be rectangular.
+
+[11] In a normal distribution, a T-score of 40 is equivalent to a percentile rank of 16.
+
+[12] Percentage scores are a type of criterion-referenced score, while all other scores mentioned (e.g., z-scores, T-scores, percentile ranks) are norm-referenced scores.
+
+[12] In a normal distribution, a T-score of 40 represents the lowest score.
+
+[11] Percentile rank distributions are always flat regardless of the shape of the raw score distribution because percentile ranks are evenly distributed throughout the range of scores: The same number of scores fall between the percentile ranks of 1 and 10, 11 and 20, 21 and 30, etc.
+
+[004] In a normal distribution, a T-score of 65 represents the highest score.
+
+[127] Banding is based on the assumption that small differences in selection test scores are not necessarily associated with meaningful differences in job performance.
+
+[15] In a normal distribution, a percentile rank of 84 and a T-score of 60 are both one standard deviation above the mean.
 
 
 ================================================================================

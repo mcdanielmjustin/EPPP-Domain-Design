@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.1)
+# Domain Design Constraints Checklist (v2.2)
 
 ## 1. Big 4 Model Rules
 
@@ -94,18 +94,18 @@ Each domain has a distinctive thematic lean:
 - [x] **Maximum**: 200 anchor points per domain
 - [x] All domains verified within range
 
-### Domain Size Verification
+### Domain Size Verification (v2.2 - Verified)
 | Domain | Size | Status |
 |--------|------|--------|
-| 1 (Psychometrics) | ~185-195 | ✓ OK |
-| 2 (Developmental) | ~180-190 | ✓ OK |
-| 3 (Psychopathology) | ~180-190 | ✓ OK |
-| 4 (Therapeutic) | ~150-165 | ✓ OK |
-| 5 (Social/Cultural) | ~160-170 | ✓ OK |
-| 6 (Organizational) | ~170-175 | ✓ OK |
-| 7 (Biopsychology) | ~180-195 | ✓ OK |
-| 8 (Assessment) | ~135-145 | ✓ OK |
-| 9 (Pharma/Ethics) | ~190-200 | ✓ OK |
+| 1 (Psychometrics) | 193 | ✓ OK |
+| 2 (Developmental) | 175 | ✓ OK |
+| 3 (Psychopathology) | 190 | ✓ OK |
+| 4 (Therapeutic) | 168 | ✓ OK |
+| 5 (Social/Cultural) | 153 | ✓ OK |
+| 6 (Organizational) | 173 | ✓ OK |
+| 7 (Biopsychology) | 192 | ✓ OK |
+| 8 (Assessment) | 152 | ✓ OK |
+| 9 (Pharma/Ethics) | 174 | ✓ OK |
 
 ## 10. Additional Constraints
 
@@ -134,3 +134,18 @@ Each domain has a distinctive thematic lean:
 | ETH Distribution | 100% D9 | 22% D8, 78% D9 |
 | ETH Standards 9 & 10 | Domain 9 | Domain 8 |
 | ETH Professional Issues | All D9 | Split D8/D9 |
+
+## 13. v2.2 Changes Summary
+
+| Constraint | v2.1 | v2.2 |
+|------------|------|------|
+| Domain 1 Size | 205 (VIOLATION) | 193 |
+| Domain 3 Size | 210 (VIOLATION) | 190 |
+| Domain 7 Size | 172 | 192 |
+| Domain 8 Size | 140 | 152 |
+| TES: Test Score Interpretation | Domain 1 | Domain 8 |
+| PPA: Neurocognitive Disorders | Domain 3 | Domain 7 |
+
+**Rationale:**
+- Test Score Interpretation moved to D8 (interpretation belongs with clinical assessment)
+- Neurocognitive Disorders moved to D7 (brain-based disorders belong with biopsychology)

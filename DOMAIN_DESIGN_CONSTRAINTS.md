@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.3)
+# Domain Design Constraints Checklist (v2.4)
 
 ## 1. Big 4 Model Rules
 
@@ -25,7 +25,7 @@
 - [x] Position 4: Therapeutic Psychology (25%)
 - [x] Position 6: Organizational Psychology (30%)
 - [x] Position 8: Psychological Assessment (30%) - *moved from Big 4*
-- [x] Position 9: Psychopharmacology & Ethics (20%) - Capstone
+- [x] Position 9: Psychopharmacology & Ethics (30%) - Capstone
 
 ## 3. Domain Naming Requirements
 
@@ -168,3 +168,16 @@ Each domain has a distinctive thematic lean:
 - Reduces prerequisite violation (pharmacology content appearing before biopsychology)
 - Drug mechanism content belongs in Psychopharmacology domain
 - D3 now focuses purely on disorder presentation/etiology
+
+## 15. v2.4 Changes Summary
+
+| Constraint | v2.3 | v2.4 |
+|------------|------|------|
+| Domain 9 Fundamental % | 20% | 30% |
+| Domain 9 Mastery % | 80% | 70% |
+
+**Rationale:**
+- Drug classes, mechanisms, and side effects require memorization
+- APA Ethics Code standards (1-10) require memorization
+- 20% fundamental was too aggressive for capstone content
+- D9 now matches other non-Big 4 domains at 30%/70%

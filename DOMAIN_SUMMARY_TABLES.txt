@@ -19,7 +19,7 @@ Repository: https://github.com/mcdanielmjustin/EPPP-Domain-Design
 6  | Organizational Psychology                | Human performance & systems        | "The optimizer"        | 30%   | 70%      | --     | 173        | 11.0%
 7  | Biopsychology                            | Brain anatomy & neural circuits    | "The neuroscientist"   | 45%   | 55%      | BIG 4  | 192        | 12.2%
 8  | Psychological Assessment                 | Clinical interpretation & profiles | "The diagnostician"    | 30%   | 70%      | --     | 152        | 9.7%
-9  | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decisions| "The integrator"       | 20%   | 80%      | --     | 179        | 11.4%
+9  | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decisions| "The integrator"       | 30%   | 70%      | --     | 179        | 11.4%
 ---|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
    | TOTAL                                    |                                    |                       |       |          |        | 1,570      | 100%
 
@@ -127,7 +127,7 @@ Position | Domain                   | Fund% | Mastery% | Max Allowed | Status
 4        | Therapeutic Psychology   | 25%   | 75%      | 30%         | Under max
 6        | Organizational Psychology| 30%   | 70%      | 30%         | At max
 8        | Psychological Assessment | 30%   | 70%      | 30%         | At max
-9        | Psychopharmacology/Ethics| 20%   | 80%      | 30%         | Under (Capstone)
+9        | Psychopharmacology/Ethics| 30%   | 70%      | 30%         | At max (Capstone)
 
 
 ================================================================================
@@ -216,6 +216,10 @@ v2.3    | 2026-01-01 | Reduced prerequisite violation (pharmacology in D3)
         |            | - Antipsychotics for tics, Serotonin for PE
         |            | - St. John's wort interactions (2 items)
         |            | D3: 190 → 185, D9: 174 → 179
+v2.4    | 2026-01-01 | Raised Domain 9 fundamental % from 20% to 30%
+        |            | Rationale: Drug classes, mechanisms, side effects,
+        |            | and ethics standards require significant memorization
+        |            | D9 now matches other non-Big 4 domains at 30%/70%
 
 
 ================================================================================

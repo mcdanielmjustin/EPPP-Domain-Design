@@ -13,7 +13,7 @@ Repository: https://github.com/mcdanielmjustin/EPPP-Domain-Design
 ---|------------------------------------------|------------------------------------|-----------------------|-------|----------|--------|------------|--------
 1  | Psychometrics & Scientific Foundations   | Statistical reasoning & validity   | "The methodologist"    | 60%   | 40%      | BIG 4  | 193        | 12.3%
 2  | Developmental Psychology                 | Stage theories & critical periods  | "The developmentalist" | 55%   | 45%      | BIG 4  | 175        | 11.1%
-3  | Clinical Psychopathology                 | Genetics & etiology                | "The nosologist"       | 30%   | 70%      | --     | 185        | 11.8%
+3  | Clinical Psychopathology                 | Genetics & etiology                | "The psychopathologist"| 30%   | 70%      | --     | 185        | 11.8%
 4  | Therapeutic Psychology                   | Mechanisms of change               | "The interventionist"  | 25%   | 75%      | --     | 168        | 10.7%
 5  | Social & Cultural Psychology             | Identity & group dynamics          | "The contextualist"    | 50%   | 50%      | BIG 4  | 153        | 9.7%
 6  | Organizational Psychology                | Human performance & systems        | "The optimizer"        | 30%   | 70%      | --     | 173        | 11.0%
@@ -220,6 +220,9 @@ v2.4    | 2026-01-01 | Raised Domain 9 fundamental % from 20% to 30%
         |            | Rationale: Drug classes, mechanisms, side effects,
         |            | and ethics standards require significant memorization
         |            | D9 now matches other non-Big 4 domains at 30%/70%
+v2.5    | 2026-01-01 | Fixed Domain 3 personality/lean mismatch
+        |            | Changed personality: "The nosologist" → "The psychopathologist"
+        |            | Matches domain name; encompasses etiology + disease processes
 
 
 ================================================================================

@@ -1,4 +1,4 @@
-# Domain Design Constraints Checklist (v2.4)
+# Domain Design Constraints Checklist (v2.5)
 
 ## 1. Big 4 Model Rules
 
@@ -181,3 +181,14 @@ Each domain has a distinctive thematic lean:
 - APA Ethics Code standards (1-10) require memorization
 - 20% fundamental was too aggressive for capstone content
 - D9 now matches other non-Big 4 domains at 30%/70%
+
+## 16. v2.5 Changes Summary
+
+| Constraint | v2.4 | v2.5 |
+|------------|------|------|
+| Domain 3 Personality | "The nosologist" | "The psychopathologist" |
+
+**Rationale:**
+- "Nosologist" (classifier) didn't match lean "Genetics & etiology" (causation)
+- "Psychopathologist" matches domain name "Clinical Psychopathology"
+- Encompasses both etiology (causes) and disease processes (presentation)

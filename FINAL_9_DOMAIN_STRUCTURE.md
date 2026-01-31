@@ -1,11 +1,11 @@
-# Final 9-Domain Structure (v2.1)
+# Final 9-Domain Structure (v2.13)
 ## Comprehensive Analysis-Driven Design - Rebalanced
 
 ---
 
 ## Design Summary
 
-Based on comprehensive analysis of all 1,570 anchor points, this structure:
+Based on comprehensive analysis of all 1,567 anchor points, this structure:
 - Re-sorts content by **thematic lean** (distinctive character)
 - Follows **prerequisite sequences** for optimal scaffolding
 - Implements **Big 4 dispersed model** (positions 1, 2, 5, 7)
@@ -16,21 +16,21 @@ Based on comprehensive analysis of all 1,570 anchor points, this structure:
 
 ## The 9 Domains
 
-| # | Domain Name | Thematic Lean | Fund% | Type |
-|---|-------------|---------------|-------|------|
-| **1** | Psychometrics & Scientific Foundations | Statistical reasoning & validity | 60% | BIG 4 |
-| **2** | Developmental Psychology | Stage theories & critical periods | 55% | BIG 4 |
-| **3** | Clinical Psychopathology | Genetics & etiology | 30% | — |
-| **4** | Therapeutic Psychology | Mechanisms of change | 25% | — |
-| **5** | Social & Cultural Psychology | Identity & group dynamics | 50% | BIG 4 |
-| **6** | Organizational Psychology | Human performance & systems | 30% | — |
-| **7** | Biopsychology | Brain anatomy & neural circuits | 45% | BIG 4 |
-| **8** | Psychological Assessment | Clinical interpretation & profiles | 30% | — |
-| **9** | Psychopharmacology & Professional Ethics | Drug mechanisms & ethical decision-making | 20% | — |
+| # | Domain Name | Thematic Lean | Fund% | Type | Anchor Points |
+|---|-------------|---------------|-------|------|---------------|
+| **1** | Psychometrics & Research Methods | Statistical reasoning & validity | 60% | BIG 4 | 193 |
+| **2** | Lifespan & Developmental Stages | Stage theories & critical periods | 55% | BIG 4 | 174 |
+| **3** | Clinical Psychopathology | Genetics & etiology | 30% | — | 134 |
+| **4** | Psychotherapy Models, Interventions, & Prevention | Mechanisms of change | 25% | — | 168 |
+| **5** | Social & Cultural Psychology | Identity & group dynamics | 50% | BIG 4 | 153 |
+| **6** | Workforce Development & Leadership | Human performance & systems | 30% | — | 172 |
+| **7** | Biopsychology | Brain anatomy & neural circuits | 45% | BIG 4 | 192 |
+| **8** | Clinical Assessment & Interpretation | Clinical interpretation & profiles | 30% | — | 190 |
+| **9** | Psychopharmacology & Ethics | Drug mechanisms & ethical decision-making | 30% | Capstone | 191 |
 
 ---
 
-## Domain 1: Psychometrics & Scientific Foundations
+## Domain 1: Psychometrics & Research Methods
 
 ### Character
 **Thematic Lean:** Statistical reasoning & validity
@@ -66,11 +66,11 @@ This domain provides the foundation for:
 - Interpreting assessment validity (Domain 8)
 - Evaluating evidence-based practice (all domains)
 
-### Estimated Questions: ~185-200
+### Anchor Points: 193
 
 ---
 
-## Domain 2: Developmental Psychology
+## Domain 2: Lifespan & Developmental Stages
 
 ### Character
 **Thematic Lean:** Stage theories & critical periods
@@ -103,7 +103,7 @@ This domain provides the foundation for:
 - Understanding treatment adaptations for age (Domain 4)
 - Assessing children/adolescents (Domain 8)
 
-### Estimated Questions: ~185-200
+### Anchor Points: 174
 
 ---
 
@@ -140,11 +140,11 @@ Psychopathology emphasizes CAUSES - genetic vulnerabilities, biological mechanis
 Requires: Domain 2 (normal development)
 Enables: Domain 4 (treatment selection)
 
-### Estimated Questions: ~190-210
+### Anchor Points: 134
 
 ---
 
-## Domain 4: Therapeutic Psychology
+## Domain 4: Psychotherapy Models, Interventions, & Prevention
 
 ### Character
 **Thematic Lean:** Mechanisms of change
@@ -173,7 +173,7 @@ The emphasis is on HOW therapy produces change - not just what techniques exist,
 Requires: Domain 1 (outcome research), Domain 2 (developmental adaptations), Domain 3 (diagnosis)
 Enables: Evidence-based treatment planning
 
-### Estimated Questions: ~175-190
+### Anchor Points: 168
 
 ---
 
@@ -208,11 +208,11 @@ Identity (individual and cultural) shapes how people perceive, behave, and respo
 ### Prerequisite Role
 Big 4 reinforcement mid-sequence. Contextualizes individual psychology within social systems.
 
-### Estimated Questions: ~135-150
+### Anchor Points: 153
 
 ---
 
-## Domain 6: Organizational Psychology
+## Domain 6: Workforce Development & Leadership
 
 ### Character
 **Thematic Lean:** Human performance & systems
@@ -244,7 +244,7 @@ Organizations are systems where human performance can be measured, predicted, an
 ### Prerequisite Role
 Applies psychological principles to professional contexts. Integrates motivation, group dynamics, and assessment.
 
-### Estimated Questions: ~170-180
+### Anchor Points: 172
 
 ---
 
@@ -282,11 +282,11 @@ Understanding WHERE in the brain processes occur and HOW neural circuits functio
 
 **Note:** Neurotransmitters are introduced here (delayed as requested). This domain MUST precede Domain 9 (Pharmacology) because all drug mechanisms require understanding of neurotransmitter systems and receptor mechanisms.
 
-### Estimated Questions: ~180-200
+### Anchor Points: 192
 
 ---
 
-## Domain 8: Psychological Assessment
+## Domain 8: Clinical Assessment & Interpretation
 
 ### Character
 **Thematic Lean:** Clinical interpretation & profiles
@@ -316,11 +316,11 @@ The emphasis is on INTERPRETING test results - recognizing patterns, understandi
 Requires: Domain 1 (psychometric foundations), Domain 7 (brain knowledge for neuropsych tests)
 Benefits from prior biopsychology knowledge for neuropsychological assessment interpretation.
 
-### Estimated Questions: ~135-145
+### Anchor Points: 190
 
 ---
 
-## Domain 9: Psychopharmacology & Professional Ethics
+## Domain 9: Psychopharmacology & Ethics
 
 ### Character
 **Thematic Lean:** Drug mechanisms & ethical decision-making
@@ -355,7 +355,7 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 **Note:** Pharmacology positioned last as requested. Assessment/therapy ethics (Standards 9 & 10) and forensic professional issues moved to Domain 8.
 
-### Estimated Questions: ~190-200
+### Anchor Points: 191
 
 ---
 
@@ -364,16 +364,16 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 ```
                     TIER 1: FOUNDATIONAL
     ┌─────────────────────────────────────────────────┐
-    │  [1] PSYCHOMETRICS & SCIENTIFIC FOUNDATIONS     │
-    │      ★ BIG 4 (60% Fund)                         │
+    │  [1] PSYCHOMETRICS & RESEARCH METHODS           │
+    │      ★ BIG 4 (60% Fund) - 193 points            │
     │      Lean: Statistical reasoning & validity      │
     │      "How do we know what we know?"             │
     └─────────────────────┬───────────────────────────┘
                           │
                           ▼
     ┌─────────────────────────────────────────────────┐
-    │  [2] DEVELOPMENTAL PSYCHOLOGY                   │
-    │      ★ BIG 4 (55% Fund)                         │
+    │  [2] LIFESPAN & DEVELOPMENTAL STAGES            │
+    │      ★ BIG 4 (55% Fund) - 174 points            │
     │      Lean: Stage theories & critical periods     │
     │      "How do humans develop?"                   │
     └─────────────────────┬───────────────────────────┘
@@ -383,15 +383,15 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
                           ▼
     ┌─────────────────────────────────────────────────┐
     │  [3] CLINICAL PSYCHOPATHOLOGY                   │
-    │      (30% Fund)                                 │
+    │      (30% Fund) - 134 points                    │
     │      Lean: Genetics & etiology                  │
     │      "What goes wrong and why?"                 │
     └─────────────────────┬───────────────────────────┘
                           │
                           ▼
     ┌─────────────────────────────────────────────────┐
-    │  [4] THERAPEUTIC PSYCHOLOGY                     │
-    │      (25% Fund)                                 │
+    │  [4] PSYCHOTHERAPY MODELS & INTERVENTIONS       │
+    │      (25% Fund) - 168 points                    │
     │      Lean: Mechanisms of change                 │
     │      "How does therapy produce change?"         │
     └─────────────────────┬───────────────────────────┘
@@ -401,7 +401,7 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
                           ▼
     ┌─────────────────────────────────────────────────┐
     │  [5] SOCIAL & CULTURAL PSYCHOLOGY               │
-    │      ★ BIG 4 (50% Fund)                         │
+    │      ★ BIG 4 (50% Fund) - 153 points            │
     │      Lean: Identity & group dynamics            │
     │      "Who is this person in their world?"       │
     └─────────────────────┬───────────────────────────┘
@@ -409,9 +409,10 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
               ┌───────────┴───────────┐
               ▼                       ▼
 ┌─────────────────────────┐ ┌─────────────────────────┐
-│  [6] ORGANIZATIONAL     │ │  [7] BIOPSYCHOLOGY      │
-│      PSYCHOLOGY         │ │      ★ BIG 4 (45% Fund) │
-│      (30% Fund)         │ │      Lean: Brain anatomy │
+│  [6] WORKFORCE DEV &    │ │  [7] BIOPSYCHOLOGY      │
+│      LEADERSHIP         │ │      ★ BIG 4 (45% Fund) │
+│      (30% Fund)         │ │      192 points         │
+│      172 points         │ │      Lean: Brain anatomy │
 │      Lean: Human        │ │      & neural circuits   │
 │      performance        │ │      "How does the brain │
 │      & systems          │ │      drive behavior?"    │
@@ -425,16 +426,16 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
                         │
                         ▼
     ┌─────────────────────────────────────────────────┐
-    │  [8] PSYCHOLOGICAL ASSESSMENT                   │
-    │      (30% Fund)                                 │
+    │  [8] CLINICAL ASSESSMENT & INTERPRETATION       │
+    │      (30% Fund) - 190 points                    │
     │      Lean: Clinical interpretation & profiles   │
     │      "What do the scores mean?"                 │
     └─────────────────────┬───────────────────────────┘
                           │
                           ▼
     ┌─────────────────────────────────────────────────┐
-    │  [9] PSYCHOPHARMACOLOGY & PROFESSIONAL ETHICS   │
-    │      (20% Fund) - CAPSTONE                      │
+    │  [9] PSYCHOPHARMACOLOGY & ETHICS                │
+    │      (30% Fund) - CAPSTONE - 191 points         │
     │      Lean: Drug mechanisms & ethical decisions  │
     │      "How do we practice responsibly?"          │
     │      [PHARMACOLOGY - requires Domain 7]         │
@@ -443,22 +444,22 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 ---
 
-## Question Distribution Summary
+## Anchor Point Distribution Summary
 
-| Domain | Name | Lean | Questions | % | Type |
-|--------|------|------|-----------|---|------|
-| 1 | Psychometrics & Scientific Foundations | Statistical reasoning | ~185-195 | 12.2% | BIG 4 |
-| 2 | Developmental Psychology | Stage theories | ~180-190 | 11.8% | BIG 4 |
-| 3 | Clinical Psychopathology | Genetics/etiology | ~180-190 | 11.8% | — |
-| 4 | Therapeutic Psychology | Mechanisms of change | ~150-165 | 10.0% | — |
-| 5 | Social & Cultural Psychology | Identity/groups | ~160-170 | 10.5% | BIG 4 |
-| 6 | Organizational Psychology | Human performance | ~170-175 | 11.0% | — |
-| 7 | Biopsychology | Brain anatomy | ~180-195 | 12.0% | BIG 4 |
-| 8 | Psychological Assessment | Clinical interpretation | ~135-145 | 8.9% | — |
-| 9 | Psychopharmacology & Professional Ethics | Drug mechanisms/ethics | ~190-200 | 12.4% | — |
-| **TOTAL** | | | **~1,530-1,625** | **100%** | |
+| Domain | Name | Lean | Points | % | Type |
+|--------|------|------|--------|---|------|
+| 1 | Psychometrics & Research Methods | Statistical reasoning | 193 | 12.3% | BIG 4 |
+| 2 | Lifespan & Developmental Stages | Stage theories | 174 | 11.1% | BIG 4 |
+| 3 | Clinical Psychopathology | Genetics/etiology | 134 | 8.6% | — |
+| 4 | Psychotherapy Models, Interventions, & Prevention | Mechanisms of change | 168 | 10.7% | — |
+| 5 | Social & Cultural Psychology | Identity/groups | 153 | 9.8% | BIG 4 |
+| 6 | Workforce Development & Leadership | Human performance | 172 | 11.0% | — |
+| 7 | Biopsychology | Brain anatomy | 192 | 12.3% | BIG 4 |
+| 8 | Clinical Assessment & Interpretation | Clinical interpretation | 190 | 12.1% | — |
+| 9 | Psychopharmacology & Ethics | Drug mechanisms/ethics | 191 | 12.2% | Capstone |
+| **TOTAL** | | | **1,567** | **100%** | |
 
-**v2.1 Rebalancing Note:** Moved ETH Standards 9 & 10 (33 points) and partial Professional Issues (~10 points) from Domain 9 to Domain 8 to meet the 130-200 anchor point constraint.
+**v2.13 Note:** All domains constrained to 130-200 anchor points. Domain names updated for uniqueness from ASPPB/PrepJet.
 
 ---
 
@@ -517,15 +518,15 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 
 | Our Domain | ASPPB Equivalent | Key Differentiation |
 |------------|------------------|---------------------|
-| Psychometrics & Scientific Foundations | Research Methods (7%) | Combines measurement + research; foundational lean |
-| Developmental Psychology | Growth/Lifespan (12%) | Stage theory lean; prerequisite positioning |
+| Psychometrics & Research Methods | Research Methods (7%) | Combines measurement + research; foundational lean |
+| Lifespan & Developmental Stages | Growth/Lifespan (12%) | Stage theory lean; prerequisite positioning |
 | Clinical Psychopathology | Assessment/Diagnosis (16%) | Genetics/etiology lean; separated from assessment |
-| Therapeutic Psychology | Treatment (15%) | Mechanisms of change lean; includes behavioral |
+| Psychotherapy Models, Interventions, & Prevention | Treatment (15%) | Mechanisms of change lean; includes behavioral |
 | Social & Cultural Psychology | Social/Cultural (11%) | Identity/groups lean; includes clinical cross-cultural |
-| Organizational Psychology | — | Distinct domain (not in ASPPB Part 1 weighting) |
+| Workforce Development & Leadership | — | Distinct domain (not in ASPPB Part 1 weighting) |
 | Biopsychology | Biological Bases (10%) | Brain anatomy lean; **BIG 4 status**; excludes pharmacology |
-| Psychological Assessment | Assessment/Diagnosis (16%) | Clinical interpretation lean; profile-focused; non-Big 4 |
-| Psychopharmacology & Prof. Ethics | Ethical/Legal (16%) | Combined capstone; drug mechanisms + ethics |
+| Clinical Assessment & Interpretation | Assessment/Diagnosis (16%) | Clinical interpretation lean; profile-focused; non-Big 4 |
+| Psychopharmacology & Ethics | Ethical/Legal (16%) | Combined capstone; drug mechanisms + ethics |
 
 ---
 
@@ -551,7 +552,21 @@ Two complementary foci: (1) HOW drugs work at the neurochemical level, and (2) H
 | ETH Professional Issues | All Domain 9 | Split D8/D9 | Forensic/assessment-related issues moved to Domain 8 |
 | ETH Distribution | 100% D9 | 22% D8, 78% D9 | Better thematic alignment and size constraints |
 
-**v2.1 Constraint:** All domains must have 130-200 anchor points
+---
+
+## Key Changes in v2.13
+
+| Change | v2.1 | v2.13 | Rationale |
+|--------|------|-------|-----------|
+| D1 Name | Psychometrics & Scientific Foundations | Psychometrics & Research Methods | Unique from ASPPB/PrepJet |
+| D2 Name | Developmental Psychology | Lifespan & Developmental Stages | Unique from ASPPB/PrepJet |
+| D4 Name | Therapeutic Psychology | Psychotherapy Models, Interventions, & Prevention | Unique from ASPPB/PrepJet |
+| D6 Name | Organizational Psychology | Workforce Development & Leadership | Unique from ASPPB/PrepJet |
+| D8 Name | Psychological Assessment | Clinical Assessment & Interpretation | Unique from ASPPB/PrepJet |
+| D9 Name | Psychopharmacology & Professional Ethics | Psychopharmacology & Ethics | Shortened for clarity |
+| Total Points | 1,570 | 1,567 | Final anchor point count |
+
+**v2.13 Constraint:** All 9 domains have unique names distinct from competitors using generic academic terminology
 
 ---
 

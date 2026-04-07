@@ -248,8 +248,8 @@ domain_content_seen = {i: set() for i in range(1, 10)}
 unassigned = []
 duplicates_skipped = 0
 
-csv_path = r'C:\Users\mcdan\Desktop\EPPP_Domain_Design\eppp_exam_questions.csv'
-output_dir = r'C:\Users\mcdan\Desktop\EPPP_Domain_Design\anchor_points_by_domain'
+csv_path = r'C:\Users\Admin\EPPP-Domain-Design\eppp_exam_questions.csv'
+output_dir = r'C:\Users\Admin\EPPP-Domain-Design\anchor_points_by_domain'
 
 # Create output directory
 os.makedirs(output_dir, exist_ok=True)

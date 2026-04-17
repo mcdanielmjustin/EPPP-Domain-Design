@@ -130,6 +130,7 @@ These gaps are tracked, not blocking. Closing them is content-dependent and out 
 
 - **2026-04-16** (v1.0): Initial spec. Added `anchor_point_id_v2` to mock exam CSV, enrichment CSV, fundamentals CSV. Added `anchor_id_v2` column to `chapter_schema_v3.xlsx`. Added `id_v2` field to `JustinQuestionsDatabase-2.0/data/reference/anchor_points.json`.
 - **2026-04-16** (v1.1): Added §10 (new-question field template) and §11 (audit baseline). Added `uid` field to `anchor_points.json` so the file is self-sufficient for question generation.
+- **2026-04-16** (v1.2): Added §12 (deprecation trajectory). Fundamentals CSV now at 100% UID coverage via anchor_points.json legacy-AP lookup + content-match disambiguation for the 12 within-subdomain collisions.
 
 ---
 
@@ -260,5 +261,93 @@ Recorded for future regression detection. Anyone re-running the consistency chec
 ### Known gaps that will count against future audits
 
 - 1,700 enrichment rows with no UID → blank v2 (expected)
-- 765 fundamentals ambiguous + 81 unresolved → blank v2 (expected)
+- 765 fundamentals ambiguous + 81 unresolved → blank v2 (expected — as of 2026-04-16 PM, fundamentals now at 100% UID coverage via anchor_points.json legacy-AP + content-match disambiguation)
 - 2 schema UIDs not in idx; 2 idx UIDs not in schema — schema/idx drift, noted but deferred
+
+---
+
+## 12. Deprecation trajectory
+
+**Goal state**: a single canonical identifier (`uid`) for machines, a single human-readable form (`anchor_point_id_v2`). Every other identifier either disappears or becomes read-only breadcrumb.
+
+### Identifier retirement status
+
+| Identifier | Role today | Target state | How to retire |
+|---|---|---|---|
+| **uid** (`D1-LEA-009-f89cf513`) | Canonical | **Primary key everywhere.** Keep forever. | — |
+| **v2** (`AP-D1-LEA-009`) | Human-readable | **Display form everywhere.** Keep forever. | — |
+| Bare (`009`, `02-1`) | Inherited PrepJet source | **Historical breadcrumb only.** Stays in source-of-truth files (txt, idx, schema). Never a key in new code. | Mark in docs; stop using as lookup key |
+| Legacy AP (`AP-D1-009`) | Stored in mock exam, fundamentals, deployed JSONs, Supabase arrays, localStorage | **Retired.** Dropped from new emits after Phase 3; removed from storage after Phase 5. | 5-phase migration below |
+| Sequential AP (`AP-D1-002`) | anchor_points.json primary key | **Retired.** Keep in anchor_points.json as secondary label only; UID becomes the key. | Phase 2 backfill + consumer migration |
+
+### 5-phase retirement plan
+
+Each phase is independently shippable and reversible. No big-bang migration.
+
+**Phase 1 — Establish canonical (COMPLETE as of 2026-04-16)**
+- UID present on every authored source file ✅
+- v2 present on every authored source file ✅
+- Spec §10 mandates UID + v2 on all new question records ✅
+- `anchor_points.json` gained `uid` and `id_v2` fields ✅
+
+**Phase 2 — Dual-write in production**
+- Add `anchor_uid` column to Supabase: `question_bank`, `flashcard_progress`, `quiz_answers`
+- Backfill existing rows by joining on `anchor_point_ids` → chapter schema UID
+- Update question-generator output JSONs to emit `anchor_uids` array alongside `anchor_point_ids`
+- Regenerate deployed JSONs at `PassEPPP-website/content/enrichment/*.json` and `content/mock_exams_v2/exam_*.json` with both arrays
+- **Success criterion**: every live question record has both legacy and UID arrays. Zero consumers have broken.
+- **Rollback**: drop the new column/array. Legacy still works.
+
+**Phase 3 — Flip consumers to UID**
+- Update `PassEPPP-website/js/quiz-questions.js` deduplication from bare AP → UID
+- Update `flashcards.js` to store/read `anchor_uid` instead of `anchor_point_ids`
+- Update mock exam scoring code
+- Version localStorage state (`me2_exam_*` keys) to force cache-bust for active users
+- **Success criterion**: no live code reads `anchor_point_ids` for logic; only for display
+- **Rollback**: revert code; both fields still present
+
+**Phase 4 — Stop writing legacy in new data**
+- All generators emit UID + v2 only; `anchor_point_ids` either dropped or auto-derived from UID at emit time
+- New deployed JSONs omit or dual-mirror legacy field
+- **Success criterion**: new question records don't carry legacy AP in their source record
+- **Rollback**: regenerator can re-emit legacy from UID lookup
+
+**Phase 5 — Drop legacy from storage**
+- Remove `anchor_point_ids TEXT[]` columns from DB (keep migration script for 1 release)
+- Remove legacy arrays from deployed JSONs
+- Clean up localStorage format; old cached state invalid
+- **Success criterion**: UID is the only anchor identifier in storage or transport
+- **Rollback**: last-resort restore from backups; by this phase legacy is archaeological
+
+**Parallel — `anchor_points.json` sequential-AP retirement**
+- Keep `id` field (the sequential AP) as a secondary label for backward reference
+- UID becomes the "natural key" for lookups inside the file
+- Optional: after Phase 5 on the DB side, rename `id` → `legacy_sequential_id` to make its deprecated status visible
+
+### Milestones / trigger criteria
+
+| Move from | Move to | When |
+|---|---|---|
+| Phase 1 | Phase 2 | Next engineering sprint dedicated to this work |
+| Phase 2 | Phase 3 | After 2 weeks of stable dual-write with no consumer errors |
+| Phase 3 | Phase 4 | After 30 days of UID-primary reads with zero fallback-to-legacy rate |
+| Phase 4 | Phase 5 | After 6 months of Phase 4, confirming no stale consumers remain |
+| Phase 5 | Done | Drop complete |
+
+### What stays forever
+
+- `uid` field — canonical PK
+- `anchor_point_id_v2` — human-readable
+- Bare IDs in source-of-truth files (txt, idx, schema) — historical record
+- `original_id` + `source_code` in anchor_points.json — traceability to PrepJet
+
+### What goes away
+
+- `anchor_point_id` (legacy AP) in mock exam CSV, fundamentals CSV, deployed JSONs, DB arrays, localStorage
+- `anchor_point_ids TEXT[]` DB columns
+- `original_anchor_point_ids` in enrichment CSV (redundant with UID)
+- `id` field's role as primary key in anchor_points.json (becomes label)
+
+### Ownership
+
+No owner assigned. Phases 2+ each need a responsible engineer + rollback plan before execution. This spec section is the authoritative plan; deviations must update this section.

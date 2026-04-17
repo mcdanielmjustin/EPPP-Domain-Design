@@ -90,6 +90,7 @@ Each anchor point has a unique identifier in brackets `[ID]` with two formats:
 - The **`uid`** field (e.g., `D1-LEA-009-f89cf513`) is the canonical unique identifier — always key on `uid`, not on the bare ID
 - A human-readable self-disambiguating form exists: **`anchor_point_id_v2`** — format `AP-D{n}-{SUBCODE}-{anchor_id}` (e.g., `AP-D1-LEA-009`). Mechanically derivable from the uid; used in the authored question CSVs (mock exam, enrichment, fundamentals) alongside the legacy `anchor_point_id` column
 - IDs allow **cross-referencing** back to source CSV (`eppp_exam_questions.csv`)
+- 📘 **Full identifier spec:** see `../ANCHOR_ID_SPEC.md` for canonical precedence, derivation rules, file-to-format matrix, and known gaps
 
 ---
 

@@ -129,6 +129,7 @@ These gaps are tracked, not blocking. Closing them is content-dependent and out 
 ## 8. Change log
 
 - **2026-04-16** (v1.0): Initial spec. Added `anchor_point_id_v2` to mock exam CSV, enrichment CSV, fundamentals CSV. Added `anchor_id_v2` column to `chapter_schema_v3.xlsx`. Added `id_v2` field to `JustinQuestionsDatabase-2.0/data/reference/anchor_points.json`.
+- **2026-04-16** (v1.1): Added §10 (new-question field template) and §11 (audit baseline). Added `uid` field to `anchor_points.json` so the file is self-sufficient for question generation.
 
 ---
 
@@ -138,3 +139,126 @@ These gaps are tracked, not blocking. Closing them is content-dependent and out 
 - `anchor_points_by_domain/anchor_uid_index.json` — canonical disambiguator
 - `DOMAIN_DESIGN_CONSTRAINTS.md` — upstream design rules
 - `FINAL_9_DOMAIN_STRUCTURE.md` — domain structure rationale
+
+---
+
+## 10. Generating new questions from content summaries
+
+When generating new EPPP questions grounded on anchor content, write **all four identifier fields** on every question record. This keeps existing consumers working (they read the legacy field) while making new work self-disambiguating.
+
+### Single-anchor question template
+
+```json
+{
+  "question_id": "QZ-BPSY-memory-basics-E-01",
+  "anchor_uid": "D1-LEA-009-f89cf513",
+  "anchor_point_id_v2": "AP-D1-LEA-009",
+  "anchor_point_id": "AP-D1-009",
+  "anchor_content_summary": "Stimulus generalization occurs when stimuli similar to the original conditioned stimulus elicit the conditioned response without ever being presented with the unconditioned stimulus.",
+  "question_stem": "...",
+  "options": [ {"letter":"A", "text":"...", "is_correct": true, "explanation":"..."}, ... ],
+  "difficulty_tier": 3,
+  "blooms_primary": "Apply"
+}
+```
+
+### Multi-anchor question template
+
+Use **plural array forms** and keep the arrays positionally aligned (index `i` of each array refers to the same anchor):
+
+```json
+{
+  "question_id": "QZ-BPSY-cross-concept-H-01",
+  "anchor_uids":              ["D1-LEA-009-f89cf513", "D1-LEA-02-1-03db119a"],
+  "anchor_point_ids_v2":      ["AP-D1-LEA-009",       "AP-D1-LEA-02-1"],
+  "anchor_point_ids":         ["AP-D1-009",           "AP-D1-02-1"],
+  "anchor_content_summaries": ["Stimulus generalization...", "Delay conditioning..."],
+  "question_stem": "..."
+}
+```
+
+### Field roles
+
+| Field | Role | Always write? |
+|---|---|---|
+| `anchor_uid` / `anchor_uids` | **Canonical primary key.** Use for joins, storage, analytics. | Yes |
+| `anchor_point_id_v2` / `anchor_point_ids_v2` | **Human-readable, self-disambiguating.** Use in prompts, docs, review notes. | Yes |
+| `anchor_point_id` / `anchor_point_ids` | **Legacy.** Keeps existing generator, deployed JSON, and Supabase paths working unchanged. | Yes, for compatibility |
+| `anchor_content_summary` / `anchor_content_summaries` | **Verbatim text.** Needed for prompt grounding + reviewer verification. | Yes |
+
+### Where to source the fields
+
+One lookup is enough: `JustinQuestionsDatabase-2.0/data/reference/anchor_points.json` (as of 2026-04-16) carries all six of these per entry:
+
+| JSON field | → Output field |
+|---|---|
+| `uid` | `anchor_uid` |
+| `id_v2` | `anchor_point_id_v2` |
+| `id` | `anchor_point_id` |
+| `text` | `anchor_content_summary` |
+
+Example lookup:
+```python
+anchor = next(a for a in anchor_points_json if a['uid'] == target_uid)
+row = {
+  'anchor_uid': anchor['uid'],
+  'anchor_point_id_v2': anchor['id_v2'],
+  'anchor_point_id': anchor['id'],
+  'anchor_content_summary': anchor['text'],
+}
+```
+
+### Verbiage in prompts / instructions to the model
+
+When asking a model to generate a question from an anchor, reference the anchor by **`anchor_point_id_v2`** in the prompt, not the bare ID. Example:
+
+> "Generate a Bloom's-Apply level EPPP question testing anchor `AP-D1-LEA-009`: *Stimulus generalization occurs when stimuli similar to the original conditioned stimulus elicit the conditioned response without ever being presented with the unconditioned stimulus.*"
+
+Do NOT write `AP-D1-009` alone in prompts — it's ambiguous (3 candidates in D1). The v2 form pins the exact anchor while remaining human-readable.
+
+### Existing pipeline compatibility
+
+`JustinQuestionsDatabase-2.0/scripts/generate_quiz_questions.py` and `batch_generate.py` currently emit `anchor_point_ids` (plural, array of bare IDs). Keep that field unchanged for those generators. The recommended pattern is strictly additive — add `anchor_uids` and `anchor_point_ids_v2` next to the existing field.
+
+---
+
+## 11. Cross-file consistency audit baseline (2026-04-16)
+
+Recorded for future regression detection. Anyone re-running the consistency check should expect at least these numbers; deviations signal drift that needs investigation.
+
+### v2 agreement across files (by `uid`)
+
+| File | uid→v2 entries |
+|---|---|
+| `chapter_schema_v3.xlsx` | 1,081 |
+| `mock_exam_questions.csv` | 1,558 |
+| `enrichment_all_questions.csv` | 1,534 |
+| Union of UIDs | **1,565** |
+| v2 mismatches on shared UIDs | **0** |
+
+### `anchor_points.json` ↔ chapter schema (by triple)
+
+| Check | Count |
+|---|---|
+| Matched triples | 1,194 |
+| id_v2 mismatches | **0** |
+| Proprietary (no schema triple, expected) | 454 |
+
+### `anchor_points.json` ↔ `anchor_uid_index.json` (by triple)
+
+| Check | Count |
+|---|---|
+| Distinct triples in ap | 1,486 |
+| Distinct triples in idx | 1,486 |
+| Triples in both | **1,486** |
+| Triples only in ap | 0 |
+| Triples only in idx | 0 |
+| Duplicate-triple entries in ap | 162 (162 extra occurrences across 75 groups) |
+| Duplicate-triple entries in idx | 81 (81 extra occurrences across 75 groups) |
+| Explanation of count delta | ap enumerates collision-group anchors with finer granularity than idx; both cover the same 1,486 canonical triples |
+
+### Known gaps that will count against future audits
+
+- 1,700 enrichment rows with no UID → blank v2 (expected)
+- 765 fundamentals ambiguous + 81 unresolved → blank v2 (expected)
+- 2 schema UIDs not in idx; 2 idx UIDs not in schema — schema/idx drift, noted but deferred

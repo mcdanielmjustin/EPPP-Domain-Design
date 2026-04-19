@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UID index for EPPP-Domain-Design anchor points. Disambiguates duplicate anchor IDs within the same subdomain.",
-    "total_anchors": 1567,
+    "total_anchors": 1570,
     "in_book_anchors": 1081,
     "within_subdomain_duplicates": 75,
     "duplicate_content_entries": 4,
@@ -14114,6 +14114,33 @@
       "in_book": true,
       "line_number": 447,
       "verbatim_start": "The research is not entirely consistent with regard to the association between the use of stimulant "
+    },
+    {
+      "domain_num": 3,
+      "subdomain_code": "PPA",
+      "anchor_id": "02-1",
+      "uid": "D3-PPA-02-1-298ce60f",
+      "in_book": false,
+      "line_number": null,
+      "verbatim_start": "The DSM-5 diagnosis of attention-deficit/hyperactivity disorder (ADHD) requires the onset of some symptoms before 12 years of age."
+    },
+    {
+      "domain_num": 6,
+      "subdomain_code": "ORG",
+      "anchor_id": "14-1",
+      "uid": "D6-ORG-14-1-9b33e6f6",
+      "in_book": false,
+      "line_number": null,
+      "verbatim_start": "Driver and Brousseau's career concept model distinguishes between four career concepts: linear, expert, spiral, and transitory."
+    },
+    {
+      "domain_num": 8,
+      "subdomain_code": "PPA",
+      "anchor_id": "18",
+      "uid": "D8-PPA-18-9b66ade2",
+      "in_book": false,
+      "line_number": null,
+      "verbatim_start": "Cognitive-behavioral therapy and interpersonal psychotherapy are evidence-based treatments for binge-eating disorder."
     }
   ]
 }

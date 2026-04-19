@@ -5,6 +5,19 @@
 
 ---
 
+## 0. TL;DR — the two-identifier rule
+
+For any new code, query, prompt, or record:
+
+- **`uid`** (`D1-LEA-009-f89cf513`) — the single canonical identifier. Use it for everything.
+- **`anchor_point_id_v2`** (`AP-D1-LEA-009`) — the human-readable display form, **derived** from `uid`. Safe to show users.
+
+Every other identifier (`anchor_point_id`, `anchor_id`, `anchor_point_ids[]`, sequential AP) is a **legacy format** kept alive only because the live PassEPPP-website textbook, Supabase arrays, deployed JSONs, and localStorage still read it. **Preserve legacy values; never author new ones.**
+
+§§1–12 below document all five historical forms so you can recognize them in existing data. They are NOT a menu of choices for new work.
+
+---
+
 ## 1. The four identifier forms
 
 Each anchor point has up to four identifiers in active use. They are **not interchangeable**.

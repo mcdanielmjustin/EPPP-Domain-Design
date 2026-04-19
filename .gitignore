@@ -10,3 +10,7 @@ Thumbs.db
 # Temp files
 *.tmp
 *.bak
+
+# Rewrite / cascade backups — local-only evidence, never commit
+*.backup_*
+*.backup*
